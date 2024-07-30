@@ -58,7 +58,16 @@ body <- dashboardBody(
                           width="75%",
                           align="center",
                           style  = "max-width:80%; text-align: center;display: block; margin-left: auto; margin-right: auto;"),
-                 includeMarkdown("text/welcome.md"))
+                 includeMarkdown("text/welcome.md")),
+             box(width = 12,
+                 title = tagList(icon("tint"), 
+                                 strong("Dashboard Usage")),
+                 tags$img(src ="shinydashboard/www/vernal-draft-map.jpg",
+                          height="75%",
+                          width="75%",
+                          align="center",
+                          style  = "max-width:80%; text-align: center;display: block; margin-left: auto; margin-right: auto;"),
+                 includeMarkdown("text/usage.md"))
              )
     ),
   
@@ -67,7 +76,37 @@ body <- dashboardBody(
           
           fluidRow( #vernal dashboard button customization
             box(width = 12,
-                title = strong("Vernal Pool Interactive Map"))
+                title = strong("Vernal Pool Interactive Map"),
+                fluidRow(
+                  column(width = 4,
+                         selectizeInput("pool_id_select", "Select Pool ID(s):",
+                                        choices = unique(vernal_polygon$Pool_ID),
+                                        multiple = TRUE)
+                  ),
+                  column(width = 4,
+                         selectizeInput("location_select", "Select Location(s):",
+                                        choices = unique(vernal_polygon$Location),
+                                        multiple = TRUE)
+                  ),
+                  column(width = 4,
+                         selectizeInput("pool_size_select", "Select Pool Size(Acres):",
+                                        choices = c("All", "Greater than 1", "Less than or equal to 1"),
+                                        selected = "All")
+                  )
+                ),
+                fluidRow(
+                  column(width = 6,
+                         selectizeInput("month_select", "Select Month(s):",
+                                        choices = month.name,  # grabs month names
+                                        multiple = TRUE)
+                  ),
+                  column(width = 6,
+                         selectizeInput("year_select", "Select Year(s):",
+                                        choices = 2019:2020,  # just these two years
+                                        multiple = TRUE)
+                  )
+                )
+            )
           ),
          
           fluidRow( #leaflet map output
@@ -82,9 +121,15 @@ body <- dashboardBody(
   
   # START DATAVIZ TAB PAGE 
   tabItem(tabName = "dataviz",
-          fluidRow(
+          fluidRow( #dataviz button customization
             box(width = 12,
-                plotOutput("graph"))
+                title = strong("Vernal Pool Calculations"),
+                fluidRow(
+                  column(width = 4,
+                         selectizeInput("species_select", "Select Species:",
+                                        choices = c("species 1", "species 2"),
+                                        multiple = TRUE))
+                ))
           )
           )
   

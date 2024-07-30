@@ -9,12 +9,14 @@ Welcome to the Santa Barbara Vernal Pool dashboard. The purpose of this dashboar
 
 ### Background
 
+
 The Vernal pools in the Santa Barbara Region emcompasses approximately 70 Vernal Pools. These Pools are mostly located in the Goleta area, West from UC Santa Barbara Campus. One other Vernal pool is located in the Mesa area between Goleta and Santa Barbara. The range of information provided by each vernal pool consists of:
 
-  - Pool Depth (m)
-  - Pool Area
-  - Pool Circumference
-  - Acres
-  - Site Area
-  - Water Height ()
+  - Pool Depth (cm)
+  - Pool Area (m)
+  - Pool Circumference(ft)
+  - Site Area(m)
+  - month and year
   
+Month and year are of high interest, as there are three phases for vernal pools. However our data only fully covers the year 2019 and a portion of 2020.
+

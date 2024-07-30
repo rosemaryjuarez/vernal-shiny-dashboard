@@ -20,41 +20,30 @@ server <- function(input, output, session) {
                   weight = 1,
                   layerId = ~Pool_ID,
                   popup = ~paste0("Pool ID: ", Pool_ID, "<br>",
+                                  "Area: ", Acres, "<br>",
                                   "<a href='#' onclick='Shiny.setInputValue(\"selected_pool\", \"", Pool_ID, "\")'>View Data</a>")
       )
   })
   
   #============== Simple Leaflet Plot for Data END ==================
   
-  #------------------
-  #       observe event
-  # -----------------
-  observeEvent(input$selected_pool, {
-    selected_data <- vernal_polygon[vernal_polygon$Pool_ID == input$selected_pool, ]
-    selected_polygon(selected_data)
-    
-    # Automatically switch to the dataviz tab
-    updateTabItems(session, "sidebarMenu", "dataviz")
+  filtered_pools <- reactive({ ## conditional statemnent for pool area
+    if (input$pool_size_select == "All") {
+      vernal_polygon
+    } else if (input$pool_size_select == "Greater than 1") {
+      vernal_polygon %>% filter(Acres > 1)
+    } else {
+      vernal_polygon %>% filter(Acres <= 1)
+    }
   })
+
   
   
-  observeEvent(input$active_tab, {
-    updateTabItems(session, "sidebarMenu", input$active_tab)
-  })
-  
-  
-  #------------------
-  #       graph
-  # -----------------
-  
-  output$graph <- renderPlot({
-    req(selected_polygon())
-    data <- selected_polygon()
-    
-    ggplot(data, aes(x = Location, y = Acres)) +
-      geom_point() +
-      theme_minimal() +
-      ggtitle(paste("Data for Pool ID:", data$Pool_ID))
+  # Update the pool_id_select choices based on the filtered data
+  observe({
+    updateSelectizeInput(session, "pool_id_select",
+                         choices = unique(filtered_pools()$Pool_ID),
+                         selected = character(0))
   })
   
   
