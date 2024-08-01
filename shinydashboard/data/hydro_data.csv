@@ -1,0 +1,1022 @@
+object_id,global_id,date,location,unlisted_location,monitor_name,pool_id,water_level_in,optional_comments,x,y,location_pool_id
+103,34f862e9-fa9a-441f-8264-667a384c9637,1/14/19 0:00,delsol_caminocorto,NA,Joanna Tang,2,5.75,NA,0,0,delsol_caminocorto_2
+113,f3acf4b9-6674-4201-a4eb-926ab450013b,1/31/19 8:00,delsol_caminocorto,NA,Joanna Tang,2,10.5,NA,-119.866562,34.41593543,delsol_caminocorto_2
+203,ad1ea882-0ed1-46f4-81f1-a31813d18a4d,2/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,2,11,NA,-119.8666732,34.41720939,delsol_caminocorto_2
+281,ebf03bbd-a2bb-4b7b-9a84-66475ec30bb6,2/14/19 8:00,delsol_caminocorto,NA,Joanna Tang,2,12,NA,-119.8623809,34.41779351,delsol_caminocorto_2
+362,867c3457-db08-41bc-8f20-2fea4a4c3116,2/21/19 8:00,delsol_caminocorto,NA,Joanna Tang,2,10.75,NA,-119.8665767,34.41623022,delsol_caminocorto_2
+427,f54dee46-a39b-403b-89d1-13e3b3b5a399,2/28/19 8:00,delsol_caminocorto,NA,Joanna Tang,2,10.5,NA,-119.8666312,34.41608499,delsol_caminocorto_2
+501,28c903d9-2e06-4495-ab01-6de4d9a0a136,3/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,2,12,NA,-119.8668912,34.41607845,delsol_caminocorto_2
+569,e399a812-84e3-439a-93a9-61df886997aa,3/14/19 7:00,delsol_caminocorto,NA,Joanna Tang,2,10.5,NA,-119.8667015,34.41631793,delsol_caminocorto_2
+633,89f67c78-017a-4dc9-b28a-fc0d84487154,3/22/19 7:00,delsol_caminocorto,NA,Joanna Tang,2,9,NA,-119.8667001,34.41595717,delsol_caminocorto_2
+741,9da8b540-3cef-4b07-a211-a65788f874f1,4/1/19 7:00,delsol_caminocorto,NA,Joanna Tang,2,6.5,NA,-119.86683910000001,34.41592646,delsol_caminocorto_2
+818,7a009a02-c18a-488f-a832-dc0faeb78feb,4/9/19 7:00,delsol_caminocorto,NA,Joanna Tang,2,2.5,NA,-119.866882,34.41597503,delsol_caminocorto_2
+900,ab5298fb-730a-4df3-8045-f7c055d7676e,4/16/19 7:00,delsol_caminocorto,NA,Joanna Tang,2,0,NA,-119.8667637,34.4160781,delsol_caminocorto_2
+105,70b0cf10-ecf7-40d8-83e3-bfa133c22e38,1/14/19 0:00,delsol_caminocorto,NA,Joanna Tang,3,5.25,NA,0,0,delsol_caminocorto_3
+112,529fb56e-95b8-4bfa-b419-0ef8dabf911f,1/31/19 8:00,delsol_caminocorto,NA,Joanna Tang,3,8.25,NA,-119.8678936,34.41645516,delsol_caminocorto_3
+202,ccdea7e8-03cd-4fb7-bfe9-d4f9043c4b2e,2/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,3,11.5,NA,-119.8658682,34.41715404,delsol_caminocorto_3
+277,afbb7d5f-bfe7-4059-bd04-38ffdcb49454,2/14/19 8:00,delsol_caminocorto,NA,Joanna Tang,3,13.5,NA,-119.8671929,34.41498219,delsol_caminocorto_3
+358,80ee4840-7035-4f47-89ff-8839f29360d2,2/21/19 8:00,delsol_caminocorto,NA,Joanna Tang,3,10,NA,-119.8670061,34.41509543,delsol_caminocorto_3
+423,991a85bd-2e21-46b5-ae5d-f0994b81ba86,2/28/19 8:00,delsol_caminocorto,NA,Joanna Tang,3,8.75,NA,-119.8665069,34.41480777,delsol_caminocorto_3
+497,44f91daf-6efd-4db7-8f9e-41d56f3147e7,3/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,3,14,NA,-119.8665448,34.41511541,delsol_caminocorto_3
+566,1da6617a-dff1-4400-8b3d-c80bc33d088c,3/14/19 7:00,delsol_caminocorto,NA,Joanna Tang,3,8.75,NA,-119.8676206,34.41440482,delsol_caminocorto_3
+629,6b58bff6-6b8c-45d3-abc6-e847f7e048f5,3/22/19 7:00,delsol_caminocorto,NA,Joanna Tang,3,6.25,NA,-119.8673157,34.41501919,delsol_caminocorto_3
+737,9625961c-4f68-4ca9-afa3-e8b32fab99c2,4/1/19 7:00,delsol_caminocorto,NA,Joanna Tang,3,2,NA,-119.8671999,34.41508853,delsol_caminocorto_3
+814,a3788586-177e-410a-ad10-eea27f4ca369,4/9/19 7:00,delsol_caminocorto,NA,Joanna Tang,3,0,NA,-119.8670115,34.41479996,delsol_caminocorto_3
+106,573a0755-4a56-406b-82bd-e4ad72189430,1/14/19 0:00,delsol_caminocorto,NA,Joanna Tang,4,4,NA,0,0,delsol_caminocorto_4
+110,31eedcc6-235d-4e83-b9b8-cde03f354d3f,1/31/19 8:00,delsol_caminocorto,NA,Joanna Tang,4,6.5,NA,-119.8654602,34.41554059,delsol_caminocorto_4
+200,3c06e7bf-bd29-4ad7-88e0-5cfce5eda6e5,2/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,4,13.25,NA,-119.8673282,34.41483156,delsol_caminocorto_4
+280,550e091d-841a-4c29-a79e-0ff97448960c,2/14/19 8:00,delsol_caminocorto,NA,Joanna Tang,4,14.5,NA,-119.8674973,34.41588232,delsol_caminocorto_4
+361,ae01b955-6348-4255-a877-ece2e869c096,2/21/19 8:00,delsol_caminocorto,NA,Joanna Tang,4,12.5,NA,-119.8678646,34.41558878,delsol_caminocorto_4
+426,6453f732-c61b-42c1-8d60-2da349db3d63,2/28/19 8:00,delsol_caminocorto,NA,Joanna Tang,4,12,NA,-119.8677986,34.41550035,delsol_caminocorto_4
+500,fe110e52-d6e0-4a76-a813-7e1cfcb553b5,3/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,4,16,NA,-119.8678423,34.41551817,delsol_caminocorto_4
+568,3a88d80f-e724-4c0c-875d-e9d3b2c3b146,3/14/19 7:00,delsol_caminocorto,NA,Joanna Tang,4,13,NA,-119.8672923,34.41566661,delsol_caminocorto_4
+632,fe0efe5b-8994-4ba0-b549-5888e162398c,3/22/19 7:00,delsol_caminocorto,NA,Joanna Tang,4,10,NA,-119.8654546,34.4167895,delsol_caminocorto_4
+740,ebf9f634-6179-4c21-b9e5-ce13ab0a26bb,4/1/19 7:00,delsol_caminocorto,NA,Joanna Tang,4,5.5,NA,-119.8677303,34.41583177,delsol_caminocorto_4
+817,3b9e7054-60f7-4cd5-8d77-aadd60fa81e4,4/9/19 7:00,delsol_caminocorto,NA,Joanna Tang,4,0,NA,-119.8677916,34.41585661,delsol_caminocorto_4
+107,8d674149-f9bd-41fd-884a-1d85cf732854,1/14/19 0:00,delsol_caminocorto,NA,Joanna Tang,5,4,NA,0,0,delsol_caminocorto_5
+109,e6bc4faf-39de-4e5f-9a70-5b7a66b2fc2b,1/31/19 8:00,delsol_caminocorto,NA,Joanna Tang,5,6.75,NA,-119.868039,34.41470424,delsol_caminocorto_5
+199,441e8e19-8dc6-4042-aac3-b712160d289a,2/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,5,9,NA,-119.8627105,34.41637685,delsol_caminocorto_5
+279,1ef16637-54b5-4efa-b3cc-22a00331f98a,2/14/19 8:00,delsol_caminocorto,NA,Joanna Tang,5,10,NA,-119.867992,34.41460341,delsol_caminocorto_5
+360,b9264a71-1b12-48da-b062-ad2ec50436a5,2/21/19 8:00,delsol_caminocorto,NA,Joanna Tang,5,7.75,NA,-119.8679332,34.41461502,delsol_caminocorto_5
+425,e25cc032-ac89-4a67-81e5-0a040a356e6f,2/28/19 8:00,delsol_caminocorto,NA,Joanna Tang,5,7.75,NA,-119.8679997,34.41465445,delsol_caminocorto_5
+499,249d38d2-f094-41f3-8391-99203df3fbe8,3/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,5,10.5,NA,-119.8681886,34.41457415,delsol_caminocorto_5
+567,795dd9df-d763-4011-9701-15ddacfdd00d,3/14/19 7:00,delsol_caminocorto,NA,Joanna Tang,5,8,NA,-119.8680635,34.41462449,delsol_caminocorto_5
+631,34956238-18c5-4112-97c4-05d42a4b2d01,3/22/19 7:00,delsol_caminocorto,NA,Joanna Tang,5,5.5,NA,-119.8674918,34.41478335,delsol_caminocorto_5
+739,f67f7986-37a1-409c-ab68-91d86876a98f,4/1/19 7:00,delsol_caminocorto,NA,Joanna Tang,5,2.5,NA,-119.8678867,34.41466816,delsol_caminocorto_5
+816,42e20514-0be8-4769-90e4-55c65a2dd280,4/9/19 7:00,delsol_caminocorto,NA,Joanna Tang,5,0,NA,-119.8680424,34.41464418,delsol_caminocorto_5
+102,4d9de2e2-b94e-4d38-8bbe-d480bf3b1a9e,1/14/19 0:00,delsol_caminocorto,NA,Joanna Tang,6,5,NA,0,0,delsol_caminocorto_6
+114,1dfee344-5b6f-4155-bb2e-f46665c53085,1/31/19 8:00,delsol_caminocorto,NA,Joanna Tang,6,9,NA,-119.8663602,34.41580135,delsol_caminocorto_6
+204,7b6387e9-608b-4d7e-98e4-f2088d5e3543,2/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,6,11.5,NA,-119.8656737,34.41503734,delsol_caminocorto_6
+282,e5272d84-6145-4078-af25-53e96914dfeb,2/14/19 8:00,delsol_caminocorto,NA,Joanna Tang,6,12.5,NA,-119.8664312,34.41584376,delsol_caminocorto_6
+363,a0155305-ff41-4755-8ba9-d43847bbfd6b,2/21/19 8:00,delsol_caminocorto,NA,Joanna Tang,6,11.5,NA,-119.8645365,34.41156535,delsol_caminocorto_6
+421,f503e0cb-aad1-4640-a75d-5460221b1931,2/28/19 8:00,delsol_caminocorto,NA,Joanna Tang,6,11.75,NA,-119.8658308,34.41551563,delsol_caminocorto_6
+502,27aa63a3-24e7-472e-99d6-0d742ec679c1,3/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,6,13.5,NA,-119.8657011,34.41557999,delsol_caminocorto_6
+570,b769bea4-8cdf-4782-a917-db62d8c9441a,3/14/19 7:00,delsol_caminocorto,NA,Joanna Tang,6,11.5,NA,-119.8665136,34.41654232,delsol_caminocorto_6
+634,afeda87b-5bad-452f-aabe-88567a2a6fa2,3/22/19 7:00,delsol_caminocorto,NA,Joanna Tang,6,10.5,NA,-119.8657577,34.41612314,delsol_caminocorto_6
+819,f96af6aa-e559-443d-9944-aee15e3a7222,4/9/19 7:00,delsol_caminocorto,NA,Joanna Tang,6,6,NA,-119.866383,34.41577081,delsol_caminocorto_6
+901,8c8d1d28-c57f-4464-bb90-ca9e96a4dfcf,4/16/19 7:00,delsol_caminocorto,NA,Joanna Tang,6,3.25,NA,-119.8663206,34.41580009,delsol_caminocorto_6
+943,639df148-8897-4b27-b449-2894147dc2f2,4/23/19 7:00,delsol_caminocorto,NA,Joanna Tang,6,0,NA,-119.8664341,34.41574292,delsol_caminocorto_6
+101,54d18636-e6f0-47b7-83be-ffb88b754eab,1/14/19 0:00,delsol_caminocorto,NA,Joanna Tang,7,6,NA,0,0,delsol_caminocorto_7
+108,fc70e2d3-980b-414c-af10-8f1d89d60219,1/31/19 8:00,delsol_caminocorto,NA,Joanna Tang,7,9,NA,-119.8680424,34.4142647,delsol_caminocorto_7
+198,331cfd0d-6cab-4b18-9ec6-a7332d6f765d,2/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,7,10.25,NA,-119.8684168,34.41442739,delsol_caminocorto_7
+276,961174f3-0d39-435e-bd76-46574af91f73,2/14/19 8:00,delsol_caminocorto,NA,Joanna Tang,7,11.5,NA,-119.8672985,34.4152269,delsol_caminocorto_7
+357,c37c7afa-2532-4e00-a307-e60cfd4526fe,2/21/19 8:00,delsol_caminocorto,NA,Joanna Tang,7,9.75,NA,-119.8674321,34.41496525,delsol_caminocorto_7
+422,fb77166d-1f9c-4eef-a689-bc992bd26a84,2/28/19 8:00,delsol_caminocorto,NA,Joanna Tang,7,9.75,NA,-119.8673802,34.41528544,delsol_caminocorto_7
+496,905dc45e-bb1c-4ae4-8e01-b7fcf1b03280,3/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,7,11.25,NA,-119.8673156,34.41519324,delsol_caminocorto_7
+564,3d29892b-91d3-446d-ae0e-6ca6ec398553,3/14/19 7:00,delsol_caminocorto,NA,Joanna Tang,7,9.25,NA,-119.8672162,34.41513411,delsol_caminocorto_7
+628,2cc4af17-61b3-4e1a-bad6-0bec0e37ca83,3/22/19 7:00,delsol_caminocorto,NA,Joanna Tang,7,7.25,NA,-119.8668603,34.41527624,delsol_caminocorto_7
+736,15992350-0430-4b78-a768-96447e04c097,4/1/19 7:00,delsol_caminocorto,NA,Joanna Tang,7,5,NA,-119.8672199,34.41523525,delsol_caminocorto_7
+742,f2a11619-903d-44dd-a98d-0239a32b98bc,4/1/19 7:00,delsol_caminocorto,NA,Joanna Tang,7,8,NA,-119.8662812,34.41573735,delsol_caminocorto_7
+813,adc57348-6983-4dda-8db8-840397c70625,4/9/19 7:00,delsol_caminocorto,NA,Joanna Tang,7,1.5,NA,-119.867412,34.41514526,delsol_caminocorto_7
+895,dda8e0d1-eb3f-490a-bd6b-1f2c94efa543,4/16/19 7:00,delsol_caminocorto,NA,Joanna Tang,7,0,NA,-119.8673376,34.41516416,delsol_caminocorto_7
+104,0c39f7d0-afc8-4feb-8d4b-7babe7aeb0d8,1/14/19 0:00,delsol_caminocorto,NA,Joanna Tang,8,2.75,NA,0,0,delsol_caminocorto_8
+1044,c40eacea-f450-4ed2-8007-0663a8a006b2,1/26/19 0:00,delsol_caminocorto,NA,Joanna Tang,8,0,NA,0,0,delsol_caminocorto_8
+111,8a84e152-3212-453f-be9a-6b373c7c0508,1/31/19 8:00,delsol_caminocorto,NA,Joanna Tang,8,5.25,NA,-119.8674369,34.41530619,delsol_caminocorto_8
+201,7301e659-57bc-42d7-b7ee-a302bfbd7d3a,2/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,8,9.5,NA,-119.8672994,34.41518524,delsol_caminocorto_8
+278,3131a816-ffdc-4eab-9cc7-ad537c3d7ee6,2/14/19 8:00,delsol_caminocorto,NA,Joanna Tang,8,11.25,NA,-119.8683918,34.4150001,delsol_caminocorto_8
+359,bad1ce3f-39e1-4f64-8a7c-7b918c870a04,2/21/19 8:00,delsol_caminocorto,NA,Joanna Tang,8,7.5,NA,-119.8681605,34.41441008,delsol_caminocorto_8
+424,66358ba3-a789-4a3d-a118-bae58b8389fb,2/28/19 8:00,delsol_caminocorto,NA,Joanna Tang,8,6.25,NA,-119.867868,34.41537523,delsol_caminocorto_8
+498,330b4c69-1871-4c3b-a575-d541ecb6cfa1,3/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,8,12.75,NA,-119.8681729,34.41437894,delsol_caminocorto_8
+565,2cefa18f-18e8-4e53-8fad-8a6d41ab3ed8,3/14/19 7:00,delsol_caminocorto,NA,Joanna Tang,8,9.75,NA,-119.8667179,34.41484187,delsol_caminocorto_8
+630,bde9977d-bc73-49bf-929c-151fdc1cd183,3/22/19 7:00,delsol_caminocorto,NA,Joanna Tang,8,3.75,NA,-119.8682266,34.41433129,delsol_caminocorto_8
+738,a626fec6-8743-4c15-a8dd-92fc2ed5b64d,4/1/19 7:00,delsol_caminocorto,NA,Joanna Tang,8,0,NA,-119.8682622,34.41426603,delsol_caminocorto_8
+124,e9fb7a1c-2078-45b3-afe7-967ab2901f75,1/31/19 8:00,delsol_caminocorto,NA,Joanna Tang,V,5,NA,-119.863889,34.4183488,delsol_caminocorto_V
+98,3a788aaf-1aae-43c4-8578-7196c5a3d842,1/14/19 0:00,delsol_caminocorto,NA,Joanna Tang,E,4.75,NA,0,0,delsol_caminocorto_E
+123,f2a7217f-ab4d-4255-829c-f6f3f2aa6f50,1/31/19 8:00,delsol_caminocorto,NA,Joanna Tang,E,7.75,NA,-119.8659524,34.41503666,delsol_caminocorto_E
+213,8ff286e1-5c8c-433f-b419-8c197bb2d78d,2/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,E,12,NA,-119.8660274,34.41509438,delsol_caminocorto_E
+289,5bfff08e-a4da-4fda-be2d-32261e77fc4d,2/14/19 8:00,delsol_caminocorto,NA,Joanna Tang,E,11,NA,-119.8641595,34.41538665,delsol_caminocorto_E
+291,3bfec071-cec3-42f7-962d-fee371671124,2/14/19 8:00,delsol_caminocorto,NA,Joanna Tang,E,12.75,NA,-119.8659461,34.41613411,delsol_caminocorto_E
+370,f8e61597-8227-412d-8c31-0e4353f813ad,2/21/19 8:00,delsol_caminocorto,NA,Joanna Tang,E,9.25,NA,-119.8655199,34.41692552,delsol_caminocorto_E
+372,2667831d-6640-4b42-b17e-62f94ad4bcbe,2/21/19 8:00,delsol_caminocorto,NA,Joanna Tang,E,11.5,NA,-119.8657185,34.41508679,delsol_caminocorto_E
+436,7183a2b4-5d19-4fa8-877a-91c450eeeb82,2/28/19 8:00,delsol_caminocorto,NA,Joanna Tang,E,11.25,NA,-119.8663429,34.4147033,delsol_caminocorto_E
+508,316111a9-d302-423f-aa28-d595994b17a1,3/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,E,15.5,NA,-119.864314,34.41667329,delsol_caminocorto_E
+576,dad2ef1b-15b3-49dd-90ca-2849b136fea8,3/14/19 7:00,delsol_caminocorto,NA,Joanna Tang,E,12.5,NA,-119.8647273,34.4161735,delsol_caminocorto_E
+643,a99cdda2-df54-47a8-af26-706f63bd6333,3/22/19 7:00,delsol_caminocorto,NA,Joanna Tang,E,11,NA,-119.8659049,34.41516399,delsol_caminocorto_E
+751,5842c110-d09a-4909-a865-533a7ae1fc7a,4/1/19 7:00,delsol_caminocorto,NA,Joanna Tang,E,8,NA,-119.8661499,34.41525318,delsol_caminocorto_E
+828,e3e77bdd-7f89-4a74-a364-23eaceb37d3d,4/9/19 7:00,delsol_caminocorto,NA,Joanna Tang,E,5.25,NA,-119.865833,34.41523376,delsol_caminocorto_E
+910,ca26ea49-531f-4d26-8b23-e62b7111a303,4/16/19 7:00,delsol_caminocorto,NA,Joanna Tang,E,1.5,NA,-119.8658402,34.4153298,delsol_caminocorto_E
+952,343797c8-404c-4d00-9c5d-f0370c08d422,4/23/19 7:00,delsol_caminocorto,NA,Joanna Tang,E,0,NA,-119.8658113,34.41546749,delsol_caminocorto_E
+96,18452d01-8f42-42ea-853b-b133f21a7ccf,1/14/19 0:00,delsol_caminocorto,NA,Joanna Tang,F,2.75,NA,0,0,delsol_caminocorto_F
+122,46ffa203-572c-4604-832c-0161e980ce2e,1/31/19 8:00,delsol_caminocorto,NA,Joanna Tang,F,7.5,NA,-119.8617011,34.41806051,delsol_caminocorto_F
+211,a44ba406-20df-484f-b732-57f44b657054,2/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,F,10,NA,-119.8653356,34.4162826,delsol_caminocorto_F
+434,39b905d3-2c6a-4500-933c-8ab84aa3c57c,2/28/19 8:00,delsol_caminocorto,NA,Joanna Tang,F,9.5,NA,-119.8656441,34.41586322,delsol_caminocorto_F
+507,9fbe3a7a-1242-487c-a1dc-b3db89f8739c,3/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,F,13.5,NA,-119.8654216,34.41588919,delsol_caminocorto_F
+575,037e4a57-e8c6-460f-bd53-c1f7dae3bb67,3/14/19 7:00,delsol_caminocorto,NA,Joanna Tang,F,10.5,NA,-119.8642898,34.41666683,delsol_caminocorto_F
+641,6c6e3f12-f507-4de3-97ac-ad82daf2568a,3/22/19 7:00,delsol_caminocorto,NA,Joanna Tang,F,8.75,NA,-119.8654719,34.41608923,delsol_caminocorto_F
+749,02125159-ffb7-4394-8107-43821c98234e,4/1/19 7:00,delsol_caminocorto,NA,Joanna Tang,F,5.75,NA,-119.8652778,34.41617175,delsol_caminocorto_F
+827,064bd96e-8235-4b53-9cb8-bedcd11c567b,4/9/19 7:00,delsol_caminocorto,NA,Joanna Tang,F,0,NA,-119.8651958,34.4159605,delsol_caminocorto_F
+94,43125945-f1c8-4310-8f67-1e88342f783a,1/14/19 0:00,delsol_caminocorto,NA,Joanna Tang,G,4.5,NA,0,0,delsol_caminocorto_G
+117,0546d6d4-bb5a-43d4-a74f-e5ada5a2c8da,1/31/19 8:00,delsol_caminocorto,NA,Joanna Tang,G,8.25,NA,-119.8652517,34.41700328,delsol_caminocorto_G
+207,a8e330b8-b2b3-4ce9-be84-96490e88b757,2/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,G,10,NA,-119.8652883,34.41689723,delsol_caminocorto_G
+285,baef19df-6e47-40b6-a3df-f1253a378954,2/14/19 8:00,delsol_caminocorto,NA,Joanna Tang,G,11.25,NA,-119.8657428,34.41669121,delsol_caminocorto_G
+366,3ef62ad0-435a-4ffb-9c28-71eec69069c5,2/21/19 8:00,delsol_caminocorto,NA,Joanna Tang,G,10,NA,-119.8645187,34.41648105,delsol_caminocorto_G
+430,8ff5ff9a-5f2a-4058-8a08-288a0d35450f,2/28/19 8:00,delsol_caminocorto,NA,Joanna Tang,G,10,NA,-119.8658521,34.41660446,delsol_caminocorto_G
+503,cf0e4c5b-f47f-4ff6-abf7-5fd7ff7e084d,3/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,G,15.25,NA,-119.8652032,34.41572949,delsol_caminocorto_G
+571,c2ccdd14-4b13-4b29-a3ca-5a5e482049a3,3/14/19 7:00,delsol_caminocorto,NA,Joanna Tang,G,11.75,NA,-119.8655076,34.41692505,delsol_caminocorto_G
+637,03dd4b5f-e227-493b-a138-5389c56425eb,3/22/19 7:00,delsol_caminocorto,NA,Joanna Tang,G,9.25,NA,-119.8652776,34.41689498,delsol_caminocorto_G
+745,49dfc90c-f064-462e-95db-e5a45d260fc2,4/1/19 7:00,delsol_caminocorto,NA,Joanna Tang,G,6,NA,-119.8654769,34.41677703,delsol_caminocorto_G
+822,5e86ee74-260d-44d9-b6f2-05ae66a811da,4/9/19 7:00,delsol_caminocorto,NA,Joanna Tang,G,2,NA,-119.8653948,34.41678539,delsol_caminocorto_G
+904,ef3bf144-aa27-4d70-ba49-c5e2918bf298,4/16/19 7:00,delsol_caminocorto,NA,Joanna Tang,G,0,NA,-119.8653907,34.41681884,delsol_caminocorto_G
+99,82d27b66-c604-421d-81d2-35f0582e3cae,1/14/19 0:00,delsol_caminocorto,NA,Joanna Tang,H,2.5,NA,0,0,delsol_caminocorto_H
+119,394ffc7e-a7ff-4524-a950-3d9e5b9973f2,1/31/19 8:00,delsol_caminocorto,NA,Joanna Tang,H,9.5,NA,-119.8646176,34.41652947,delsol_caminocorto_H
+209,b96b490a-4bd2-4c07-96fe-e168e07991e5,2/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,H,13.75,NA,-119.865302,34.41670416,delsol_caminocorto_H
+287,e1c4fdfe-6076-4ec6-ba15-1fe117c63269,2/14/19 8:00,delsol_caminocorto,NA,Joanna Tang,H,15,NA,-119.864721,34.41634705,delsol_caminocorto_H
+368,af8e5a61-47cd-4b53-aac7-77d81d4dd8b5,2/21/19 8:00,delsol_caminocorto,NA,Joanna Tang,H,12.25,NA,-119.8650926,34.41623857,delsol_caminocorto_H
+432,00c6bf5b-6239-4d39-aeed-82fc424938bd,2/28/19 8:00,delsol_caminocorto,NA,Joanna Tang,H,13.75,NA,-119.8647466,34.41662569,delsol_caminocorto_H
+505,82b174b1-e381-44c4-a262-b3fef4b1e4a9,3/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,H,15.5,NA,-119.8652534,34.41654809,delsol_caminocorto_H
+573,b737f51a-87a6-440c-ac8c-3532b27d3146,3/14/19 7:00,delsol_caminocorto,NA,Joanna Tang,H,12.75,NA,-119.8651221,34.41659394,delsol_caminocorto_H
+639,058b4f24-a67a-4da7-94e6-040fc86d6a9d,3/22/19 7:00,delsol_caminocorto,NA,Joanna Tang,H,8.75,NA,-119.8653079,34.41617828,delsol_caminocorto_H
+747,b6a6dd70-b1be-4c62-9fd4-8b77b17a72e8,4/1/19 7:00,delsol_caminocorto,NA,Joanna Tang,H,1.25,NA,-119.8649753,34.41638849,delsol_caminocorto_H
+824,d2eb1d02-b21e-48cd-b2af-8de834a74361,4/9/19 7:00,delsol_caminocorto,NA,Joanna Tang,H,0,NA,-119.8650335,34.41650193,delsol_caminocorto_H
+100,78c1e636-bb19-4954-8f5e-3a4e48e3eb8f,1/14/19 0:00,delsol_caminocorto,NA,Joanna Tang,M,5,NA,0,0,delsol_caminocorto_M
+118,9767fdda-3c38-4514-b614-10567c4efa06,1/31/19 8:00,delsol_caminocorto,NA,Joanna Tang,M,9.5,NA,-119.8648459,34.41708913,delsol_caminocorto_M
+208,3b29f470-93d1-43ae-9a00-c6710ae4c34a,2/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,M,12.75,NA,-119.8652258,34.41688878,delsol_caminocorto_M
+286,3521dd75-2a72-4f77-a360-8260553e1c7e,2/14/19 8:00,delsol_caminocorto,NA,Joanna Tang,M,14.25,NA,-119.8647478,34.41695943,delsol_caminocorto_M
+367,324cbc59-888e-4c01-8fad-b46e95aa050e,2/21/19 8:00,delsol_caminocorto,NA,Joanna Tang,M,11.25,NA,-119.8647809,34.41695315,delsol_caminocorto_M
+431,0cd7da5e-99c6-4cc9-80c7-585b29a53cf1,2/28/19 8:00,delsol_caminocorto,NA,Joanna Tang,M,11,NA,-119.8651206,34.41680022,delsol_caminocorto_M
+504,14b0b513-9b94-4b76-8d28-db51f89df267,3/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,M,13.75,NA,-119.8651936,34.41671296,delsol_caminocorto_M
+572,88885e81-f01d-42d5-b473-f7d68c4e26fb,3/14/19 7:00,delsol_caminocorto,NA,Joanna Tang,M,10.5,NA,-119.8645133,34.41710525,delsol_caminocorto_M
+638,4d502d8e-c19e-4f96-85d7-0bbcefe35ba4,3/22/19 7:00,delsol_caminocorto,NA,Joanna Tang,M,6,NA,-119.8649414,34.41686623,delsol_caminocorto_M
+746,01ab7436-2ab8-4ff1-a022-48497b9e0a8b,4/1/19 7:00,delsol_caminocorto,NA,Joanna Tang,M,0,NA,-119.8650933,34.41688136,delsol_caminocorto_M
+90,6f9aef3c-be65-4f87-8f66-710b54e4eee4,1/14/19 0:00,delsol_caminocorto,NA,Joanna Tang,N,2.75,NA,0,0,delsol_caminocorto_N
+125,c873281e-ef64-456d-9a3d-de40344ebe73,1/31/19 8:00,delsol_caminocorto,NA,Joanna Tang,N,5.75,NA,-119.8665097,34.41573412,delsol_caminocorto_N
+215,fd96e717-861e-4db4-84ac-db3b7cc82d20,2/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,N,10.25,NA,-119.8664977,34.41561949,delsol_caminocorto_N
+293,b67a11f9-4a9b-4993-af74-3e191914e279,2/14/19 8:00,delsol_caminocorto,NA,Joanna Tang,N,11.25,NA,-119.8662836,34.41507895,delsol_caminocorto_N
+374,4b904a9b-e4c7-49a2-93f7-1f01c1a901c0,2/21/19 8:00,delsol_caminocorto,NA,Joanna Tang,N,10.5,NA,-119.8661684,34.41508478,delsol_caminocorto_N
+438,763d81f2-d4a5-4aed-9543-91b63a0d980b,2/28/19 8:00,delsol_caminocorto,NA,Joanna Tang,N,10,NA,-119.8660487,34.41514664,delsol_caminocorto_N
+513,9980a9c6-da20-4e63-953a-46a48be4db8c,3/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,N,14,NA,-119.8661564,34.41503425,delsol_caminocorto_N
+581,05ceb72a-29c7-4f2d-9b30-8e69de0c5455,3/14/19 7:00,delsol_caminocorto,NA,Joanna Tang,N,10.75,NA,-119.8662772,34.41584653,delsol_caminocorto_N
+627,6f3161e6-0264-4eb4-ad16-4e9dde237d4b,3/22/19 7:00,delsol_caminocorto,NA,Joanna Tang,N,10,NA,-119.8663057,34.41533477,delsol_caminocorto_N
+753,8a0aa83b-9c2d-4623-b7c5-1cf780d2a8fd,4/1/19 7:00,delsol_caminocorto,NA,Joanna Tang,N,7.5,NA,-119.8663301,34.41494458,delsol_caminocorto_N
+830,3a9d3bd7-0d3c-48ef-b831-cb5ab9e09f27,4/9/19 7:00,delsol_caminocorto,NA,Joanna Tang,N,5.5,NA,-119.866229,34.41513969,delsol_caminocorto_N
+912,9510e900-9e3f-49cc-b762-4d2683b2a12a,4/16/19 7:00,delsol_caminocorto,NA,Joanna Tang,N,2.5,NA,-119.8662755,34.41509916,delsol_caminocorto_N
+954,fdf13d5a-66f4-44fd-8270-47e2a43226ea,4/23/19 7:00,delsol_caminocorto,NA,Joanna Tang,N,0,NA,-119.8665079,34.41482555,delsol_caminocorto_N
+97,ad28eb43-3461-472d-846e-a36c5ff1c383,1/14/19 0:00,delsol_caminocorto,NA,Joanna Tang,S,3,NA,0,0,delsol_caminocorto_S
+120,f41fed71-38aa-478c-a6da-9eeb68881ad8,1/31/19 8:00,delsol_caminocorto,NA,Joanna Tang,S,4.75,NA,-119.8652803,34.4163155,delsol_caminocorto_S
+210,23de4726-b7a1-41d9-9671-bc97457a807b,2/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,S,11.25,NA,-119.8637566,34.41702136,delsol_caminocorto_S
+288,5c43169d-1650-4c43-bc0f-df515eea8430,2/14/19 8:00,delsol_caminocorto,NA,Joanna Tang,S,12,NA,-119.864998,34.41619132,delsol_caminocorto_S
+369,2097db6f-5fa0-4122-a599-ff49e0028203,2/21/19 8:00,delsol_caminocorto,NA,Joanna Tang,S,10.75,NA,-119.865623,34.41546235,delsol_caminocorto_S
+433,45d69e9b-7ce3-4938-9386-e6ab5f816b12,2/28/19 8:00,delsol_caminocorto,NA,Joanna Tang,S,11.25,NA,-119.8648177,34.41602209,delsol_caminocorto_S
+506,dcd9512e-ffc9-4129-b8e8-cb2390f63df5,3/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,S,12.5,NA,-119.8635632,34.41698171,delsol_caminocorto_S
+574,32e16fd5-2117-4851-96ca-0b3f4673bb9b,3/14/19 7:00,delsol_caminocorto,NA,Joanna Tang,S,11.5,NA,-119.8650606,34.41621851,delsol_caminocorto_S
+640,3bb03d76-a7d2-4578-9026-b0167c1abea4,3/22/19 7:00,delsol_caminocorto,NA,Joanna Tang,S,10.5,NA,-119.8641129,34.41679336,delsol_caminocorto_S
+748,6e22d3fe-bc69-4f10-b464-15f55a1e52cf,4/1/19 7:00,delsol_caminocorto,NA,Joanna Tang,S,6.5,NA,-119.864989,34.41625988,delsol_caminocorto_S
+825,aa291c2c-2e81-4d34-a2cf-2edf68098373,4/9/19 7:00,delsol_caminocorto,NA,Joanna Tang,S,2.25,NA,-119.8651691,34.41635154,delsol_caminocorto_S
+907,803ea96c-2ccf-49cd-9267-f16721e6c374,4/16/19 7:00,delsol_caminocorto,NA,Joanna Tang,S,0,NA,-119.8650182,34.41636033,delsol_caminocorto_S
+93,01267b80-cd53-442a-8e14-16c192e2797e,1/14/19 0:00,delsol_caminocorto,NA,Joanna Tang,T,2.5,NA,0,0,delsol_caminocorto_T
+1045,ef874bdc-e560-4151-87e8-46eaa2ffe2cd,1/26/19 0:00,delsol_caminocorto,NA,Joanna Tang,T,0,NA,0,0,delsol_caminocorto_T
+116,85f43635-7de3-4a21-8225-edea63f6b621,1/31/19 8:00,delsol_caminocorto,NA,Joanna Tang,T,5,NA,-119.8664988,34.41640346,delsol_caminocorto_T
+206,544f0dab-16fb-4dc7-8b77-2c0cb0b571b4,2/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,T,2.75,NA,-119.8653873,34.41701889,delsol_caminocorto_T
+284,772e1e98-de7b-4c2a-a060-92be2da92a26,2/14/19 8:00,delsol_caminocorto,NA,Joanna Tang,T,5,NA,-119.8657814,34.41655833,delsol_caminocorto_T
+365,90ec8abc-8fef-4ef3-be4c-b997e3461089,2/21/19 8:00,delsol_caminocorto,NA,Joanna Tang,T,2,NA,-119.8664287,34.41644479,delsol_caminocorto_T
+429,d95919f7-d618-4650-a75d-49ac94941142,2/28/19 8:00,delsol_caminocorto,NA,Joanna Tang,T,3.5,NA,-119.865638,34.41570403,delsol_caminocorto_T
+510,e0f42e8c-36f1-4708-851d-928000a48592,3/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,T,5.5,NA,-119.865906,34.41562621,delsol_caminocorto_T
+578,c0469e1f-8c40-4091-9a67-844a7b9c1ccc,3/14/19 7:00,delsol_caminocorto,NA,Joanna Tang,T,2.5,NA,-119.8657682,34.41544775,delsol_caminocorto_T
+636,a554baaf-1178-465e-841b-671c17d30401,3/22/19 7:00,delsol_caminocorto,NA,Joanna Tang,T,0,NA,-119.8661135,34.41690549,delsol_caminocorto_T
+92,ea4ea33f-db53-4e08-8944-ab1d50388c42,1/14/19 0:00,delsol_caminocorto,NA,Joanna Tang,U,4,NA,0,0,delsol_caminocorto_U
+115,aa470952-d4a0-4975-a46f-4ece3142eaad,1/31/19 8:00,delsol_caminocorto,NA,Joanna Tang,U,7.25,NA,-119.8651934,34.41543371,delsol_caminocorto_U
+205,3c026456-d748-4a72-83d9-52ce44d75108,2/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,U,8.5,NA,-119.8660959,34.41608993,delsol_caminocorto_U
+283,dbd427a2-483c-421a-b181-9d0427e7a272,2/14/19 8:00,delsol_caminocorto,NA,Joanna Tang,U,10,NA,-119.8662072,34.41591304,delsol_caminocorto_U
+364,dd7ea47e-a58d-4b89-b628-178a8a324e71,2/21/19 8:00,delsol_caminocorto,NA,Joanna Tang,U,7.5,NA,-119.8659886,34.4159282,delsol_caminocorto_U
+428,2c851b62-4b7b-4fba-8491-79d91a822977,2/28/19 8:00,delsol_caminocorto,NA,Joanna Tang,U,7.5,NA,-119.864948,34.41645967,delsol_caminocorto_U
+511,8a12b7ac-3baa-49ef-86bd-0ad3447adb2b,3/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,U,10.75,NA,-119.8663886,34.41550597,delsol_caminocorto_U
+579,6b4a3d40-23c8-47cd-8c46-4c61076c04ca,3/14/19 7:00,delsol_caminocorto,NA,Joanna Tang,U,8,NA,-119.8654899,34.41574968,delsol_caminocorto_U
+635,95818c70-cddb-4e03-8a38-a55e562449eb,3/22/19 7:00,delsol_caminocorto,NA,Joanna Tang,U,5.75,NA,-119.8660866,34.41612802,delsol_caminocorto_U
+820,b4aaf7e0-638c-4af7-b62d-e0a82797b337,4/9/19 7:00,delsol_caminocorto,NA,Joanna Tang,U,0,NA,-119.8661845,34.41600778,delsol_caminocorto_U
+902,1f5e1044-bf51-4cf3-abef-7765f0848349,4/16/19 7:00,delsol_caminocorto,NA,Joanna Tang,U,0,NA,-119.8662094,34.41605832,delsol_caminocorto_U
+944,dfa1dca4-1055-4dc8-96d6-029aacffa3d8,4/23/19 7:00,delsol_caminocorto,NA,Joanna Tang,U,0,NA,-119.8661542,34.41606381,delsol_caminocorto_U
+743,07978790-bd2b-41fd-89a8-3a161eb3f62a,4/1/19 7:00,delsol_caminocorto,NA,Joanna Tang,U,2,NA,-119.8661958,34.41598795,delsol_caminocorto_U
+91,763723ad-b687-46e9-84db-f3894a63b4af,1/14/19 0:00,delsol_caminocorto,NA,Joanna Tang,V,2.25,NA,0,0,delsol_caminocorto_V
+214,3e1281b0-ef59-44e1-adc1-d40c6f11dcfa,2/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,V,9.5,NA,-119.8661292,34.41520208,delsol_caminocorto_V
+292,418b4176-0cf4-4317-a0fe-dc0b938e5e36,2/14/19 8:00,delsol_caminocorto,NA,Joanna Tang,V,11,NA,-119.865613,34.41521219,delsol_caminocorto_V
+373,cf1728c5-fbe7-4b20-83f1-bdfe1cc505cb,2/21/19 8:00,delsol_caminocorto,NA,Joanna Tang,V,9.5,NA,-119.8661256,34.41515431,delsol_caminocorto_V
+437,d6d508e4-a6d3-4038-8d71-606f4f31fed6,2/28/19 8:00,delsol_caminocorto,NA,Joanna Tang,V,9.5,NA,-119.8651767,34.41479301,delsol_caminocorto_V
+512,3f0ee799-f0e9-440b-a836-513331c7da62,3/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,V,13,NA,-119.8660503,34.4151709,delsol_caminocorto_V
+580,a320710c-5bdd-4ef6-8ab1-f6e5ac9a2742,3/14/19 7:00,delsol_caminocorto,NA,Joanna Tang,V,10.75,NA,-119.8655397,34.41521619,delsol_caminocorto_V
+626,dab5b1c0-999c-4d72-83db-d9db78821d38,3/22/19 7:00,delsol_caminocorto,NA,Joanna Tang,V,9.5,NA,-119.8660372,34.41510515,delsol_caminocorto_V
+752,8980e404-596e-40e1-9a99-1aeb722aeeea,4/1/19 7:00,delsol_caminocorto,NA,Joanna Tang,V,7,NA,-119.8662265,34.4153466,delsol_caminocorto_V
+829,d4c8b7a8-4400-452b-a57e-3aaf20692a14,4/9/19 7:00,delsol_caminocorto,NA,Joanna Tang,V,4.75,NA,-119.8660856,34.41531324,delsol_caminocorto_V
+911,b56fd349-56ea-4d8d-b3ba-d143f5f8e349,4/16/19 7:00,delsol_caminocorto,NA,Joanna Tang,V,1.5,NA,-119.8661201,34.41534894,delsol_caminocorto_V
+953,380461f9-6794-484e-9633-55a4b9bd5594,4/23/19 7:00,delsol_caminocorto,NA,Joanna Tang,V,0,NA,-119.8661207,34.41538493,delsol_caminocorto_V
+95,b3e24090-5b07-4771-89e5-037b46e9b169,1/14/19 0:00,delsol_caminocorto,NA,Joanna Tang,W,7,NA,0,0,delsol_caminocorto_W
+121,c99e59e7-7618-4ad2-84c4-5a3dc7a4adb2,1/31/19 8:00,delsol_caminocorto,NA,Joanna Tang,W,12.25,NA,-119.8651745,34.41620599,delsol_caminocorto_W
+212,4c0cc8de-ef27-48b4-b08f-afe799e386b4,2/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,W,14.5,NA,-119.8649194,34.41567806,delsol_caminocorto_W
+290,7b886a6d-49ea-4f8c-a198-ee86ac03d38b,2/14/19 8:00,delsol_caminocorto,NA,Joanna Tang,W,15.5,NA,-119.8653337,34.4156006,delsol_caminocorto_W
+371,e0bf7d1e-3f68-4a90-8777-d9c947933a8f,2/21/19 8:00,delsol_caminocorto,NA,Joanna Tang,W,14,NA,-119.8654974,34.4160194,delsol_caminocorto_W
+435,712cc681-d535-4484-a937-4bc246dabe90,2/28/19 8:00,delsol_caminocorto,NA,Joanna Tang,W,14.5,NA,-119.8653717,34.41594615,delsol_caminocorto_W
+509,c038ae91-3616-4687-9ba2-d98286591835,3/7/19 8:00,delsol_caminocorto,NA,Joanna Tang,W,18,NA,-119.8648863,34.41655474,delsol_caminocorto_W
+577,8a465882-cae3-47fd-92cb-a7fe3f957dda,3/14/19 7:00,delsol_caminocorto,NA,Joanna Tang,W,15.25,NA,-119.86579,34.41600788,delsol_caminocorto_W
+642,f9e21976-3989-482e-a65d-5db234d28a1c,3/22/19 7:00,delsol_caminocorto,NA,Joanna Tang,W,13.5,NA,-119.865875,34.41471434,delsol_caminocorto_W
+750,aa0a4fae-aaad-4264-8a29-70ab61f423b0,4/1/19 7:00,delsol_caminocorto,NA,Joanna Tang,W,11.5,NA,-119.8652499,34.41615289,delsol_caminocorto_W
+826,710df7b1-b413-48b0-9bbc-976cfbb96e05,4/9/19 7:00,delsol_caminocorto,NA,Joanna Tang,W,7.25,NA,-119.8652068,34.41612099,delsol_caminocorto_W
+909,176427f6-f5a8-4f44-900f-34ab87e96e16,4/16/19 7:00,delsol_caminocorto,NA,Joanna Tang,W,2.75,NA,-119.8651542,34.41594117,delsol_caminocorto_W
+951,021e784b-ed67-41bb-907b-131c6f785db1,4/23/19 7:00,delsol_caminocorto,NA,Joanna Tang,W,0,NA,-119.8652774,34.41596266,delsol_caminocorto_W
+138,edf86a3f-84b7-421d-8734-7cde17a59be1,1/18/19 0:00,ellwood_mesa,NA,Joanna Tang,1,13,NA,0,0,ellwood_mesa_1
+246,3e6c0c99-7baf-41d5-a31c-0fa0e2dc95a2,2/3/19 8:00,ellwood_mesa,NA,Chandler Campbell,1,7.9,NA,-119.8636153,34.40911879,ellwood_mesa_1
+196,27e87097-9d87-496d-aa6d-a6a23fe730e5,2/7/19 8:00,ellwood_mesa,NA,Joanna Tang,1,9,NA,-119.8824816,34.42490097,ellwood_mesa_1
+325,ff174286-659d-4dd3-a4ca-9319529e164c,2/18/19 8:00,ellwood_mesa,NA,Chandler Campbell,1,10,NA,-119.8850405,34.41646754,ellwood_mesa_1
+473,a4c8d566-c006-42a3-b5c8-492bc504e42c,3/5/19 8:00,ellwood_mesa,NA,Chandler,1,6,NA,-119.8851339,34.41648246,ellwood_mesa_1
+730,e87afa5c-2fa7-4050-9a31-797ce9341558,4/1/19 7:00,ellwood_mesa,NA,Chandler,1,0,Pool is completely dry,-119.88533579999999,34.41637844,ellwood_mesa_1
+139,fa24f3d3-ec32-433a-8faa-49e572c5e5eb,1/18/19 0:00,ellwood_mesa,NA,Joanna Tang,2,4.5,NA,0,0,ellwood_mesa_2
+247,50906463-9c64-48cf-a6f4-8f534a715ad6,2/3/19 8:00,ellwood_mesa,NA,Chandler Campbell,2,3.5,NA,-119.8458301,34.41382841,ellwood_mesa_2
+197,d5dd6f17-e8dc-4c88-900f-d66c9af90f5b,2/7/19 8:00,ellwood_mesa,NA,Joanna Tang,2,3.5,NA,-119.8849939,34.41649596,ellwood_mesa_2
+326,12e6bdf0-c5d1-4def-87da-23794a6a3b76,2/18/19 8:00,ellwood_mesa,NA,Chandler Campbell,2,3.5,Fairly shallow and grassy,-119.8852121,34.42310103,ellwood_mesa_2
+474,c00a9ee6-80f5-48ad-afcd-b950dbe2fa8e,3/5/19 8:00,ellwood_mesa,NA,Chandler,2,4,NA,-119.886921,34.41842824,ellwood_mesa_2
+731,9928d870-ecfe-46c9-ac14-74e4b157e6f2,4/1/19 7:00,ellwood_mesa,NA,Chandler,2,0,Dry,-119.8866007,34.41833633,ellwood_mesa_2
+140,ac0f25ff-8aba-4675-8ce1-41d3b24a5c00,1/18/19 0:00,ellwood_mesa,NA,Joanna Tang,3,4.5,NA,0,0,ellwood_mesa_3
+248,e7367883-cf80-42f5-aa95-417ac3d415b5,2/3/19 8:00,ellwood_mesa,NA,Chandler Campbell,3,18.5,NA,-119.8458907,34.41382098,ellwood_mesa_3
+195,00e3da07-7216-485e-aa73-2ea45d6bd219,2/7/19 8:00,ellwood_mesa,NA,Joanna Tang,3,4,NA,-119.8868061,34.41836495,ellwood_mesa_3
+327,ea1d0865-eafa-4600-9d5f-984f9079fc2f,2/18/19 8:00,ellwood_mesa,NA,Chandler Campbell,3,5,NA,-119.8830403,34.42540492,ellwood_mesa_3
+475,fb2a3f16-815d-4023-b1fc-24bb7f5b25dc,3/5/19 8:00,ellwood_mesa,NA,Chandler,3,3.5,NA,-119.8875454,34.41874843,ellwood_mesa_3
+732,e572c172-3b24-441d-af03-e24937b4f694,4/1/19 7:00,ellwood_mesa,NA,Chandler,3,0,Dry with water loving plants,-119.8875657,34.41878652,ellwood_mesa_3
+141,7d2c1bb9-76b3-4b36-8a91-fe17d5dd15cb,1/18/19 0:00,ellwood_mesa,NA,Joanna Tang,4,4.5,NA,0,0,ellwood_mesa_4
+249,a9c77467-33df-41fa-9c85-3fe7e9ae5d89,2/3/19 8:00,ellwood_mesa,NA,Chandler Campbell,4,5.5,NA,-119.8458283,34.4138156,ellwood_mesa_4
+194,482df9fd-cfcc-46c2-9ec9-e3a96387bdb6,2/7/19 8:00,ellwood_mesa,NA,Joanna Tang,4,3.25,NA,-119.8824744,34.42480587,ellwood_mesa_4
+328,4a94c8c2-e3d5-4517-8bea-8b74727b18fb,2/18/19 8:00,ellwood_mesa,NA,Chandler,4,3.5,NA,-119.875721,34.42023463,ellwood_mesa_4
+476,957b590e-3a9a-4b7c-897c-8f8fa7e38e64,3/5/19 8:00,ellwood_mesa,NA,Chandler,4,3,NA,-119.8878498,34.41910101,ellwood_mesa_4
+735,0b3f917a-4e96-4ad9-b167-582524523355,4/1/19 7:00,ellwood_mesa,NA,Chandler,4,0,NA,-119.8887826,34.42005068,ellwood_mesa_4
+142,87ec7cb6-aae1-4dd7-87db-fb011704cbcc,1/18/19 0:00,ellwood_mesa,NA,Joanna Tang,Reference,17,NA,0,0,ellwood_mesa_Reference
+250,cba3f98c-7e6b-43e1-a3aa-edd9907a374e,2/3/19 8:00,ellwood_mesa,NA,Chandler Campbell,Reference,11,NA,-119.8458531,34.41381733,ellwood_mesa_Reference
+193,afe91093-f17f-40cd-bac7-66f50514d2d8,2/7/19 8:00,ellwood_mesa,NA,Joanna Tang,5,3,NA,-119.8881022,34.42021153,ellwood_mesa_5
+329,ecb4eff0-53ff-45a1-8e3b-67608866eda3,2/18/19 8:00,ellwood_mesa,NA,Chandler,Reference,17.5,NA,-119.8888907,34.41991158,ellwood_mesa_Reference
+477,b31b2e97-883a-43b1-af8a-83e3974e1738,3/5/19 8:00,ellwood_mesa,NA,Chandler,Reference,18.5,NA,-119.8888187,34.41989289,ellwood_mesa_Reference
+733,e4441d47-7aef-48d9-ad6f-fe35388618f7,4/1/19 7:00,ellwood_mesa,NA,Chandler,Reference,6.5,"Small “L” shaped depression in the middle of the basin, lots of water loving plants, mainly dry",-119.8889291,34.41981963,ellwood_mesa_Reference
+143,10296397-481a-426a-8dbf-103a4082d1c7,1/18/19 0:00,ellwood_mesa,NA,Joanna Tang,5,5,NA,0,0,ellwood_mesa_5
+192,633d89dd-a84b-4328-a27f-b78bbc01f64c,2/7/19 8:00,ellwood_mesa,NA,Joanna Tang,5,2.75,NA,-119.8886549,34.42000026,ellwood_mesa_5
+330,cfba482c-2ea6-4c96-8e11-3f107c251ebe,2/18/19 8:00,ellwood_mesa,NA,Chandler,5,4.5,NA,-119.8816165,34.42463998,ellwood_mesa_5
+478,837cbdf3-f3f2-42af-a43b-c4e42bf51ef0,3/5/19 8:00,ellwood_mesa,NA,Chandler,5,3.76,NA,-119.8887237,34.42008278,ellwood_mesa_5
+734,b99aa71c-5d0a-4b64-a78f-146656b00180,4/1/19 7:00,ellwood_mesa,NA,Chandler,5,0,Dry with lots of plants pictured below,-119.8887898,34.42002139,ellwood_mesa_5
+191,2dfaec12-af5a-43a4-a57d-401352f6d1bf,2/7/19 8:00,ellwood_mesa,NA,Joanna Tang,Created pool by trees,16,NA,-119.8824831,34.42493957,ellwood_mesa_Created_pool_by_trees
+61,eedbe3d9-e568-440d-b8e3-676f7829e1a6,1/30/19 8:00,manzanita_village,NA,Andy Lanes,San Miguel,6.5,Frog eggs,-119.851707,34.40916553,manzanita_village_San_Miguel
+340,7ddaf031-6620-4239-9e57-aba69ecaf48d,2/20/19 8:00,manzanita_village,NA,Andy,San Miguel,14,NA,-119.8526861,34.40839417,manzanita_village_San_Miguel
+448,a7bfa2f6-f567-4de9-ba3d-450d49888806,3/1/19 8:00,manzanita_village,NA,Shaina,San Miguel,13.5,NA,-119.8526077,34.40843109,manzanita_village_San_Miguel
+479,89a13ee1-3b37-4016-aa9f-fd9f1ed4f9bb,3/6/19 8:00,manzanita_village,NA,Shaina,San Miguel,18,NA,-119.8519893,34.40845928,manzanita_village_San_Miguel
+615,272e8e5d-fefe-401b-8417-c22fdc9b5d47,3/18/19 7:00,manzanita_village,NA,Fredi,San Miguel,13,NA,-119.8524721,34.40818896,manzanita_village_San_Miguel
+659,ea622823-32be-4e5a-b349-9d1975bda53e,3/25/19 7:00,manzanita_village,NA,Cassie H,San Miguel,11.6,NA,-119.8526032,34.40840835,manzanita_village_San_Miguel
+792,250bd9b8-b89a-4d29-ba0b-1d52e6418f8e,4/5/19 7:00,manzanita_village,NA,Fredi,San Miguel,9.1,NA,-119.8541711,34.41948847,manzanita_village_San_Miguel
+861,892287b0-7bba-40e5-9086-ab6ef88e420f,4/12/19 7:00,manzanita_village,NA,Andy,San Miguel,6.9,NA,-119.8526887,34.40837998,manzanita_village_San_Miguel
+914,634c34a3-4542-4e65-a6b4-5e704d234eb0,4/17/19 7:00,manzanita_village,NA,Madi,San Miguel,4.8,NA,-119.8519474,34.40822136,manzanita_village_San_Miguel
+962,9ecfc5fb-2d44-4563-b411-b84468d47478,4/24/19 7:00,manzanita_village,NA,Andy,San Miguel,3,NA,-119.8518037,34.40814336,manzanita_village_San_Miguel
+188,b6cfe20d-9977-437e-a20c-30740168e440,2/6/19 8:00,manzanita_village,NA,Shaina,San Miguel,14.5,NA,-119.8526626,34.40835227,manzanita_village_San_Miguel
+66,325e9bdf-effb-4bea-a990-aaf7bb02e6e7,1/30/19 8:00,manzanita_village,NA,Andy Lanes,Santa Barbara,7,NA,-119.8525818,34.40857643,manzanita_village_Santa_Barbara
+186,f0d21fb3-8ab6-4f22-acd2-b6392f0410bd,2/6/19 8:00,manzanita_village,NA,Shaina,Santa Barbara,11,NA,-119.8512081,34.40798967,manzanita_village_Santa_Barbara
+345,6485f0d3-a013-466b-b84b-820431caa027,2/20/19 8:00,manzanita_village,NA,Andy,Santa Barbara,10,NA,-119.8508543,34.40782161,manzanita_village_Santa_Barbara
+443,4ad74481-1342-48cc-bc90-634e4387528d,3/1/19 8:00,manzanita_village,NA,Shaina,Santa Barbara,11,NA,-119.8508925,34.4080579,manzanita_village_Santa_Barbara
+484,c073de79-a8a4-4ab1-b1a2-bb24d8735c2f,3/6/19 8:00,manzanita_village,NA,Shaina,Santa Barbara,15.5,NA,-119.8509116,34.40801628,manzanita_village_Santa_Barbara
+608,8e169ac3-3363-4b8b-a678-a546099f7010,3/18/19 7:00,manzanita_village,NA,Fredi,Santa Barbara,8.2,NA,-119.8508536,34.40795155,manzanita_village_Santa_Barbara
+653,d4a8f220-4c8e-4899-b0b3-e2b711f6188b,3/25/19 7:00,manzanita_village,NA,Andy,Santa Barbara,6.9,NA,-119.8510614,34.40802795,manzanita_village_Santa_Barbara
+787,76d16f85-3a52-42c8-96dc-b7f4ea290f6d,4/5/19 7:00,manzanita_village,NA,Fredi,Santa Barbara,5.5,NA,-119.8532917,34.41161019,manzanita_village_Santa_Barbara
+866,15b640c1-9598-4fd8-801a-e738dd35f493,4/12/19 7:00,manzanita_village,NA,Andy,Santa Barbara,2.5,NA,-119.8512521,34.40806774,manzanita_village_Santa_Barbara
+919,7b8ec8b0-43ff-4982-8dfa-2c0dccbc5a70,4/17/19 7:00,manzanita_village,NA,Andy,Santa Barbara,0,NA,-119.8517571,34.40813588,manzanita_village_Santa_Barbara
+67,42b8d209-3717-44a3-9071-4c8126004444,1/30/19 8:00,manzanita_village,NA,Andy Lanes,Santa Catalina,8.5,NA,-119.8517673,34.4085341,manzanita_village_Santa_Catalina
+187,fda00935-4eb1-4e60-91fa-f5d1aac18231,2/6/19 8:00,manzanita_village,NA,Shaina,Santa Catalina,10.3,NA,-119.8514512,34.40714083,manzanita_village_Santa_Catalina
+346,df8fee4d-4bc4-41e4-b746-b5cbff77051d,2/20/19 8:00,manzanita_village,NA,Andy,Santa Catalina,10.2,NA,-119.8508333,34.40809627,manzanita_village_Santa_Catalina
+442,896b33ea-bae7-47dc-a462-d7ae812093c5,3/1/19 8:00,manzanita_village,NA,Andy,Santa Catalina,10.2,NA,-119.8509088,34.4086222,manzanita_village_Santa_Catalina
+485,1a69c3b9-005e-4644-bb35-38e0862dfaa3,3/6/19 8:00,manzanita_village,NA,Andy,Santa Catalina,11.2,NA,-119.8509141,34.40801141,manzanita_village_Santa_Catalina
+607,e39f7b1d-bbf0-4dc0-bbc7-f88a28ded428,3/18/19 7:00,manzanita_village,NA,Fredi,Santa Catalina,8.8,NA,-119.8509041,34.4077998,manzanita_village_Santa_Catalina
+654,fe832a60-a70c-4d6f-9777-e712844ef8b2,3/25/19 7:00,manzanita_village,NA,Andy,Santa Catalina,8.3,NA,-119.8508679,34.40801064,manzanita_village_Santa_Catalina
+873,c153fbc9-73d9-451e-a243-3dc4306c3d5b,4/12/19 7:00,manzanita_village,NA,Andy,Santa Catalina,5.2,NA,-119.85052,34.40804462,manzanita_village_Santa_Catalina
+920,7418b592-a9f1-48fd-9389-1cd3c2eb5270,4/17/19 7:00,manzanita_village,NA,Madi,Santa Catalina,4.4,NA,-119.850897,34.40799031,manzanita_village_Santa_Catalina
+955,943336f7-8353-4fea-9802-64658c53d8a9,4/24/19 7:00,manzanita_village,NA,Andy,Santa Catalina,3,NA,-119.8508778,34.40797958,manzanita_village_Santa_Catalina
+63,8d757bb7-65b2-4b26-aca6-f6d257093720,1/30/19 8:00,manzanita_village,NA,Andy Lanes,Santa Cruz,1,"Deepest point has shifted, likely gophers",-119.8524608,34.40848136,manzanita_village_Santa_Cruz
+190,d8a991cd-b34c-428d-a2c6-bd1d84a1a7be,2/6/19 8:00,manzanita_village,NA,Shaina,Santa Cruz,27.3,NA,-119.852354,34.40843445,manzanita_village_Santa_Cruz
+342,ca194772-a6d0-471d-8777-7384f166cf9e,2/20/19 8:00,manzanita_village,NA,Andy,Santa Cruz,27,0=18”- baseline is 18,-119.8522767,34.40836083,manzanita_village_Santa_Cruz
+446,d5c5c28d-40f6-4eec-a0cc-ccb447c9d8f7,3/1/19 8:00,manzanita_village,NA,Andy,Santa Cruz,26,NA,-119.8522118,34.40829984,manzanita_village_Santa_Cruz
+481,9d4cea2c-f92c-4343-9cf3-f172824d3f48,3/6/19 8:00,manzanita_village,NA,Shaina,Santa Cruz,28,NA,-119.8518138,34.40817499,manzanita_village_Santa_Cruz
+613,e6872fbc-5709-4c9b-9fe7-98cf1e918a12,3/18/19 7:00,manzanita_village,NA,Fredi,Santa Cruz,24.8,NA,-119.8520843,34.40818357,manzanita_village_Santa_Cruz
+657,75cc26ff-306d-42f3-a07b-6a165a889343,3/25/19 7:00,manzanita_village,NA,Cassie H,Santa Cruz,23.7,NA,-119.8520988,34.40828936,manzanita_village_Santa_Cruz
+790,73277811-0d6f-4dfc-b422-3ce7b2b0ec16,4/5/19 7:00,manzanita_village,NA,Fredi,Santa Cruz,2.2,NA,-119.8531597,34.41714359,manzanita_village_Santa_Cruz
+863,4c2422fa-bd71-41c7-b486-350e4917e817,4/12/19 7:00,manzanita_village,NA,Andy,Santa Cruz,0,NA,-119.8522141,34.40830124,manzanita_village_Santa_Cruz
+62,4d29b072-eb93-4d36-b61b-dc23cd976111,1/30/19 8:00,manzanita_village,NA,Andy Lanes,Santa Rosa,5,NA,-119.8524997,34.40846314,manzanita_village_Santa_Rosa
+341,7ffd0747-7187-4ba0-b217-56ea050de75a,2/20/19 8:00,manzanita_village,NA,Andy,Santa Rosa,15,NA,-119.8526053,34.40838613,manzanita_village_Santa_Rosa
+447,dc1ae4ae-09a9-45cb-b637-ea4e128be039,3/1/19 8:00,manzanita_village,NA,Shaina,Santa Rosa,14.5,NA,-119.8522343,34.40833435,manzanita_village_Santa_Rosa
+480,6ec7c258-7067-4f41-a633-01f49e8244dc,3/6/19 8:00,manzanita_village,NA,Andy,Santa Rosa,17,NA,-119.8518252,34.40815682,manzanita_village_Santa_Rosa
+614,3bf43e15-bfa1-4c69-8916-5e50ada83e46,3/18/19 7:00,manzanita_village,NA,Andy,Santa Rosa,14.3,NA,-119.8524563,34.40819549,manzanita_village_Santa_Rosa
+658,dfa240d6-11b5-4f7c-a05f-d71a3a66d10e,3/25/19 7:00,manzanita_village,NA,Cassie H,Santa Rosa,13.2,NA,-119.8522747,34.40836121,manzanita_village_Santa_Rosa
+791,923fef2f-52c0-429e-970b-54cf4c6d816c,4/5/19 7:00,manzanita_village,NA,Fredi,Santa Rosa,12.1,NA,-119.8535222,34.41875979,manzanita_village_Santa_Rosa
+862,5ec57401-e2a3-4600-989f-b234a7dc9443,4/12/19 7:00,manzanita_village,NA,Andy,Santa Rosa,9.2,NA,-119.8523503,34.40830299,manzanita_village_Santa_Rosa
+915,6ddd7158-3899-4e33-b172-1263626da3cf,4/17/19 7:00,manzanita_village,NA,Madi C,Santa Rosa,7.7,NA,-119.8525819,34.4084074,manzanita_village_Santa_Rosa
+961,b3feb704-a84e-4ff4-88f5-a255ea2d474b,4/24/19 7:00,manzanita_village,NA,Andy,Santa Rosa,6.5,NA,-119.8518156,34.40813841,manzanita_village_Santa_Rosa
+189,eaec7789-8015-4008-8f76-62446cb470da,2/6/19 8:00,manzanita_village,NA,Shaina,Santa Rosa,14.5,NA,-119.8528308,34.40835822,manzanita_village_Santa_Rosa
+324,081bd7be-b7df-41a8-95c3-38ae2dbd5407,2/15/19 8:00,more_mesa,NA,Joanna Tang,Main pool,15.75,Not opaque,-119.7861105,34.41934825,more_mesa_Main_pool
+356,6bb802ff-9258-4541-9862-8f82471dffcf,2/21/19 8:00,more_mesa,NA,Angela Rauhut,Main pool,14.125,Wildlife: saw 4 ducks and heard a western spadefoot toad,-119.8003005,34.4283432,more_mesa_Main_pool
+439,e31598da-1882-4d91-9ee2-e25415ddfe31,2/28/19 8:00,more_mesa,NA,Angela,Main pool,14,NA,-119.8002656,34.42838552,more_mesa_Main_pool
+495,81ffa6d2-3f4d-44d3-9dd1-9031e2710487,3/7/19 8:00,more_mesa,NA,Angela,Main pool,15.875,water and soil samples taken,-119.8002886,34.42837402,more_mesa_Main_pool
+606,2685385f-5ef4-473a-b3b7-defae8a72f6c,3/15/19 7:00,more_mesa,NA,Angela,Main pool,13.5,NA,-119.800314,34.4283411,more_mesa_Main_pool
+625,c7db6ad2-1f61-454f-b4ae-d64f14f87a39,3/21/19 7:00,more_mesa,NA,Angela,Main pool,12.5,heard a chorus frog,-119.8002991,34.4283725,more_mesa_Main_pool
+710,72a4937c-c3fa-42ea-88dd-06205a785d8c,3/29/19 7:00,more_mesa,NA,Angela,Main pool,11,NA,-119.8003402,34.428458,more_mesa_Main_pool
+777,18fac0a0-a763-4bd6-9e8d-e2b8b0bc1a70,4/4/19 7:00,more_mesa,NA,Angela,Main pool,9.5,NA,-119.8002095,34.42846034,more_mesa_Main_pool
+876,a9cfaad1-3079-486b-9908-675e02d5a628,4/12/19 7:00,more_mesa,NA,Angela,Main pool,6.875,lots of cute little grasses,-119.8003398,34.4283686,more_mesa_Main_pool
+935,d4dd2dc8-2008-4f20-93c1-fda8967688e0,4/19/19 7:00,more_mesa,NA,Angela,Main pool,4.75,NA,-119.8003233,34.4283238,more_mesa_Main_pool
+994,df5baca7-13dd-451d-b814-c4bf2f422cb2,4/28/19 7:00,more_mesa,NA,Angela,Main pool,3,"no more open water, just mud and grasses",-119.8003797,34.42831181,more_mesa_Main_pool
+9,be96da9e-7c3d-4222-9cf8-186c784dae37,1/11/19 8:00,ncos,NA,Beau Tindall,1,15.75,NA,-119.8788721,34.42194186,ncos_1
+30,85b13b9b-b2c5-436a-b597-6e44f9435feb,1/17/19 8:00,ncos,NA,Beau Tindall,1,18,Cannot see the water level gauge,-119.8791118,34.41953427,ncos_1
+51,5e90d609-3df3-400f-a241-e493dcdb7b7c,1/25/19 8:00,ncos,NA,Beau Tindall,1,18,Can’t see level,-119.8792304,34.41954062,ncos_1
+163,60d3cb49-957f-409e-8197-b592aa7b45f6,2/1/19 8:00,ncos,NA,Beau Tindall,1,18,Can’t see the gauge,-119.8826405,34.42262213,ncos_1
+235,9c7f3805-ae4f-41c4-a281-dc9ae12013cf,2/8/19 8:00,ncos,NA,Beau Tindall,1,18,Can’t see gauge,-119.8793,34.41979201,ncos_1
+313,26b61cd4-7b96-406e-8638-1d70038a0ef1,2/15/19 8:00,ncos,NA,Beau Tindall,1,18,Can’t see gauge,-119.879274,34.41962317,ncos_1
+381,4ffea1cd-ff23-43cd-8c83-9235e95567bc,2/22/19 8:00,ncos,NA,Beau Tindall,1,18,Can’t see level gauge,-119.8792297,34.41954674,ncos_1
+472,73c65065-ae2c-460a-926b-ee1e2fee43cf,3/1/19 8:00,ncos,NA,Beau Tindall,1,19,NA,-119.8854488,34.42344778,ncos_1
+537,63d2c1ee-bd96-4a53-a461-25a996abe2e7,3/8/19 8:00,ncos,NA,Beau Tindall,1,19,NA,-119.8792194,34.41950331,ncos_1
+596,c9811c8d-50c7-4083-8933-174bfadd9030,3/15/19 7:00,ncos,NA,Beau Tindall,1,18,NA,-119.879166,34.41953119,ncos_1
+667,7d4c37de-5327-43ea-9b80-b5ceaab19b5c,3/22/19 7:00,ncos,NA,Beau Tindall,1,17.5,NA,-119.8790841,34.41960782,ncos_1
+718,04c8306a-0218-4319-9956-eaa8700f6a47,3/28/19 7:00,ncos,NA,Beau Tindall,1,16.75,NA,-119.8791769,34.41958161,ncos_1
+848,cd2c9787-92eb-4576-99ff-7fcf77c64617,4/5/19 7:00,ncos,NA,Beau Tindall,1,15,NA,-119.879075,34.41963626,ncos_1
+884,cebd9696-97a4-40d8-b5bc-0ffb4aed4f5d,4/11/19 7:00,ncos,NA,Beau Tindall,1,14,NA,-119.8792003,34.41963514,ncos_1
+993,0a26193e-7846-45bc-a8ee-f50cbbc03b6d,4/19/19 7:00,ncos,NA,Beau Tindall,1,12,NA,-119.8792266,34.41942946,ncos_1
+974,a87d2e0d-5f82-408c-9639-a515891ac1a4,4/26/19 7:00,ncos,NA,Beau Tindall,1,11,NA,-119.8791227,34.4195584,ncos_1
+999,eb5c442a-d473-4dbd-9a60-8fd290bd6cce,5/3/19 7:00,ncos,NA,Beau Tindall,1,10,NA,-119.8790228,34.41952304,ncos_1
+1008,270e748f-7b64-4094-85d8-81ca6289b567,5/10/19 7:00,ncos,NA,Beau Tindall,1,9,NA,-119.8791747,34.41999181,ncos_1
+1026,4f360f53-4cd7-4a14-bbbc-0d666124e990,5/17/19 7:00,ncos,NA,Beau Tindall,1,9,NA,-119.8790534,34.41967845,ncos_1
+1082,0bb176d7-40f1-4dbd-a496-34e2a20070b8,5/23/19 7:00,ncos,NA,Beau Tindall,1,9.25,NA,-119.8791667,34.41958069,ncos_1
+1075,9a10acf2-e8ad-4bb0-9834-08bddbf66c9f,5/31/19 7:00,ncos,NA,Beau Tindall,1,7.75,NA,-119.8790926,34.41974994,ncos_1
+1109,114ff272-5448-46c1-ae0e-0157a1aba1ad,6/6/19 7:00,ncos,NA,Beau Tindall,1,7,NA,-119.8791821,34.41952575,ncos_1
+1100,8173fc9e-73ea-4b22-9a6f-9006b2549c70,6/14/19 7:00,ncos,NA,Beau Tindall,1,5,NA,-119.8792425,34.4195039,ncos_1
+1114,319bfd15-2b92-4f4e-915e-d0fdaa4cf910,6/21/19 7:00,ncos,NA,Beau Tindall,1,4,NA,-119.8790881,34.419906,ncos_1
+1115,56f55aef-4435-4b88-bab5-77b401ea699e,6/27/19 7:00,ncos,NA,Stephen Fetterly,1,3.1,NA,-119.8799948,34.42495331,ncos_1
+1118,b2f1d54a-a6a0-448e-b4b7-ec710208f569,7/5/19 7:00,ncos,NA,Stephen,1,0.7,NA,0,0,ncos_1
+8,cb7feeb7-983c-4a11-a7fe-0733ed28e173,1/11/19 8:00,ncos,NA,Beau Tindall,2,17.5,NA,-119.8798212,34.41960462,ncos_2
+29,3410365d-da68-498c-8be7-890e981df66e,1/17/19 8:00,ncos,NA,Beau Tindall,2,18,Cannot see level gauge,-119.880291,34.41973998,ncos_2
+50,4422ecb3-fb74-4cbf-9671-537133249bb0,1/25/19 8:00,ncos,NA,Beau Tindall,2,18,NA,-119.879823,34.4196953,ncos_2
+162,77ecd7e2-dff7-442b-9335-c269623f7f44,2/1/19 8:00,ncos,NA,Beau Tindall,2,18,Can’t see gauge,-119.8853118,34.42320655,ncos_2
+234,227c6910-4628-4aa4-b1a5-8d6f034a0af4,2/8/19 8:00,ncos,NA,Beau Tindall,2,18,Can’t see gauge,-119.8798675,34.41967835,ncos_2
+312,c711c11e-83e2-4556-92f6-48e726ddf35e,2/15/19 8:00,ncos,NA,Beau Tindall,2,18,Can’t see level gauge,-119.8801695,34.42284797,ncos_2
+380,361ab95a-7d9d-4d24-b134-da78b898c951,2/22/19 8:00,ncos,NA,Beau Tindall,2,18,Can’t see level gauge,-119.87986479999999,34.41962477,ncos_2
+471,c847e500-801b-44b0-900a-db73b032e18a,3/1/19 8:00,ncos,NA,Beau Tindall,2,18.5,NA,-119.8798636,34.41963271,ncos_2
+536,454fa67b-2856-49eb-bd78-61b8b105957e,3/8/19 8:00,ncos,NA,Beau Tindall,2,18.5,NA,-119.8798384,34.41962967,ncos_2
+595,0b333725-8e1c-45f2-9b35-dd3b8fadd0f1,3/15/19 7:00,ncos,NA,Beau Tindall,2,17.25,NA,-119.8798133,34.41964971,ncos_2
+666,092e71bf-8fd5-4ae0-a60f-858a265ee425,3/22/19 7:00,ncos,NA,Beau Tindall,2,16.5,NA,-119.8797977,34.41965209,ncos_2
+717,e0ec63a4-25e7-46ab-a320-0fa2deb41cba,3/28/19 7:00,ncos,NA,Beau Tindall,2,15.75,NA,-119.8798207,34.41963382,ncos_2
+847,cffebcf0-c005-4651-bc41-24d15495ca0c,4/5/19 7:00,ncos,NA,Beau Tindall,2,14,NA,-119.8797961,34.41964601,ncos_2
+883,a228056e-edaf-4e3f-ae4d-faf6f28f3a13,4/11/19 7:00,ncos,NA,Beau tindall,2,12.75,NA,-119.8797871,34.4196194,ncos_2
+992,19aed21a-db4e-43a6-b1bb-66f18c682c4d,4/19/19 7:00,ncos,NA,Beau Tindall,2,10.75,NA,-119.8797818,34.4196501,ncos_2
+973,2e3be87f-54f4-47da-9d4c-4d2b076a5e08,4/26/19 7:00,ncos,NA,Beau Tindall,2,9.75,NA,-119.8798387,34.41975283,ncos_2
+998,8e7ab5d2-28b9-42c9-b460-ab8edf2cecb8,5/3/19 7:00,ncos,NA,Beau Tindall,2,8.5,NA,-119.8798116,34.41963542,ncos_2
+1007,56b2d706-8f77-48a0-a4eb-881cc6bb4394,5/10/19 7:00,ncos,NA,Beau Tindall,2,7,NA,-119.8779123,34.4222653,ncos_2
+1025,c0100b0f-aa47-4d4c-8a90-2b55ec061c8a,5/17/19 7:00,ncos,NA,Beau Tindall,2,7,NA,-119.8798222,34.41964357,ncos_2
+1081,b006c734-1528-45f9-8d89-4a1f1cab1e81,5/23/19 7:00,ncos,NA,Beau Tindall,2,8.75,NA,-119.8798154,34.41964723,ncos_2
+1074,4fe31920-0828-4757-8ffa-ae8788fa39c4,5/31/19 7:00,ncos,NA,Beau Tindall,2,6.5,NA,-119.8798041,34.41965711,ncos_2
+1108,30bdb59f-1e18-4884-b02d-137126d6de33,6/6/19 7:00,ncos,NA,Beau Tindall,2,5.75,NA,-119.8798103,34.41963584,ncos_2
+1095,89c4d6f6-c6b0-4306-a44d-0b23ebaa09d8,6/14/19 7:00,ncos,NA,Beau Tindall,2,0,NA,-119.8840497,34.4182763,ncos_2
+1099,65a59345-e4ea-4c89-bc3d-9a61966a90a9,6/14/19 7:00,ncos,NA,Beau Tindall,2,3,NA,-119.879849,34.41959158,ncos_2
+1113,8e5d25fe-d9d9-42a6-b9c1-6e19f5ef3d1a,6/21/19 7:00,ncos,NA,Beau Tindall,2,2,NA,-119.8797798,34.41964776,ncos_2
+1116,8ec12537-1c86-4265-b9ab-1902812ddee5,6/27/19 7:00,ncos,NA,Stephen Fetterly,2,0,NA,-119.8795364,34.41935658,ncos_2
+7,c9b017d5-e7aa-4083-aeea-98f8228ea531,1/11/19 8:00,ncos,NA,Beau Tindall,3,10.75,NA,-119.8801083,34.4183693,ncos_3
+28,9cb19d93-32e7-481c-bd37-8e525638ab43,1/17/19 8:00,ncos,NA,Beau Tindall,3,13.5,NA,-119.8799783,34.41847409,ncos_3
+49,d0a76cdb-d744-4203-ab4f-cd5a2ac75959,1/25/19 8:00,ncos,NA,Beau Tindall,3,8.5,NA,-119.8782926,34.42188102,ncos_3
+161,833f8444-fea0-40e2-82e1-e43044e2e595,2/1/19 8:00,ncos,NA,Beau Tindall,3,8,NA,-119.8800719,34.41849452,ncos_3
+233,ab0099c2-9740-4821-9de5-d4d6e71fdf79,2/8/19 8:00,ncos,NA,Beau Tindall,3,16,NA,-119.8800258,34.41845628,ncos_3
+311,972f6e6b-3e80-415a-9f85-eade372d049e,2/15/19 8:00,ncos,NA,Beau Tindall,3,13.5,NA,-119.8800243,34.41840103,ncos_3
+379,2020bbe2-c3d5-422e-b793-b8653fa6004a,2/22/19 8:00,ncos,NA,Beau Tindall,3,9,NA,-119.8799712,34.41847927,ncos_3
+465,a5305163-2584-4da9-90f3-7d6f7fd78978,3/1/19 8:00,ncos,NA,Beau Tindall,3,6,NA,-119.8800038,34.41844792,ncos_3
+535,de285a40-301a-496d-be91-8ef1b6a247c0,3/8/19 8:00,ncos,NA,Beau Tindall,3,18,"Can’t see level gauge, well 7 ditch overflowed into pool",-119.8800337,34.41851542,ncos_3
+594,1ea5d6b5-4cf3-4357-96b7-d13761b522ca,3/15/19 7:00,ncos,NA,Beau Tindall,3,13,NA,-119.8800085,34.41846217,ncos_3
+665,ae05ef8f-4acb-4ae5-bfdd-8e6e8edb6870,3/22/19 7:00,ncos,NA,Beau Tindall,3,8.75,NA,-119.8798207,34.41851302,ncos_3
+716,67069717-46f4-49cc-bb74-f8921ff14771,3/28/19 7:00,ncos,NA,Beau Tindall,3,5.75,NA,-119.8799873,34.41844784,ncos_3
+846,cba9e407-a68c-4fc4-9c29-6023c6a3cf4f,4/5/19 7:00,ncos,NA,Beau Tindall,3,0,NA,-119.8799355,34.41847091,ncos_3
+882,3e51f594-bdfe-4639-a711-3ad1078a2ffa,4/11/19 7:00,ncos,NA,Beau Tindall,3,0,NA,-119.8799403,34.41845001,ncos_3
+1009,13820fe6-1ad7-43ba-bf1c-5a8dd4acaf3e,5/10/19 7:00,ncos,NA,Beau Tindall,3,2,NA,-119.8803695,34.4189377,ncos_3
+6,37e69abe-5393-403e-abeb-72496c47a68f,1/11/19 8:00,ncos,NA,Beau Tindall,4,15.75,NA,-119.8804,34.41885949,ncos_4
+27,e9e37e20-650d-4f8e-9758-aa785564a157,1/17/19 8:00,ncos,NA,Beau Tindall,4,17.5,NA,-119.8804095,34.41881403,ncos_4
+48,26844ec8-a320-4c70-9f84-91781c92ea05,1/25/19 8:00,ncos,NA,Beau Tindall,4,15.5,NA,-119.8805285,34.41896467,ncos_4
+160,03ccc8a6-9b6a-4ca3-ad52-5576d80290ca,2/1/19 8:00,ncos,NA,Beau Tindall,4,16.5,NA,-119.8804242,34.41877717,ncos_4
+232,1a2b206f-a8fe-416d-9bad-c3b28c00917d,2/8/19 8:00,ncos,NA,Beau Tindall,4,16,NA,-119.8852779,34.42319835,ncos_4
+310,75ae118b-6ba8-444e-ba1e-d5c93b48cfe1,2/15/19 8:00,ncos,NA,Beau Tindall,4,17,NA,-119.8804586,34.41875794,ncos_4
+404,5d3e84b2-fa43-4a79-b905-52b5906dd73a,2/22/19 8:00,ncos,NA,Beau Tindall,4,16,NA,-119.8788209,34.41909957,ncos_4
+466,d9e81d2d-2e69-4188-b034-50c125340f4a,3/1/19 8:00,ncos,NA,Beau Tindall,4,16,NA,-119.8804984,34.41900638,ncos_4
+534,162418a9-1a02-4037-bcf5-189ffeb66ede,3/8/19 8:00,ncos,NA,Beau Tindall,4,17,NA,-119.8803618,34.41883457,ncos_4
+593,790f80b4-7093-4f73-a5d9-0abfbe4c84cf,3/15/19 7:00,ncos,NA,Beau Tindall,4,15,NA,-119.8804025,34.4188513,ncos_4
+664,1d7c5d78-dcb4-4bdd-b4e9-af8aefea4ffd,3/22/19 7:00,ncos,NA,Beau Tindall,4,14,NA,-119.8804394,34.4190493,ncos_4
+715,1bb74af8-6c17-48a9-8614-e64b1faa3859,3/28/19 7:00,ncos,NA,Beau Tindall,4,13,NA,-119.8803841,34.41883978,ncos_4
+845,c318b053-3e63-4c3d-8476-3d506ddbde1c,4/5/19 7:00,ncos,NA,Beau Tindall,4,11,NA,-119.8803411,34.41889365,ncos_4
+881,d0628fb5-0600-4336-bf50-f539117c760a,4/11/19 7:00,ncos,NA,Beau Tindall,4,9.5,NA,-119.8803457,34.41889978,ncos_4
+991,f8087fc4-047b-4d0c-8ddd-5e0807f61811,4/19/19 7:00,ncos,NA,Beau Tindall,4,7,NA,-119.880331,34.41887398,ncos_4
+972,d95cb04d-a729-40a2-a955-ebd5eed49294,4/26/19 7:00,ncos,NA,Beau Tindall,4,6,NA,-119.8803486,34.41886473,ncos_4
+1000,f82f8436-37f8-4884-81ec-9800916d4649,5/3/19 7:00,ncos,NA,Beau Tindall,4,3.5,NA,-119.8803329,34.41888352,ncos_4
+1024,0305adc3-bbc8-4a2a-bff8-de18f716ab30,5/17/19 7:00,ncos,NA,Beau Tindall,4,4.75,NA,-119.8803601,34.41884349,ncos_4
+1080,c38d854d-5acf-48bd-ad2c-b140f65b912f,5/23/19 7:00,ncos,NA,Beau Tindall,4,8,NA,-119.8803894,34.41885812,ncos_4
+1073,a737d5fd-7ff5-4f10-9f8e-970c2eb2d8a0,5/31/19 7:00,ncos,NA,Beau Tindall,4,5.5,NA,-119.8803558,34.41891132,ncos_4
+1107,b0d0db3a-386e-4ce4-9066-1a9de5088c1a,6/6/19 7:00,ncos,NA,Beau Tindall,4,4,NA,-119.8804107,34.41893713,ncos_4
+1098,8db3f42f-e05a-4459-9161-f05e0e389cdf,6/14/19 7:00,ncos,NA,Beau Tindall,4,0,NA,-119.8804075,34.41887027,ncos_4
+5,65c5b029-5c0a-4c39-919f-8b39c7ae954b,1/11/19 8:00,ncos,NA,Beau Tindall,5,15.5,NA,-119.8808625,34.41909382,ncos_5
+26,9340d64f-102b-412c-a827-b8e5712d45c4,1/17/19 8:00,ncos,NA,Beau Tindall,5,17.75,NA,-119.8808349,34.41927724,ncos_5
+47,adec2140-c8e4-46bd-b50d-2c25d0339fa3,1/25/19 8:00,ncos,NA,Beau Tindall,5,11.75,NA,-119.8852225,34.42316263,ncos_5
+159,dbed6c83-e0f1-44af-a6d7-f580ad8a21c6,2/1/19 8:00,ncos,NA,Beau Tindall,5,17,NA,-119.8808478,34.41919779,ncos_5
+231,e7694b5a-e7a2-4103-862b-eaa9f690f391,2/8/19 8:00,ncos,NA,Beau Tindall,5,15.75,NA,-119.8808644,34.41923178,ncos_5
+309,a63bc15c-fa91-4b54-95a9-ca5e781b9c61,2/15/19 8:00,ncos,NA,Beau Tindall,5,17,NA,-119.8809432,34.419166,ncos_5
+403,2881409a-0283-47af-a57a-c0634e58478a,2/22/19 8:00,ncos,NA,Beau Tindall,5,14,NA,-119.8808116,34.41918649,ncos_5
+467,d960f64b-9af0-4234-94e4-01a6cd7095fc,3/1/19 8:00,ncos,NA,Beau Tindall,5,13,NA,-119.8809068,34.4192403,ncos_5
+533,f3f17f40-39d3-4d6e-97be-c836745f7219,3/8/19 8:00,ncos,NA,Beau Tindall,5,16.5,NA,-119.8808439,34.41921379,ncos_5
+592,3bb57db5-72a5-43e7-8c94-c97c838fbca9,3/15/19 7:00,ncos,NA,Beau Tindall,5,13,NA,-119.8808523,34.41923368,ncos_5
+663,16f9a62e-8400-4b65-8c7a-fa3759ee239c,3/22/19 7:00,ncos,NA,Beau Tindall,5,10,NA,-119.8804661,34.41894992,ncos_5
+714,27e59f55-cf8f-4f76-8b46-e9e64b081516,3/28/19 7:00,ncos,NA,Beau Tindall,5,8,NA,-119.8808384,34.41917842,ncos_5
+844,d2de7cb1-2dfc-41cd-a545-d12df4d43b39,4/5/19 7:00,ncos,NA,Beau Tindall,5,4,NA,-119.8808639,34.41918841,ncos_5
+880,dd1d9252-06c0-4235-b7a6-65153f0c233f,4/11/19 7:00,ncos,NA,Beau Tindall,5,0,NA,-119.8808585,34.41922908,ncos_5
+1023,6a60c9a0-38ee-4275-b77e-66110047a33e,5/17/19 7:00,ncos,NA,Beau Tindall,5,3.75,NA,-119.8808548,34.41918126,ncos_5
+1079,b97c2faf-2666-450a-aae7-ac0e94c7a01a,5/23/19 7:00,ncos,NA,Beau Tindall,5,7,NA,-119.8809364,34.4191818,ncos_5
+4,ef129472-6e29-4503-ae15-0b1ba0194273,1/11/19 8:00,ncos,NA,Beau Tindall,6,16,NA,-119.8857421,34.42361079,ncos_6
+25,ab2fca9e-cf23-4c56-9c26-1a5a367746f2,1/17/19 8:00,ncos,NA,Beau Tindall,6,18,Cannot see level gauge,-119.8837696,34.42175007,ncos_6
+46,41baeb80-afbf-4d0a-8a0b-f415367ee738,1/25/19 8:00,ncos,NA,Beau Tindall,6,11.5,NA,-119.8842536,34.42225096,ncos_6
+158,8b424291-2092-4474-9b93-0cd245676b92,2/1/19 8:00,ncos,NA,Beau Tindall,6,17.5,NA,-119.8848244,34.42272018,ncos_6
+230,10bc08e8-0ef1-401d-9768-8fad0bd1ec6b,2/8/19 8:00,ncos,NA,Beau Tindall,6,16,NA,-119.8811104,34.41938778,ncos_6
+308,4b6c2e4d-bfab-40ad-8153-e2a5ffbb22b7,2/15/19 8:00,ncos,NA,Beau Tindall,6,18,NA,-119.8810413,34.41933001,ncos_6
+378,d95cc85a-f5ba-4d9b-a6a7-409f76f3e44d,2/22/19 8:00,ncos,NA,Beau Tindall,6,14,NA,-119.881094,34.41930401,ncos_6
+468,07d03923-446b-42af-ac3e-de9dc8e681f9,3/1/19 8:00,ncos,NA,Beau Tindall,6,12,NA,-119.88529,34.42344666,ncos_6
+532,0a47d244-a9e5-43ba-80b6-cfef87a73bcb,3/8/19 8:00,ncos,NA,Beau Tindall,6,17,NA,-119.88114,34.41937502,ncos_6
+591,10ababee-2f49-4b50-bab7-020982808aa1,3/15/19 7:00,ncos,NA,Beau Tindall,6,12.75,NA,-119.8811831,34.4194017,ncos_6
+662,4bd7b448-9e44-479d-85e6-13620856dfce,3/22/19 7:00,ncos,NA,Beau Tindall,6,9,NA,-119.8808778,34.41920494,ncos_6
+713,862cf1e7-bfc9-40de-a11c-186558e1b60e,3/28/19 7:00,ncos,NA,Beau Tindall,6,6,NA,-119.8811095,34.41933513,ncos_6
+843,d1e16b14-1713-4ba9-9536-a4ddcb14cc07,4/5/19 7:00,ncos,NA,Beau Tindall,6,2.75,NA,-119.8811332,34.41932476,ncos_6
+879,bfe689aa-0b75-423c-991c-01c595aec7f8,4/11/19 7:00,ncos,NA,Beau Tindall,6,0,NA,-119.8811302,34.41934426,ncos_6
+1078,19183de0-b639-426e-84bc-9c9c1a46bbdc,5/23/19 7:00,ncos,NA,Beau Tindall,6,3.25,NA,-119.8811468,34.41931972,ncos_6
+3,2fc27084-1fc2-4eff-82e9-d4d9bea7943d,1/11/19 8:00,ncos,NA,Beau Tindall,7,15,NA,-119.8814835,34.41960796,ncos_7
+24,585e21f2-f136-42dc-90cf-c1534e151acf,1/17/19 8:00,ncos,NA,Beau Tindall,7,17.5,NA,-119.8814803,34.41965567,ncos_7
+45,431976ba-0df0-443e-b651-7e3e152809e3,1/25/19 8:00,ncos,NA,Beau Tindall,7,11.5,NA,-119.8814651,34.41969819,ncos_7
+157,b2b75596-51d9-4b9a-89d3-fd525609955e,2/1/19 8:00,ncos,NA,Beau Tindall,7,16.5,NA,-119.8838096,34.42229245,ncos_7
+229,43b46154-3079-4730-8447-465bd1114a84,2/8/19 8:00,ncos,NA,Beau Tindall,7,15.75,NA,-119.8842493,34.4216688,ncos_7
+307,00ab4a28-252e-4c50-a5e2-2e4b20937fa7,2/15/19 8:00,ncos,NA,Beau Tindall,7,17.75,NA,-119.8814094,34.41950525,ncos_7
+377,0149ea5b-6d81-4688-90e0-5ad0f144223c,2/22/19 8:00,ncos,NA,Beau Tindall,7,14,NA,-119.8846916,34.42423388,ncos_7
+469,28ba7065-79be-4798-b113-020e6bc07bc5,3/1/19 8:00,ncos,NA,Beau Tindall,7,12.75,NA,-119.8814254,34.41966878,ncos_7
+531,063ad153-d0be-466c-ab37-1b155bf37de4,3/8/19 8:00,ncos,NA,Beau Tindall,7,16.5,NA,-119.8814407,34.41964717,ncos_7
+590,1710d3dd-c526-4b33-9cbc-5c0a30634ae1,3/15/19 7:00,ncos,NA,Beau Tindall,7,12.75,NA,-119.8814732,34.41965164,ncos_7
+661,2514dd68-31cc-4364-9ceb-4193c0006c27,3/22/19 7:00,ncos,NA,Beau Tindall,7,9.75,NA,-119.8811497,34.41936965,ncos_7
+712,29a9dd3d-bc72-4eaf-a077-f134444ab75b,3/28/19 7:00,ncos,NA,Beau Tindall,7,7,NA,-119.8814753,34.41962715,ncos_7
+842,3500c1f2-44ee-4144-8cc2-055392257430,4/5/19 7:00,ncos,NA,Beau Tindall,7,0,Quite a lot of silt deposit,-119.8814679,34.41963215,ncos_7
+878,81f2dff9-6549-4c28-889b-1f0142ed5ed6,4/11/19 7:00,ncos,NA,Beau Tindall,7,0,NA,-119.881151,34.41939419,ncos_7
+1077,b5f8a2e8-2bd5-4a07-92e5-d9680546076c,5/23/19 7:00,ncos,NA,Beau Tindall,7,4.75,NA,-119.8815104,34.41961162,ncos_7
+2,79ab799d-c631-41e9-83ad-bbb4cad6bc5d,1/11/19 8:00,ncos,NA,Beau Tindall,8,13.25,NA,-119.8818866,34.41993331,ncos_8
+23,60af8c5b-9e9b-4dbf-8bb9-382840e8824e,1/17/19 8:00,ncos,NA,Beau Tindall,8,15.75,NA,-119.8817092,34.41998251,ncos_8
+44,b2866eed-4067-402d-9a33-1f2ddf5a0afb,1/25/19 8:00,ncos,NA,Beau Tindall,8,12,NA,-119.8815888,34.42204955,ncos_8
+156,87eded2e-e980-49a1-9a78-1cf1c9613091,2/1/19 8:00,ncos,NA,Beau Tindall,8,14,NA,-119.8825564,34.42301424,ncos_8
+228,7943e05d-ef8f-484f-8e57-18b1f7abeee7,2/8/19 8:00,ncos,NA,Beau Tindall,8,13.5,NA,-119.8839007,34.4228643,ncos_8
+306,86880c70-de13-4218-b2ea-997141c60153,2/15/19 8:00,ncos,NA,Beau Tindall,8,15,NA,-119.8816876,34.4200431,ncos_8
+376,94b6776f-f408-4ab0-ba5e-721d4862cc50,2/22/19 8:00,ncos,NA,Beau Tindall,8,12.75,NA,-119.8810586,34.42259516,ncos_8
+470,01e3a72b-81df-49e8-b183-f8458119d878,3/1/19 8:00,ncos,NA,Beau Tindall,8,13,NA,-119.8816627,34.41998893,ncos_8
+530,5c949d2c-7754-483c-afcf-4539d5c94678,3/8/19 8:00,ncos,NA,Beau Tindall,8,14,NA,-119.8817206,34.41999739,ncos_8
+589,5dca75b1-2824-42e0-a8f0-0999dc0b6833,3/15/19 7:00,ncos,NA,Beau Tindall,8,11,NA,-119.8817416,34.42001185,ncos_8
+660,c27a381d-91d3-4425-b0b7-f267fc5b6084,3/22/19 7:00,ncos,NA,Beau Tindall,8,11.5,NA,-119.8814685,34.41963769,ncos_8
+711,4ce1d2bd-ffd4-4f46-886f-8cbcac78414d,3/28/19 7:00,ncos,NA,Beau Tindall,8,10,NA,-119.8816542,34.42001534,ncos_8
+841,9ea34548-c561-441c-9b9d-9f1fa4225a68,4/5/19 7:00,ncos,NA,Beau Tindall,8,6,NA,-119.8817292,34.41998689,ncos_8
+877,7701fd62-40db-4e57-bf67-e46c708bc2c1,4/11/19 7:00,ncos,NA,Beau Tindall,8,0,NA,-119.8816565,34.42002559,ncos_8
+1076,19886ced-5fde-42a3-98bd-938e726f6910,5/23/19 7:00,ncos,NA,Beau Tindall,8,12,NA,-119.8816668,34.42000472,ncos_8
+1072,d666f3a0-35e3-49ab-8966-ca5bf6b136dc,5/31/19 7:00,ncos,NA,Beau Tindall,8,9,NA,-119.881732,34.41996423,ncos_8
+1106,96a1a6e4-6c04-44c8-b4e1-261c9899b637,6/6/19 7:00,ncos,NA,Beau Tindall,8,7,NA,-119.8817093,34.41995815,ncos_8
+1097,e7aeb038-0269-401f-8040-a3aa410087a5,6/14/19 7:00,ncos,NA,Beau Tindall,8,1,NA,-119.8817943,34.41997387,ncos_8
+1,a125f57e-9478-4241-95a6-4c27a2e1adb6,1/11/19 8:00,ncos,NA,Beau Tindall,9,6,NA,-119.8820371,34.42026191,ncos_9
+22,5635a107-1a76-4b5c-98e0-71d92095ecf5,1/17/19 8:00,ncos,NA,Beau Tindall,9,8,NA,-119.8818961,34.42027134,ncos_9
+83,0984b729-f2d2-4829-8f1e-55d1865ebde4,1/18/19 0:00,ncos,NA,Joanna Tang,9,7,"Submitted Time:	Jan 18, 2019, 5:03:37 PM",0,0,ncos_9
+43,3acb5feb-b0eb-47ab-a735-5e114f83ac66,1/25/19 8:00,ncos,NA,Beau Tindall,9,0,NA,-119.8804902,34.42215634,ncos_9
+155,d0601e7b-8170-4f32-bfd9-0b34f66b5ffc,2/1/19 8:00,ncos,NA,Beau Tindall,9,7,NA,-119.8818539,34.42021097,ncos_9
+227,f1239db9-810e-4d05-bf43-da7592fc1523,2/8/19 8:00,ncos,NA,Beau Tindall,9,0,Pool almost complelty filled with sediment,-119.8818996,34.42023097,ncos_9
+1054,6f54fb7d-4b49-4c57-894d-0c15c180f88c,1/29/19 0:00,north_parcel,NA,Catherine Reilly,3,11,re-entered from Hydro + YSI survey,0,0,north_parcel_3
+271,f3703e34-2682-44b8-87db-1eff35054a5a,2/4/19 8:00,north_parcel,NA,Robin Hutchinson,3,14,NA,0,0,north_parcel_3
+261,6fda63d9-620c-418e-addd-2d7e3aa197d4,2/11/19 8:00,north_parcel,NA,Robin Hutchinson,3,13,NA,0,0,north_parcel_3
+334,e7a0da0e-64b0-43ed-88a2-6c6146753d1d,2/19/19 8:00,north_parcel,NA,Robin Hutchinson,3,13,NA,0,0,north_parcel_3
+407,ba2a852f-158d-4ce3-af44-5c0ad37f723d,2/25/19 8:00,north_parcel,NA,Catherine Reilly,3,11.25,NA,-119.8837467,34.4228921,north_parcel_3
+525,b6e72b3e-b0c0-4640-80e3-b1bc3980f3a7,3/4/19 8:00,north_parcel,NA,Robin Hutchinson,3,13,NA,0,0,north_parcel_3
+560,4dba2821-0809-41fa-af1f-c6791a9b20d5,3/12/19 7:00,north_parcel,NA,Catherine Reilly,3,12.5,NA,-119.8847157,34.42352115,north_parcel_3
+617,19846915-d3a1-4147-82a5-0de3d5459e44,3/18/19 7:00,north_parcel,NA,Robin Hutchinson,3,10.5,NA,0,0,north_parcel_3
+773,0f29fdfa-4d66-41c6-bb14-dae320e8b5fc,3/25/19 7:00,north_parcel,NA,Robin hutchinson,3,9.5,NA,0,0,north_parcel_3
+764,5fe82634-85ae-4f2a-a202-097c3beb02c9,4/1/19 7:00,north_parcel,NA,Robin Hutchinson,3,8,NA,0,0,north_parcel_3
+796,1beabbb7-3180-4da3-9cf3-8d11f4c6fe54,4/8/19 7:00,north_parcel,NA,Robin Hutchinson,3,6,NA,0,0,north_parcel_3
+924,07cb7d1f-5d8b-42d7-b475-3be5cca2a693,4/16/19 7:00,north_parcel,NA,Catherine Reilly,3,0.5,NA,-119.8837224,34.42282505,north_parcel_3
+971,5ca9fd49-2bd7-421a-8c84-4a7d5755e397,4/23/19 7:00,north_parcel,NA,Catherine Reilly,3,0,NA,-119.8837121,34.42288167,north_parcel_3
+1038,16f7f155-b5cf-445f-be96-c6e6ca2c79f5,5/20/19 7:00,north_parcel,NA,Lauren W,3,3.25,NA,-119.8837141,34.42286432,north_parcel_3
+1058,4da7e2e4-e658-48e7-b4a6-1c897ebe9d48,5/28/19 7:00,north_parcel,NA,Lauren W,3,0.25,NA,-119.8836346,34.42291595,north_parcel_3
+1055,5ead01a4-2174-403d-89f1-fd9772c44788,1/29/19 0:00,north_parcel,NA,Catherine Reilly,4,7,re-entered from Hydro + YSI survey,0,0,north_parcel_4
+272,44016a95-b27b-489a-87eb-06f945fb8db7,2/4/19 8:00,north_parcel,NA,Robin Hutchinson,4,9,NA,0,0,north_parcel_4
+262,fc820d08-3086-4244-afd6-3094309e54f3,2/11/19 8:00,north_parcel,NA,Robin Hutchinson,4,9,NA,0,0,north_parcel_4
+335,3ececf48-f5f3-4677-a9e8-005b5882fa96,2/19/19 8:00,north_parcel,NA,Robin Hutchinson,4,9,NA,0,0,north_parcel_4
+408,b0f53004-61b0-4051-893f-2f8670b69905,2/25/19 8:00,north_parcel,NA,Catherine Reilly,4,7.5,NA,-119.8835918,34.42299294,north_parcel_4
+526,fb843fb3-b82a-4c55-9a88-0ce0f13d0f73,3/4/19 8:00,north_parcel,NA,Robin Hutchinson,4,9,NA,0,0,north_parcel_4
+559,a82916f9-ef12-4013-a116-f66d68f61fd5,3/12/19 7:00,north_parcel,NA,Catherine Reilly,4,8,NA,-119.8835966,34.42301746,north_parcel_4
+616,e6f6a745-6860-4657-9505-b1495a3d2e93,3/18/19 7:00,north_parcel,NA,Robin Hutchinson,4,7,NA,0,0,north_parcel_4
+772,6a323dbd-4527-467d-afb3-aa6ed6609cba,3/25/19 7:00,north_parcel,NA,Robin Hutchinson,4,6,NA,0,0,north_parcel_4
+763,4e48a97c-c7e7-4578-95f5-b850fa32f75d,4/1/19 7:00,north_parcel,NA,Robin Hutchinson,4,4,NA,0,0,north_parcel_4
+797,c012e8dd-a83a-4aa0-8735-62f27cd4f686,4/8/19 7:00,north_parcel,NA,Robin Hutchinson,4,1.5,NA,0,0,north_parcel_4
+923,92c67ec4-42f2-4e1b-b441-df0f3b030f26,4/16/19 7:00,north_parcel,NA,Catherine Reilly,4,0,NA,-119.8836016,34.42308522,north_parcel_4
+1037,5440ac7f-f0f7-44ae-99ef-fb13d07f34cf,5/20/19 7:00,north_parcel,NA,Lauren W,4,4.5,NA,-119.8836345,34.42294084,north_parcel_4
+1059,80d1211d-fada-4c22-8eea-a4eb86c22e02,5/28/19 7:00,north_parcel,NA,Lauren W,4,1.75,NA,-119.8835358,34.42304822,north_parcel_4
+1051,f3883778-e1f2-4720-8a96-abe062759011,1/29/19 0:00,north_parcel,NA,Catherine Reilly,6,12,NA,0,0,north_parcel_6
+275,711597b0-3514-4d43-8a82-441ea4b75dab,2/4/19 8:00,north_parcel,NA,Robin Hutchinson,6,18,Measuring stick fully submerged.,0,0,north_parcel_6
+260,d56d01d9-867e-40c2-90dd-51acf4673ea0,2/11/19 8:00,north_parcel,NA,Robin Hutchinson,6,18,Fully submerged,0,0,north_parcel_6
+332,661c76fa-f4da-455d-8d2d-1f7ffc723cfc,2/19/19 8:00,north_parcel,NA,Robin Hutchinson,6,13,NA,0,0,north_parcel_6
+406,b12e799a-e184-476a-a065-4503ba65a0ec,2/25/19 8:00,north_parcel,NA,Catherine Reilly,6,12,NA,-119.883378,34.42417019,north_parcel_6
+529,cfa7c727-4fe6-440c-bab3-d96c3aa3e625,3/4/19 8:00,north_parcel,NA,Robin Hutchinson,6,14,NA,0,0,north_parcel_6
+562,6474d7e1-91c5-4f95-9890-600d1f086ecf,3/12/19 7:00,north_parcel,NA,Catherine Reilly,6,13,NA,-119.8835317,34.42375578,north_parcel_6
+649,2e2486c2-5255-49b0-a2a1-8cacdf69358a,3/18/19 7:00,north_parcel,NA,Robin Hutchinson,6,12,NA,0,0,north_parcel_6
+774,205a23c4-49a6-479c-bf0e-ccd20e479a42,3/25/19 7:00,north_parcel,NA,Robin Hutchinson,6,10.5,NA,0,0,north_parcel_6
+767,59b36bbc-8e25-4904-83e2-b2e9df88e439,4/1/19 7:00,north_parcel,NA,Robin hutchinson,6,18,Ruler fully submerged,0,0,north_parcel_6
+794,0aa2b163-f903-43d0-a876-0118c2fc26d1,4/8/19 7:00,north_parcel,NA,Robin Hutchinson,6,10,NA,0,0,north_parcel_6
+925,929c1dd5-b0e9-4a56-890f-31cd96abf075,4/16/19 7:00,north_parcel,NA,Catherine Reilly,6,5,NA,-119.8835563,34.42373897,north_parcel_6
+964,4615cae7-57e0-4e1c-98e2-25f6991749e6,4/24/19 7:00,north_parcel,NA,Catherine Reilly,6,0,NA,-119.8835644,34.42373541,north_parcel_6
+1036,f0bafa06-5166-4a6b-89c2-242be99528b7,5/20/19 7:00,north_parcel,NA,Lauren W,6,4.25,NA,-119.8835226,34.42376634,north_parcel_6
+1062,91622628-0dd8-402e-a5c7-cc238af1a87f,5/28/19 7:00,north_parcel,NA,Lauren W,6,1.75,NA,-119.8835591,34.42378059,north_parcel_6
+1052,e765da9c-e114-457e-870f-0b8949d3de4d,1/29/19 0:00,north_parcel,NA,Catherine Reilly,7,17,NA,0,0,north_parcel_7
+1053,caafc6fa-0745-49ba-8485-7812e5ef8d49,1/29/19 0:00,north_parcel,NA,Catherine Reilly,7,17,re-entered from Hydro + YSI survey,0,0,north_parcel_7
+274,a007070b-3b21-423e-84bb-099d07972baf,2/4/19 8:00,north_parcel,NA,Robin Hutchinson,7,14,NA,0,0,north_parcel_7
+259,15565fbe-79c3-4665-95c4-76a93eb46cb8,2/11/19 8:00,north_parcel,NA,Robin Hutchinson,7,14,NA,0,0,north_parcel_7
+333,95810dac-28ce-4722-b939-39fad0db1c6f,2/19/19 8:00,north_parcel,NA,Robin Hutchinson,7,18,Ruler fully submerged,0,0,north_parcel_7
+405,6d1ab222-4af1-4da2-96b4-2e68ea2ad98d,2/25/19 8:00,north_parcel,NA,Catherine Reilly,7,18,NA,-119.8833597,34.42406823,north_parcel_7
+528,b65521ed-324a-479c-aea1-4ce10b5017f7,3/4/19 8:00,north_parcel,NA,Robin Hutchinson,7,18,ruler Fully submerged,0,0,north_parcel_7
+563,3a075eb1-e2f2-4079-88be-7a2ecedb765c,3/12/19 7:00,north_parcel,NA,Catherine Reilly,7,18,NA,-119.8819735,34.42342788,north_parcel_7
+648,f3abbf4f-75e6-4575-96d5-d7f8442ebc9c,3/18/19 7:00,north_parcel,NA,Robin Hutchinson,7,18,Ruler fully submerged,0,0,north_parcel_7
+775,7fac4de5-104d-4d4a-b671-ea40256b310d,3/25/19 7:00,north_parcel,NA,Robin Hutchinson,7,18,Ruler fully submerged,0,0,north_parcel_7
+766,deaf7bc1-097d-4977-92b4-c12bd21e79ee,4/1/19 7:00,north_parcel,NA,Robin Hutchinson,7,9,NA,0,0,north_parcel_7
+793,d01fe2fc-9d90-415d-b0d4-3cee00141d43,4/8/19 7:00,north_parcel,NA,Robin Hutchinson,7,18,Ruler fully submerged,0,0,north_parcel_7
+926,3477619b-aac1-43d5-9898-82ed8fedd230,4/16/19 7:00,north_parcel,NA,Catherine Reilly,7,11,NA,-119.8832138,34.42381466,north_parcel_7
+965,ec6de7bf-4bac-4a36-b07b-f43c6d74c958,4/24/19 7:00,north_parcel,NA,Catherine Reilly,7,9,NA,-119.8831713,34.42376743,north_parcel_7
+997,2a28f805-f099-4b13-8e34-a398e9f43fcd,4/30/19 7:00,north_parcel,NA,Lauren W,7,8.25,NA,-119.8834913,34.42381642,north_parcel_7
+1016,003193dd-5492-4f98-9f42-df56cb2f349d,5/14/19 7:00,north_parcel,NA,Lauren W,7,5.25,NA,-119.8831068,34.42384563,north_parcel_7
+1035,2f2bd721-3c55-41d3-ac46-9988a84ee1b8,5/20/19 7:00,north_parcel,NA,Lauren W,7,8,NA,-119.88318,34.42384203,north_parcel_7
+1061,a46c7b68-3334-44cf-8ff3-480ee5becaab,5/28/19 7:00,north_parcel,NA,Lauren W,7,6,NA,-119.8832073,34.42385527,north_parcel_7
+1090,8cc8d913-8ddb-4713-8f63-f0008f040774,6/3/19 7:00,north_parcel,NA,Lauren W,7,0,"The ruler has been pushed down so despite there being no water in the pool, the ruler reads 4 inches",-119.8830842,34.42381001,north_parcel_7
+1050,1faa335e-cff7-49f0-8008-fd9fe861cc82,1/29/19 0:00,north_parcel,NA,Catherine Reilly,9,12.75,re-entered from Hydro + YSI survey,0,0,north_parcel_9
+273,1eafaa68-6fa9-4672-89f5-b640db965322,2/4/19 8:00,north_parcel,NA,Robin Hutchinson,9,16.5,NA,0,0,north_parcel_9
+258,d36ac4d7-bddf-41f3-b234-1923c99c2b05,2/11/19 8:00,north_parcel,NA,Robin Hutchinson,9,16,NA,0,0,north_parcel_9
+331,bbc8d656-a9b9-457f-bff2-330fee7a1b98,2/19/19 8:00,north_parcel,NA,Robin hutchinson,9,14.5,NA,0,0,north_parcel_9
+409,b2d2dabe-4291-42cf-b929-ecec823734b2,2/25/19 8:00,north_parcel,NA,Catherine Reilly,9,12.5,NA,-119.8822449,34.42343353,north_parcel_9
+527,3ec96cf8-2011-430c-ab47-90184c607288,3/4/19 8:00,north_parcel,NA,Robin Hutchinson,9,15.5,NA,0,0,north_parcel_9
+561,453bc03c-5be3-4c58-ac38-2b304c76031f,3/12/19 7:00,north_parcel,NA,Catherine Reilly,9,14,NA,-119.8826181,34.42342042,north_parcel_9
+650,3e430202-9e37-43be-9b8a-365d5917f618,3/18/19 7:00,north_parcel,NA,Robin Hutchinson,9,10.5,NA,0,0,north_parcel_9
+776,5a27231d-e293-462d-94b0-628a52eb4b2d,3/25/19 7:00,north_parcel,NA,Robin Hutchinson,9,8,NA,0,0,north_parcel_9
+765,a88af30f-f418-4e61-ae5a-addbf020922f,4/1/19 7:00,north_parcel,NA,Robin Hutchinson,9,4.5,NA,0,0,north_parcel_9
+795,6f01a12f-fe0e-4df9-b1a0-1c8615d7be27,4/8/19 7:00,north_parcel,NA,Robin Hutchinson,9,1,NA,0,0,north_parcel_9
+927,a8112e34-f90b-4a94-b253-a008dd7062fc,4/16/19 7:00,north_parcel,NA,Catherine Reilly,9,0,NA,-119.8824068,34.42343194,north_parcel_9
+963,89561d42-df18-4f82-9d73-d6e317324334,4/24/19 7:00,north_parcel,NA,Catherine Reilly,9,0,NA,-119.8823864,34.42403611,north_parcel_9
+1034,4e1a1802-3bc9-4180-8f46-2a8143f9441e,5/20/19 7:00,north_parcel,NA,Lauren W,9,8,NA,-119.8826195,34.42351236,north_parcel_9
+1060,59035282-c01d-49b1-ae69-b22f2b3379b8,5/28/19 7:00,north_parcel,NA,Lauren W,9,5.25,NA,-119.8825813,34.42340508,north_parcel_9
+1091,7c678895-9ee0-4f74-923e-f4bedb5d856b,6/3/19 7:00,north_parcel,NA,Lauren W,9,3.5,NA,-119.8827019,34.42325332,north_parcel_9
+1092,add48366-aac3-4ffb-8b85-cf6b1199bf38,6/11/19 7:00,north_parcel,NA,Lauren W,9,0.75,NA,-119.8827019,34.42325332,north_parcel_9
+1049,0748482a-cc0d-48d4-828f-3497520cf072,1/29/19 0:00,north_parcel,NA,Catherine Reilly,14,12,re-entered from Hydro + YSI survey,0,0,north_parcel_14
+270,0570c274-0ae1-445f-8b63-143131a68e9a,2/4/19 8:00,north_parcel,NA,Robin Hutchinson,14,16,NA,0,0,north_parcel_14
+264,eda8c4cf-459d-4d2d-a0ae-7bdbf38dd924,2/11/19 8:00,north_parcel,NA,Robin Hutchinson,14,15,NA,0,0,north_parcel_14
+336,851b5290-fdbf-4e86-bb0d-4a2bff6b5279,2/19/19 8:00,north_parcel,NA,Robin Hutchinson,14,14,NA,0,0,north_parcel_14
+410,79f58308-e71d-4ca7-8589-e74692c066dc,2/25/19 8:00,north_parcel,NA,Catherine Reilly,14,13,NA,-119.8818329,34.42287168,north_parcel_14
+524,c4a5b756-2361-40f7-9fcf-81f45119450d,3/4/19 8:00,north_parcel,NA,Robin Hutchinson,14,15,NA,0,0,north_parcel_14
+557,83581d23-9035-4436-93a1-d8c656598b81,3/12/19 7:00,north_parcel,NA,Catherine Reilly,14,13.5,NA,-119.8819682,34.4227248,north_parcel_14
+647,1b02744a-c145-422a-a7f6-3189bb311ca8,3/18/19 7:00,north_parcel,NA,Robin Hutchinson,14,12,NA,0,0,north_parcel_14
+771,faff1adc-29fa-48e3-8b4f-cd4b685ffe58,3/25/19 7:00,north_parcel,NA,Robin Hutchinson,14,11,NA,0,0,north_parcel_14
+762,1c36f2ff-bf29-4ebc-b1f1-0a93ab45b1e4,4/1/19 7:00,north_parcel,NA,Robin Hutchinson,14,8.5,NA,0,0,north_parcel_14
+798,ec96d8dd-59da-4dd0-8e6d-918cff646a41,4/8/19 7:00,north_parcel,NA,Robin Hutchinson,14,6,NA,0,0,north_parcel_14
+928,529410e1-c230-4e40-9ea0-be2c7ee40aeb,4/16/19 7:00,north_parcel,NA,Catherine Reilly,14,2.75,NA,-119.8818958,34.42268373,north_parcel_14
+966,cd18023b-7f93-4d82-a85b-a8f7a58dba9d,4/24/19 7:00,north_parcel,NA,Catherine Reilly,14,0,NA,-119.8818855,34.42274668,north_parcel_14
+1048,5410cbdd-826e-4f5a-8283-ac32538f70b9,1/29/19 0:00,north_parcel,NA,Catherine Reilly,16,15,re-entered from Hydro + YSI survey,0,0,north_parcel_16
+269,8c0eb9b0-e1ef-48bd-8d61-045beb5d89a2,2/4/19 8:00,north_parcel,NA,Robin Hutchinson,16,17,NA,0,0,north_parcel_16
+263,94741f0b-37cd-484e-8487-a37d61c842fb,2/11/19 8:00,north_parcel,NA,Robin Hutchinson,16,17,NA,0,0,north_parcel_16
+337,6dfb8e13-2ecc-4e89-bafd-cf6ea07ae574,2/19/19 8:00,north_parcel,NA,Robin Hutchinson,16,16.5,NA,0,0,north_parcel_16
+411,0b6d5b0d-7d7e-452e-bc83-de18a6bc5c23,2/25/19 8:00,north_parcel,NA,Catherine Reilly,16,16,NA,-119.8815955,34.42240914,north_parcel_16
+523,be1a85a8-595b-47be-8b09-203d38c8bceb,3/4/19 8:00,north_parcel,NA,Robin Hutchinson,16,17,NA,0,0,north_parcel_16
+558,138a13f3-2b2f-499a-9fab-5229f62c8b36,3/12/19 7:00,north_parcel,NA,Catherine Reilly,16,17,NA,-119.8816579,34.42254287,north_parcel_16
+646,ac9425dc-6fcd-4f5e-a4de-f562d840ed49,3/18/19 7:00,north_parcel,NA,Robin Hutchinson,16,15,NA,0,0,north_parcel_16
+770,ad0b7a0d-86ce-4b4d-ad9c-c9afa8b2bf10,3/25/19 7:00,north_parcel,NA,Robin Hutchinson,16,14.5,NA,0,0,north_parcel_16
+761,501a648f-652c-43d0-8f47-63a14d1c28c4,4/1/19 7:00,north_parcel,NA,Robin Hutchinson,16,12.5,"Estimated, eleocharis very dense",0,0,north_parcel_16
+929,695cbf89-6382-4964-a22c-7d9fbf0e9767,4/16/19 7:00,north_parcel,NA,Catherine Reilly,16,9.5,NA,-119.8816299,34.42247267,north_parcel_16
+967,62ebe310-eabb-4103-b751-853ae704c7ff,4/24/19 7:00,north_parcel,NA,Catherine Reilly,16,7.5,NA,-119.8816462,34.42246811,north_parcel_16
+996,c8a0bc55-46ea-49ce-9fa7-69150b888b80,4/30/19 7:00,north_parcel,NA,Lauren W,16,6.5,NA,-119.8794037,34.4224741,north_parcel_16
+1015,b0fc27d9-9dec-4055-a759-bc10986489af,5/14/19 7:00,north_parcel,NA,Lauren W,16,3,NA,-119.8816189,34.42252716,north_parcel_16
+1031,9644b130-5fa3-4a06-9140-837dd2e106da,5/20/19 7:00,north_parcel,NA,Lauren W,16,4.75,NA,-119.8816125,34.42237217,north_parcel_16
+1047,7b609f98-ab75-48fb-8e26-e1f430b25c04,1/29/19 0:00,north_parcel,NA,Catherine Reilly,19,11.25,re-entered from Hydro + YSI survey,0,0,north_parcel_19
+268,a1e81dce-00f2-48b6-8457-34d9ce09b564,2/4/19 8:00,north_parcel,NA,Robin Hutchinson,19,15,NA,0,0,north_parcel_19
+266,e6ebd9d2-3243-4615-bfb1-9294706e491a,2/11/19 8:00,north_parcel,NA,Robin Hutchinson,19,14,NA,0,0,north_parcel_19
+339,214cbf83-7b9a-4721-baaa-f358a910b19d,2/19/19 8:00,north_parcel,NA,Robin Hutchinson,19,13.5,NA,0,0,north_parcel_19
+413,12ef4c00-044c-42a3-8bce-462e340c6c4c,2/25/19 8:00,north_parcel,NA,Catherine Reilly,19,12,NA,-119.8797909,34.42232504,north_parcel_19
+522,fec585c9-8e08-4ea9-8e5c-ee9b941415e8,3/4/19 8:00,north_parcel,NA,Robin Hutchinson,19,14,NA,0,0,north_parcel_19
+556,54350bdd-f545-454b-bf93-5a6ef57ea5c1,3/12/19 7:00,north_parcel,NA,Catherine Reilly,19,13,NA,-119.8794047,34.4222516,north_parcel_19
+645,1fa88551-3380-4538-8e79-0b6308a3578c,3/18/19 7:00,north_parcel,NA,Robin Hutchinson,19,12.5,NA,0,0,north_parcel_19
+769,99b9e5a5-8491-40d9-8876-72ad2fb9f028,3/25/19 7:00,north_parcel,NA,Robin Hutchinson,19,10,NA,0,0,north_parcel_19
+760,b44dac6b-aa01-4901-8ddb-895eee821d93,4/1/19 7:00,north_parcel,NA,Robin Hutchinson,19,8.5,NA,0,0,north_parcel_19
+799,2c7faac1-3c50-486d-837d-d5423d69ac2b,4/8/19 7:00,north_parcel,NA,Robin Hutchinson,19,7,NA,0,0,north_parcel_19
+930,5ca16251-c841-4610-bc41-be4db924e7cd,4/16/19 7:00,north_parcel,NA,Catherine Reilly,19,3.5,NA,-119.8794072,34.42205069,north_parcel_19
+968,be89e4ae-18df-40b5-8ee2-bea545bd3467,4/23/19 7:00,north_parcel,NA,Catherine Reilly,19,0,NA,-119.8791914,34.42212617,north_parcel_19
+1032,b75fb8e0-8e13-4088-98c1-4aac78461b37,5/20/19 7:00,north_parcel,NA,Lauren W,19,4.5,NA,-119.8793701,34.42217662,north_parcel_19
+1046,b9a9f85d-21d8-4eba-82af-6c560db38712,1/29/19 0:00,north_parcel,NA,Catherine Reilly,PH1,11.5,re-entered from Hydro + YSI survey,0,0,north_parcel_PH1
+267,ffdf97af-6cc2-407a-84ce-c1f9a5b1c7d0,2/4/19 8:00,north_parcel,NA,Robin Hutchinson,PH1,16,NA,0,0,north_parcel_PH1
+265,19bd8431-1f32-48d3-9b54-3ea57d208f63,2/11/19 8:00,north_parcel,NA,Robin Hutchinson,PH1,15.5,NA,0,0,north_parcel_PH1
+338,65334f13-544c-422f-ab3e-6996eb020109,2/19/19 8:00,north_parcel,NA,Robin hutchinson,PH1,15,NA,0,0,north_parcel_PH1
+412,639b1262-f1ff-471e-8711-df9d19e26555,2/25/19 8:00,north_parcel,NA,Catherine Reilly,PH1,12.25,NA,-119.879312,34.42312323,north_parcel_PH1
+521,b68794e2-6452-46fe-a0b6-b97b5085e0d3,3/4/19 8:00,north_parcel,NA,Robin Hutchinson,PH1,16,NA,0,0,north_parcel_PH1
+555,64d34715-f2e5-4dd7-9b12-b1e7d514cb97,3/12/19 7:00,north_parcel,NA,Catherine Reilly,PH1,14.5,NA,-119.8793162,34.42331026,north_parcel_PH1
+644,a24cb99b-85ef-4a2c-902d-2013ab82dce1,3/18/19 7:00,north_parcel,NA,Robin Hutchinson,PH1,11,NA,0,0,north_parcel_PH1
+768,fbc8898e-e93d-4ce1-a1d1-84417980b8ca,3/25/19 7:00,north_parcel,NA,Robin Hutchinson,PH1,8,NA,0,0,north_parcel_PH1
+759,a1156a31-8ef0-4097-aa39-940d2f39eabb,4/1/19 7:00,north_parcel,NA,Robin Hutchinson,PH1,3.5,NA,0,0,north_parcel_PH1
+800,b437914e-c41f-43b3-9c1e-a86f7b9e2b3e,4/8/19 7:00,north_parcel,NA,Robin Hutchinson,PH1,0,Pool fully empty,0,0,north_parcel_PH1
+931,51141c57-0f82-4c5d-b6ec-24332cb0967f,4/16/19 7:00,north_parcel,NA,Catherine Reilly,PH1,0,NA,-119.8794123,34.42302546,north_parcel_PH1
+969,deb030f1-5cfa-49c4-9fdd-88c10f267022,4/23/19 7:00,north_parcel,NA,Catherine Reilly,PH1,0,NA,-119.8792183,34.42176302,north_parcel_PH1
+1033,a675407f-2fc8-469d-87cb-ead88bf72ce6,5/20/19 7:00,north_parcel,NA,Lauren W,PH1,4,NA,-119.8796014,34.4230641,north_parcel_PH1
+801,cf9de316-b4e8-48fb-bde1-81b4eb7166f4,1/11/19 8:00,sierra_madre,NA,Johnny A,Central Wetland,22,NA,0,0,sierra_madre_Central_Wetland
+802,9b4d1224-5af9-4bd5-9466-aa34bb7921d1,1/18/19 8:00,sierra_madre,NA,Johnny A,Central Wetland,24,Max level,0,0,sierra_madre_Central_Wetland
+803,44fca7a3-e952-403f-8a7d-ae96faf8c17a,1/25/19 8:00,sierra_madre,NA,Johnny A,Central Wetland,24,Max level,0,0,sierra_madre_Central_Wetland
+804,34102370-c72c-4341-83fc-a4e0ced21edc,2/1/19 8:00,sierra_madre,NA,Johnny A,Central Wetland,22,NA,0,0,sierra_madre_Central_Wetland
+805,a228b3d7-3d87-48c4-a382-0576af7bf8bd,2/8/19 8:00,sierra_madre,NA,Johnny A,Central Wetland,23,NA,0,0,sierra_madre_Central_Wetland
+806,06467fbf-0461-411f-b124-f7ec86c6aaf9,2/15/19 8:00,sierra_madre,NA,Johnny A,Central Wetland,24,Max level,0,0,sierra_madre_Central_Wetland
+807,7be9e675-a54d-45a5-a60d-9df07e49ee2b,2/22/19 8:00,sierra_madre,NA,Johnny A,Central Wetland,23,NA,0,0,sierra_madre_Central_Wetland
+808,1417bd71-5a50-4be7-a5f8-d85b5e94e0c5,3/1/19 8:00,sierra_madre,NA,Johnny A,Central Wetland,24,Max level,0,0,sierra_madre_Central_Wetland
+809,3b0377d5-2c09-4917-8c98-6d36adfd4389,3/8/19 8:00,sierra_madre,NA,Johnny A,Central Wetland,23,NA,0,0,sierra_madre_Central_Wetland
+810,0fac117e-c657-4359-a4e4-eb331d4c5a17,3/15/19 7:00,sierra_madre,NA,Johnny A,Central Wetland,24,Max level,0,0,sierra_madre_Central_Wetland
+811,d8b7f926-a0aa-4aec-a7c1-098862c70039,3/22/19 7:00,sierra_madre,NA,Johnny A,Central Wetland,22,NA,0,0,sierra_madre_Central_Wetland
+812,03a62620-8cae-4fea-9ac5-25dd073fa772,3/29/19 7:00,sierra_madre,NA,Johnny A,Central Wetland,20,NA,0,0,sierra_madre_Central_Wetland
+932,e9cfe970-812f-4645-87d8-240a779f0da7,4/5/19 7:00,sierra_madre,NA,Johnny A,Central Wetland,18,NA,0,0,sierra_madre_Central_Wetland
+933,f16f70e2-7e2c-45c7-867e-5de0c8949327,4/12/19 7:00,sierra_madre,NA,Johnny A,Central Wetland,16,NA,0,0,sierra_madre_Central_Wetland
+934,e67365e3-3282-4b24-8ed8-844668a657a0,4/19/19 7:00,sierra_madre,NA,Johnny A,Central Wetland,14.5,NA,0,0,sierra_madre_Central_Wetland
+1027,d2a2f90b-60e7-4c51-b634-0cc48d742615,4/26/19 7:00,sierra_madre,NA,Johnny A,Central Wetland,13,NA,0,0,sierra_madre_Central_Wetland
+1028,200607e9-4baa-4ebe-8070-9bf88e39f778,5/3/19 7:00,sierra_madre,NA,Johnny A,Central Wetland,11,NA,0,0,sierra_madre_Central_Wetland
+1029,8bd017c2-44bf-47c6-b79e-ee1c266af1a4,5/10/19 7:00,sierra_madre,NA,Johnny A,Central Wetland,9.5,NA,0,0,sierra_madre_Central_Wetland
+1030,f16859c4-4609-4d0d-bd81-70b0cb93c650,5/17/19 7:00,sierra_madre,NA,Johnny A,Central Wetland,10.5,NA,0,0,sierra_madre_Central_Wetland
+1063,79207d29-0876-4888-b062-bb715434227f,5/24/19 7:00,sierra_madre,NA,Johnny A,Central Wetland,9.5,NA,0,0,sierra_madre_Central_Wetland
+1064,02fa0776-1f50-4077-af56-e3f0c046f196,5/31/19 7:00,sierra_madre,NA,Johnny A,Central Wetland,11,NA,0,0,sierra_madre_Central_Wetland
+59,ac11d293-d140-4db8-ad50-49cfe38869b5,1/25/19 8:00,south_parcel,NA,Beau Tindall,1,7.5,NA,-119.8839155,34.41824225,south_parcel_1
+171,a37fb916-281c-48d8-aef4-7462bcbe02b9,2/1/19 8:00,south_parcel,NA,Beau Tindall,1,9.5,NA,-119.8840071,34.41827779,south_parcel_1
+242,ecd81024-49c8-4543-afe3-17cb84bdfa11,2/8/19 8:00,south_parcel,NA,Beau Tindall,1,9,NA,-119.8839032,34.41824572,south_parcel_1
+320,3e773452-2751-45df-b51d-fe03451da66b,2/15/19 8:00,south_parcel,NA,Beau Tindall,1,9.75,NA,-119.8839293,34.41824536,south_parcel_1
+388,03bf544f-446f-4832-9a63-f312598fdf98,2/22/19 8:00,south_parcel,NA,Beau Tindall,1,8.5,NA,-119.8839299,34.41823763,south_parcel_1
+462,54506876-17c6-40bf-95c9-3508d0ff6b36,3/1/19 8:00,south_parcel,NA,Beau Tindall,1,9,NA,-119.883975,34.41825564,south_parcel_1
+544,40a4118f-ac99-461b-b1cc-1d983533b02a,3/8/19 8:00,south_parcel,NA,Beau Tindall,1,9.5,NA,-119.8839454,34.41828528,south_parcel_1
+603,4d99cc71-7ce4-45e6-af90-8f12277ef7b1,3/15/19 7:00,south_parcel,NA,Beau Tindall,1,8,NA,-119.8839713,34.41826958,south_parcel_1
+674,743c7697-9373-4a92-bcd1-02e27b8151c5,3/22/19 7:00,south_parcel,NA,Beau Tindall,1,7,NA,-119.8840374,34.4182584,south_parcel_1
+725,b0358d40-83bc-4d69-a426-63ec927dff75,3/28/19 7:00,south_parcel,NA,Beau Tindall,1,6.25,NA,-119.883926,34.41827757,south_parcel_1
+837,3a60bc47-810c-46ac-8fbb-5dcd8e253faa,4/5/19 7:00,south_parcel,NA,Beau Tindall,1,4.5,NA,-119.8838983,34.41826354,south_parcel_1
+891,5a97d266-7af4-4766-839b-8278a822cd31,4/11/19 7:00,south_parcel,NA,Beau tindall,1,2,NA,-119.8838956,34.41824706,south_parcel_1
+990,b8c660db-b01e-4d13-834f-1c8569e3d677,4/19/19 7:00,south_parcel,NA,Beau Tindall,1,0,NA,-119.8839638,34.41829111,south_parcel_1
+1020,1c882c86-52fb-43c6-93d5-d6d1380da44c,5/17/19 7:00,south_parcel,NA,Beau Tindall,1,3.75,NA,-119.8839555,34.41828408,south_parcel_1
+1087,5ca95e59-f774-4015-85c4-8a338f86ca70,5/23/19 7:00,south_parcel,NA,Beau Tindall,1,6,NA,-119.8838995,34.41825271,south_parcel_1
+1069,6bd0249b-1f0a-44a5-8181-1adaab19fd9f,5/31/19 7:00,south_parcel,NA,Beau Tindall,1,3,NA,-119.8839733,34.41818961,south_parcel_1
+60,78874e20-79bb-4791-b33b-aff59529a242,1/25/19 8:00,south_parcel,NA,Beau Tindall,2,12.75,NA,-119.8835071,34.42381951,south_parcel_2
+172,f9abb055-1132-4b84-99c0-0b749e30afbf,2/1/19 8:00,south_parcel,NA,Beau Tindall,2,13.25,NA,-119.8840038,34.41814167,south_parcel_2
+243,fd0dc0b4-6b32-4a6d-bff7-cf3f2f1098c4,2/8/19 8:00,south_parcel,NA,Beau Tindall,2,13,NA,-119.8832321,34.42292298,south_parcel_2
+321,a0fbc4c0-17e9-48b5-9a29-d8c03f14bf9e,2/15/19 8:00,south_parcel,NA,Beau Tindall,2,13.5,NA,-119.8840697,34.41835614,south_parcel_2
+389,50f43bc8-57dd-46a0-9c39-47e2966e24e2,2/22/19 8:00,south_parcel,NA,Beau Tindall,2,12.75,NA,-119.884071,34.41810612,south_parcel_2
+463,4852b4a7-4b48-407b-a69c-4dce3c8162f9,3/1/19 8:00,south_parcel,NA,Beau Tindall,2,13.25,NA,-119.8840008,34.4182445,south_parcel_2
+545,c10dfaaf-635e-4abc-8942-7b08fe096d70,3/8/19 8:00,south_parcel,NA,Beau Tindall,2,12,NA,-119.8839759,34.41826265,south_parcel_2
+604,ed59e3be-5ccf-461a-81d9-efba968f1d1f,3/15/19 7:00,south_parcel,NA,Beau Tindall,2,12,NA,-119.8840343,34.41824587,south_parcel_2
+675,0581c216-e09b-4926-9838-0b4dfea79cda,3/22/19 7:00,south_parcel,NA,Beau Tindall,2,12,NA,-119.8840645,34.41825831,south_parcel_2
+726,d1a04bb0-197d-48c6-8563-dd691eebc870,3/28/19 7:00,south_parcel,NA,Beau Tindall,2,11.25,NA,-119.883971,34.41825516,south_parcel_2
+838,1096da6a-285c-4868-ac7c-f1dce7422462,4/5/19 7:00,south_parcel,NA,Beau Tindall,2,10,NA,-119.8840421,34.41828988,south_parcel_2
+892,2f937a4b-fcde-49aa-86d5-a790b55847f3,4/11/19 7:00,south_parcel,NA,Beau Tindall,2,9,NA,-119.8840545,34.41813931,south_parcel_2
+989,deba50ab-26ce-489d-9bc7-bb4638a071d3,4/19/19 7:00,south_parcel,NA,Beau Tindall,2,7.75,NA,-119.8840272,34.41826036,south_parcel_2
+979,6234f1ca-158a-4f40-a201-5428246cc3f2,4/26/19 7:00,south_parcel,NA,Beau Tindall,2,6.75,NA,-119.8839797,34.41825,south_parcel_2
+1004,c0d1f893-0668-45bd-a6a9-cd41ef052a5b,5/3/19 7:00,south_parcel,NA,Beau Tindall,2,6,NA,-119.8840599,34.41829648,south_parcel_2
+1013,b62a83e5-e1ea-4155-81c2-355447719195,5/10/19 7:00,south_parcel,NA,Beau Tindall,2,5,NA,-119.8840111,34.41828618,south_parcel_2
+1021,8536f95d-a1c2-49f9-94f7-961e3241acdd,5/17/19 7:00,south_parcel,NA,Beau Tindall,2,5.25,NA,-119.8838505,34.41821692,south_parcel_2
+1088,70c9f7b8-5256-42d5-bfe1-8a24af9a0644,5/23/19 7:00,south_parcel,NA,Beau Tindall,2,6,NA,-119.8840022,34.41827231,south_parcel_2
+1070,0b9028b8-a03b-421d-ae73-00a2dc61383a,5/31/19 7:00,south_parcel,NA,Beau Tindall,2,4,NA,-119.8840104,34.4183127,south_parcel_2
+1104,c9afa91b-ce87-481c-89fc-da6bd69f99c1,6/6/19 7:00,south_parcel,NA,Beau Tindall,2,3.75,NA,-119.8840258,34.418285,south_parcel_2
+31,3dacb0f5-6626-4183-b7c0-0c542f8da8ed,1/25/19 8:00,south_parcel,NA,Beau Tindall,3,13.25,NA,-119.88357,34.42610608,south_parcel_3
+164,1fd15a08-c0ce-4136-8701-88043b7986ba,2/1/19 8:00,south_parcel,NA,Beau Tindall,3,14,NA,-119.8841295,34.41817108,south_parcel_3
+244,0b984276-b586-45f5-bb31-7546c45a7159,2/8/19 8:00,south_parcel,NA,Beau Tindall,3,13.75,NA,-119.8841315,34.41784961,south_parcel_3
+322,0fafd410-a498-414f-868b-a047d05430dc,2/15/19 8:00,south_parcel,NA,Beau Tindall,3,14,NA,-119.8842965,34.4182085,south_parcel_3
+390,82b8348e-3df3-4921-9c3b-9a380b1a21c9,2/22/19 8:00,south_parcel,NA,Beau Tindall,3,13.5,NA,-119.8834359,34.42571603,south_parcel_3
+464,3acda97f-b994-4787-b5e5-72222acbfe88,3/1/19 8:00,south_parcel,NA,Beau Tindall,3,14,NA,-119.8777709,34.42641149,south_parcel_3
+546,a32875a2-bcae-47c0-907a-b515e11a31eb,3/8/19 8:00,south_parcel,NA,Beau Tindall,3,14.25,NA,-119.8842418,34.41808199,south_parcel_3
+605,7c1e7334-774e-4705-b97b-5e906c6d8abd,3/15/19 7:00,south_parcel,NA,Beau Tindall,3,13,NA,-119.8837005,34.41782931,south_parcel_3
+676,181978d1-1929-465a-9b80-740d4587e3cf,3/22/19 7:00,south_parcel,NA,Beau Tindall,3,13.5,NA,-119.8841998,34.41806402,south_parcel_3
+727,bbcc4c46-d2fb-45f3-b710-a922f817fb5c,3/28/19 7:00,south_parcel,NA,Beau Tindall,3,12,NA,-119.8841808,34.41812048,south_parcel_3
+839,5b4ad3ce-9cea-4660-befa-b645e6747cbf,4/5/19 7:00,south_parcel,NA,Beau Tindall,3,11.5,NA,-119.884156,34.41810251,south_parcel_3
+893,223f5f2e-044f-4e62-a026-148201aaffd2,4/11/19 7:00,south_parcel,NA,Beau Tindall,3,9.5,NA,-119.8842422,34.41807552,south_parcel_3
+988,b176796a-ce04-41e2-95f7-34717bd1fe85,4/19/19 7:00,south_parcel,NA,Beau Tindall,3,8,NA,-119.8841757,34.41814801,south_parcel_3
+980,d2625b32-20a3-4112-ada8-9932b364950d,4/26/19 7:00,south_parcel,NA,Beau Tindall,3,7,NA,-119.8842894,34.41807345,south_parcel_3
+1005,497dfa9b-87b2-43d7-8cd8-2074a258800a,5/3/19 7:00,south_parcel,NA,Beau Tindall,3,6,NA,-119.8843761,34.41815506,south_parcel_3
+1014,b52ae1d5-e4d9-45a6-ba4c-d444b2bdab00,5/10/19 7:00,south_parcel,NA,Beau Tindall,3,5,NA,-119.8842353,34.41814372,south_parcel_3
+1022,a516fc1f-0356-4172-8748-0770184a1c09,5/17/19 7:00,south_parcel,NA,Beau Tindall,3,6,NA,-119.8841614,34.41808728,south_parcel_3
+1089,4ce5ba93-5fe8-4850-872e-9be40c66c70c,5/23/19 7:00,south_parcel,NA,Beau Tindall,3,8.5,NA,-119.8842271,34.41800568,south_parcel_3
+1071,8260a906-8852-4d48-ab38-d0a678b13700,5/31/19 7:00,south_parcel,NA,Beau Tindall,3,6.5,NA,-119.8842096,34.41798147,south_parcel_3
+1105,a1ed73a1-f1c7-4bea-8852-5f00daf91316,6/6/19 7:00,south_parcel,NA,Beau Tindall,3,6,NA,-119.8842715,34.41798758,south_parcel_3
+1096,a6f3e5b0-540e-45a6-803c-3b34a2e80354,6/14/19 7:00,south_parcel,NA,Beau Tindall,3,4,NA,-119.8842497,34.4179875,south_parcel_3
+1112,0c64eb22-1fbc-4e80-9093-c52cd00be32a,6/21/19 7:00,south_parcel,NA,Beau Tindall,3,2.5,NA,-119.884251,34.41796363,south_parcel_3
+58,86a5968b-695d-4185-8c11-06aa788a55be,1/25/19 8:00,south_parcel,NA,Beau Tindall,4,10.5,NA,-119.8842221,34.41841161,south_parcel_4
+170,27cf6893-3ba3-4d25-9a99-3e5b51e86d74,2/1/19 8:00,south_parcel,NA,Beau Tindall,4,11,NA,-119.8837018,34.42326652,south_parcel_4
+241,28abfec9-37e4-4a73-93e0-165f61f3f0ee,2/8/19 8:00,south_parcel,NA,Beau Tindall,4,11,NA,-119.8842085,34.4183115,south_parcel_4
+319,66153ea1-d0a4-4250-a036-151db1ae6af8,2/15/19 8:00,south_parcel,NA,Beau Tindall,4,11,NA,-119.8839117,34.42374112,south_parcel_4
+387,30518b7d-8fc6-4763-8f19-d7048301ee2c,2/22/19 8:00,south_parcel,NA,Beau Tindall,4,10.75,NA,-119.8840787,34.42359502,south_parcel_4
+461,fc9ece41-3564-46ae-bda1-786e6cbb8db0,3/1/19 8:00,south_parcel,NA,Beau Tindall,4,11,NA,-119.8841633,34.41843851,south_parcel_4
+543,3c93c7ce-7ba5-446c-80fd-3cb683a96953,3/8/19 8:00,south_parcel,NA,Beau Tindall,4,11,NA,-119.8841393,34.41845523,south_parcel_4
+602,fad2c31e-3960-4d70-b5f5-1b120305a426,3/15/19 7:00,south_parcel,NA,Beau Tindall,4,10,NA,-119.8841469,34.41846505,south_parcel_4
+673,2cccc7a4-3b39-42e7-b50b-3365edc5a6da,3/22/19 7:00,south_parcel,NA,Beau Tindall,4,9.75,NA,-119.8838029,34.41849153,south_parcel_4
+724,53511272-73fd-4674-9a13-b119b3ee58a1,3/28/19 7:00,south_parcel,NA,Beau Tindall,4,9,NA,-119.8841461,34.41845842,south_parcel_4
+836,a870227b-b712-4fde-b8f1-b30637fe3096,4/5/19 7:00,south_parcel,NA,Beau Tindall,4,8,NA,-119.8841803,34.41844496,south_parcel_4
+890,73f3e684-4e4a-495b-890f-0f66780af1f5,4/11/19 7:00,south_parcel,NA,Beau Tindall,4,7,NA,-119.8841279,34.41848093,south_parcel_4
+987,d2ed3109-c8a7-43ec-baaa-a0b4a15a29e4,4/19/19 7:00,south_parcel,NA,Beau Tindall,4,5.75,NA,-119.8841478,34.41846477,south_parcel_4
+978,638a67d2-87c2-41cb-8bee-5b24d6d7ff7c,4/26/19 7:00,south_parcel,NA,Beau Tindall,4,4.75,NA,-119.8842257,34.41843879,south_parcel_4
+1003,eaa196eb-0cef-4dfc-9fc9-7313ea6ac56a,5/3/19 7:00,south_parcel,NA,Beau Tindall,4,3.75,NA,-119.8842058,34.41847026,south_parcel_4
+1012,03a61682-a693-4112-9917-cdd9e77d5ee9,5/10/19 7:00,south_parcel,NA,Beau Tindall,4,2.5,NA,-119.8841715,34.41844909,south_parcel_4
+1019,89bab891-29cb-4382-88c0-d3e410e41bca,5/17/19 7:00,south_parcel,NA,Beau Tindall,4,5,NA,-119.8841924,34.4184052,south_parcel_4
+1086,89511808-f09f-48ed-903e-6f668b7204a2,5/23/19 7:00,south_parcel,NA,Beau Tindall,4,7,NA,-119.8841319,34.41845421,south_parcel_4
+1068,cf5039fb-a8fb-41f4-8ad2-f58fd4d92583,5/31/19 7:00,south_parcel,NA,Beau Tindall,4,5.25,NA,-119.8842194,34.41844847,south_parcel_4
+1103,136a5c93-da3c-47ef-8d48-62d107011ebe,6/6/19 7:00,south_parcel,NA,Beau Tindall,4,5,NA,-119.8842047,34.41845821,south_parcel_4
+1094,0e48ff72-cc6a-4419-8e42-1489626b65ae,6/14/19 7:00,south_parcel,NA,Beau Tindall,4,1,NA,-119.8841389,34.4184594,south_parcel_4
+57,551d8f8e-24df-4666-8579-cca3e3c07683,1/25/19 8:00,south_parcel,NA,Beau Tindall,5,18.75,NA,-119.8840531,34.41873206,south_parcel_5
+169,a7500cd6-db27-4113-a67c-b057d9564cb9,2/1/19 8:00,south_parcel,NA,Beau Tindall,5,19.5,NA,-119.8843509,34.42083868,south_parcel_5
+240,d79cf278-28dd-4a5d-bac8-a74e1838dc97,2/8/19 8:00,south_parcel,NA,Beau Tindall,5,19,NA,-119.8840521,34.4185956,south_parcel_5
+318,41ebd528-9a96-4f12-9a18-3dee3d2d182c,2/15/19 8:00,south_parcel,NA,Beau Tindall,5,19.75,NA,-119.8840891,34.41842971,south_parcel_5
+386,fd32a13d-5a81-4b34-8c06-ce06cc1fead3,2/22/19 8:00,south_parcel,NA,Beau Tindall,5,19,NA,-119.8836525,34.41880874,south_parcel_5
+460,449aaf7a-a81b-4919-a2cd-fa775742605a,3/1/19 8:00,south_parcel,NA,Beau Tindall,5,19.5,NA,-119.8840868,34.41851981,south_parcel_5
+542,ad262f76-ec97-48af-b00e-7eb945429fae,3/8/19 8:00,south_parcel,NA,Beau Tindall,5,19.5,NA,-119.883956,34.41859646,south_parcel_5
+601,2345f5e9-c60d-43a4-8da6-331c14139215,3/15/19 7:00,south_parcel,NA,Beau Tindall,5,18.5,NA,-119.8839769,34.41855862,south_parcel_5
+672,0dbd3bfa-b9b9-42b2-93b8-818f87dc02d0,3/22/19 7:00,south_parcel,NA,Beau Tindall,5,18,NA,-119.8839498,34.41857616,south_parcel_5
+723,5bec4199-0c09-4351-a829-c66105f1eea0,3/28/19 7:00,south_parcel,NA,Beau Tindall,5,17.5,NA,-119.883936,34.41854971,south_parcel_5
+835,7938ce5b-4973-4ada-86a1-ad8fe7cc3472,4/5/19 7:00,south_parcel,NA,Beau Tindall,5,16,NA,-119.8839239,34.4185671,south_parcel_5
+889,b929ad8b-554b-43d7-91c6-bc8e7f741f21,4/11/19 7:00,south_parcel,NA,Beau Tindall,5,15,NA,-119.8840635,34.41862443,south_parcel_5
+986,435c07fc-9621-420b-a3ab-db2723f55018,4/19/19 7:00,south_parcel,NA,Beau Tindall,5,13.75,NA,-119.8839628,34.4185746,south_parcel_5
+977,14f14cce-8ad2-4504-a845-1b9c5251d537,4/26/19 7:00,south_parcel,NA,Beau Tindall,5,12.75,NA,-119.8839766,34.41854235,south_parcel_5
+1002,70768630-b338-440f-90d0-781f8fc09c2a,5/3/19 7:00,south_parcel,NA,Beau Tindall,5,12,NA,-119.8839151,34.41858791,south_parcel_5
+1011,473beb0a-f9ad-4772-abd9-5644a5b8e78d,5/10/19 7:00,south_parcel,NA,Beau Tindall,5,11,NA,-119.883917,34.41856195,south_parcel_5
+1018,9f68daca-38e8-443c-9403-7636d27b1b20,5/17/19 7:00,south_parcel,NA,Beau Tindall,5,11,NA,-119.8838816,34.4185754,south_parcel_5
+1085,f8b7461d-55c5-428f-b6b7-302c0a269a7f,5/23/19 7:00,south_parcel,NA,Beau Tindall,5,12,NA,-119.8838911,34.41857952,south_parcel_5
+1067,c4a9e285-db6b-45d7-9c9b-964783754d07,5/31/19 7:00,south_parcel,NA,Beau Tindall,5,10.5,NA,-119.8839186,34.4186038,south_parcel_5
+1102,edf9f9c3-e996-4c69-9539-1ce5607662a6,6/6/19 7:00,south_parcel,NA,Beau Tindall,5,10,NA,-119.88395,34.41858272,south_parcel_5
+1093,09f8570b-6487-4752-86b4-c8cf2c31c68f,6/14/19 7:00,south_parcel,NA,Beau Tindall,5,8.5,NA,-119.8839114,34.41857838,south_parcel_5
+1111,d6fcff3f-d978-40b6-a56b-88db20657d0a,6/21/19 7:00,south_parcel,NA,Beau Tindall,5,7.5,NA,-119.8839289,34.41859627,south_parcel_5
+1117,0b048242-13e9-4c0f-a6e6-2e0b6528ee48,6/27/19 7:00,south_parcel,NA,Stephen Fetterly,5,6.9,NA,-119.8851806,34.42304626,south_parcel_5
+1119,5166ea75-fe0c-4029-946a-e969ef19d7d7,7/5/19 7:00,south_parcel,NA,Stephen,5,5.1,NA,-119.8797978,34.4231223,south_parcel_5
+56,c12a674f-59d9-47d1-92fe-1ee58f3ea24f,1/25/19 8:00,south_parcel,NA,Beau Tindall,6,10,NA,-119.8842037,34.41900676,south_parcel_6
+168,16f9a24b-fe26-491e-a3c2-01ef23e6ca18,2/1/19 8:00,south_parcel,NA,Beau Tindall,6,11,NA,-119.8842266,34.4237716,south_parcel_6
+239,5e6d46f6-96fa-4c05-a555-7e2506561500,2/8/19 8:00,south_parcel,NA,Beau Tindall,6,10.5,NA,-119.8839728,34.42353163,south_parcel_6
+317,f42cdccd-918f-48b1-9531-297a88c6b69d,2/15/19 8:00,south_parcel,NA,Beau Tindall,6,11,NA,-119.8841855,34.41883198,south_parcel_6
+385,561c37da-7f34-4add-8ead-7b8a6b2a183f,2/22/19 8:00,south_parcel,NA,Beau Tindall,6,10.5,NA,-119.8835272,34.42604596,south_parcel_6
+459,c54c294a-365d-4126-8a92-ac93ef39531b,3/1/19 8:00,south_parcel,NA,Beau Tindall,6,11,NA,-119.8841997,34.4185333,south_parcel_6
+541,0bc164c8-590c-4797-8e43-16fd1e9ff9b1,3/8/19 8:00,south_parcel,NA,Beau Tindall,6,11,NA,-119.8841804,34.41885815,south_parcel_6
+600,bb75ec19-9564-4298-a04f-161b19c51db4,3/15/19 7:00,south_parcel,NA,Beau Tindall,6,10,NA,-119.8841608,34.41884329,south_parcel_6
+671,0d9cb067-f3fc-4266-850b-5207ea56ccb6,3/22/19 7:00,south_parcel,NA,Beau Tindall,6,9.5,NA,-119.8842312,34.41882699,south_parcel_6
+722,5072bbae-d265-4a8e-ab02-a4169a41c61a,3/28/19 7:00,south_parcel,NA,Beau Tindall,6,9,NA,-119.8841674,34.4188545,south_parcel_6
+834,ac7ae23f-9497-427f-95d5-ceda007ff01b,4/5/19 7:00,south_parcel,NA,Beau Tindall,6,7.5,NA,-119.8842256,34.41885585,south_parcel_6
+888,f38790ae-c584-402b-8037-9a6930b2bb6b,4/11/19 7:00,south_parcel,NA,Beau Tindall,6,6.75,NA,-119.8842037,34.41879574,south_parcel_6
+985,d5d42286-521d-4831-8610-c6f275510224,4/19/19 7:00,south_parcel,NA,Beau Tindall,6,5,NA,-119.8841926,34.41884834,south_parcel_6
+976,25e37f69-76d6-41ed-a376-c0540cec3b92,4/26/19 7:00,south_parcel,NA,Beau Tindall,6,4,NA,-119.8841619,34.41882678,south_parcel_6
+1001,2f0d3aca-332e-4301-afbd-eee885abab9f,5/3/19 7:00,south_parcel,NA,Beau Tindall,6,3.25,NA,-119.8841975,34.41887073,south_parcel_6
+1010,9df89695-9483-4f62-bfbf-cb28ab292a08,5/10/19 7:00,south_parcel,NA,Beau Tindall,6,2.5,NA,-119.8841876,34.4188254,south_parcel_6
+1017,4ebb48a3-e453-485f-9434-c8b1ccbd2124,5/17/19 7:00,south_parcel,NA,Beau Tindall,6,3,NA,-119.8841935,34.41885289,south_parcel_6
+1084,cf96d58e-9434-490f-bb2e-e3cba11e4805,5/23/19 7:00,south_parcel,NA,Beau Tindall,6,4,NA,-119.8842041,34.4188206,south_parcel_6
+1066,faa8b6bc-069d-4b79-a24f-db4ea2301ede,5/31/19 7:00,south_parcel,NA,Beau Tindall,6,2.5,NA,-119.8842408,34.41878789,south_parcel_6
+1101,98c2192d-a590-4cbb-9363-5fa06d672cf0,6/6/19 7:00,south_parcel,NA,Beau Tindall,6,0,NA,-119.8842493,34.41885755,south_parcel_6
+55,307e5df6-8e0a-4ce7-8d77-9ac93bccfb58,1/25/19 8:00,south_parcel,NA,Beau Tindall,7,12.5,NA,-119.8845841,34.4193901,south_parcel_7
+167,23d6addb-4a45-4824-ad85-3fc720f7b937,2/1/19 8:00,south_parcel,NA,Beau Tindall,7,14,NA,-119.8846721,34.41922038,south_parcel_7
+238,ddb022fb-2afe-4122-b266-b9407f9501a9,2/8/19 8:00,south_parcel,NA,Beau Tindall,7,13.75,NA,-119.882931,34.42277969,south_parcel_7
+316,6f613582-cadc-4a5e-acea-cf532bd5cb4a,2/15/19 8:00,south_parcel,NA,Beau Tindall,7,14.25,NA,-119.8843988,34.41933657,south_parcel_7
+384,b226f3e8-e80d-4df2-ab79-56bb61d5cfa2,2/22/19 8:00,south_parcel,NA,Beau Tindall,7,13.5,NA,-119.8811568,34.42334665,south_parcel_7
+458,35851c81-61d1-4333-994d-bc08926ad9d6,3/1/19 8:00,south_parcel,NA,Beau Tindall,7,14,NA,-119.8846431,34.41920473,south_parcel_7
+538,69307c6a-8e26-4ed2-ac73-fed36e20044b,3/8/19 8:00,south_parcel,NA,Beau Tindall,7,14.5,NA,-119.8844439,34.41922466,south_parcel_7
+599,ec749561-820d-4ea8-82b0-d488a4c1ff90,3/15/19 7:00,south_parcel,NA,Beau Tindall,7,13,NA,-119.8844533,34.41924111,south_parcel_7
+670,6031b1fe-8eac-416c-9961-3227f421341c,3/22/19 7:00,south_parcel,NA,Beau Tindall,7,13,NA,-119.8777948,34.42524568,south_parcel_7
+721,5e0dbb40-393a-4eee-b4cb-e711d6884429,3/28/19 7:00,south_parcel,NA,Beau Tindall,7,10.75,NA,-119.8844575,34.4192162,south_parcel_7
+833,d5ee5c1a-e0d4-4c37-ae7c-6ba5ada9f574,4/5/19 7:00,south_parcel,NA,Beau Tindall,7,8,NA,-119.8845218,34.41918652,south_parcel_7
+887,83f46cdd-c315-4738-8428-99fb54ad028b,4/11/19 7:00,south_parcel,NA,Beau Tindall,7,6,NA,-119.884495,34.41920171,south_parcel_7
+984,00374562-f4b2-4ff0-a6ba-a17dfc409d03,4/19/19 7:00,south_parcel,NA,Beau Tindall,7,3.75,NA,-119.8845065,34.41924473,south_parcel_7
+975,164937e7-3cd3-4814-97e1-9c11f0cfa065,4/26/19 7:00,south_parcel,NA,Beau Tindall,7,0,NA,-119.8846293,34.41914967,south_parcel_7
+1083,2b2eb027-fd46-436e-9af0-d46430c4b954,5/23/19 7:00,south_parcel,NA,Beau Tindall,7,5,NA,-119.8845106,34.41920734,south_parcel_7
+1065,16a7e91f-e7cc-47a9-8837-da500e0ba384,5/31/19 7:00,south_parcel,NA,Beau Tindall,7,0.5,NA,-119.8845587,34.41920187,south_parcel_7
+54,889c3503-ad8d-4008-ae3a-0664b4b2ade4,1/25/19 8:00,south_parcel,NA,Beau Tindall,8,0,NA,-119.8826357,34.42090569,south_parcel_8
+166,d6dae392-edfc-4103-976d-619875a96a06,2/1/19 8:00,south_parcel,NA,Beau Tindall,8,13.75,NA,-119.8845611,34.41957135,south_parcel_8
+237,4db49b7f-4eb6-402e-85da-7cd509b349a8,2/8/19 8:00,south_parcel,NA,Beau Tindall,8,11.5,NA,-119.8846974,34.41956701,south_parcel_8
+315,076566ea-437f-46d2-9de7-f508c6c655cd,2/15/19 8:00,south_parcel,NA,Beau Tindall,8,14,NA,-119.8793658,34.42045182,south_parcel_8
+383,50eb9198-690c-4bb3-9be2-3280b0abe260,2/22/19 8:00,south_parcel,NA,Beau Tindall,8,6,NA,-119.880862,34.42173659,south_parcel_8
+457,3dfe9908-813a-42ff-8763-d714b6652546,3/1/19 8:00,south_parcel,NA,Beau Tindall,8,11,NA,-119.8844839,34.41939733,south_parcel_8
+539,c08e1bc6-677d-4cb8-b226-13a6eaf4f0b0,3/8/19 8:00,south_parcel,NA,Beau Tindall,8,14.5,NA,-119.8844679,34.419526,south_parcel_8
+598,036285f3-31ed-44e0-9727-6e684ef2d2c3,3/15/19 7:00,south_parcel,NA,Beau Tindall,8,9,NA,-119.8844682,34.41954311,south_parcel_8
+669,6f49c354-35b0-4997-bf09-fab54def586c,3/22/19 7:00,south_parcel,NA,Beau Tindall,8,5.25,NA,-119.8843089,34.41953004,south_parcel_8
+720,07d2110a-fd0f-45c6-bb8e-0db0bbf231bd,3/28/19 7:00,south_parcel,NA,Beau Tindall,8,0,NA,-119.8845155,34.41949006,south_parcel_8
+53,4fe18d85-33cb-43a9-8666-4b195c75fa78,1/25/19 8:00,south_parcel,NA,Beau Tindall,9,5,NA,-119.8835962,34.42204059,south_parcel_9
+165,174c2bb7-eebf-4d62-a444-eb12821821ae,2/1/19 8:00,south_parcel,NA,Beau Tindall,9,8.25,NA,-119.88211,34.42021728,south_parcel_9
+236,133cb58a-332e-4508-82c1-96ec7149515a,2/8/19 8:00,south_parcel,NA,Beau Tindall,9,7.75,NA,-119.8843434,34.41926278,south_parcel_9
+314,179b28bd-d2a6-4521-907f-46c6c289403d,2/15/19 8:00,south_parcel,NA,Beau Tindall,9,9.25,NA,-119.8844362,34.42012089,south_parcel_9
+382,34a79f71-dd39-4cf0-a543-7826b58abb4a,2/22/19 8:00,south_parcel,NA,Beau Tindall,9,6.75,NA,-119.8818831,34.42278739,south_parcel_9
+456,d893c6c2-2bde-4d24-b7ac-0043dd630a06,3/1/19 8:00,south_parcel,NA,Beau Tindall,9,7,NA,-119.8843572,34.41936746,south_parcel_9
+540,d0d43dc6-f501-478d-b887-0e42ce85013d,3/8/19 8:00,south_parcel,NA,Beau Tindall,9,9,NA,-119.884336,34.41939403,south_parcel_9
+597,0ebf5e28-7b14-4087-bcd2-eccff3ea7513,3/15/19 7:00,south_parcel,NA,Beau Tindall,9,5.75,NA,-119.8843849,34.4194085,south_parcel_9
+668,55b0841a-546a-4e9b-97ce-4c33cdb51b86,3/22/19 7:00,south_parcel,NA,Beau Tindall,9,3,NA,-119.8844875,34.41945352,south_parcel_9
+719,95a26783-d7cf-4ccb-9faf-a1ddb5bac363,3/28/19 7:00,south_parcel,NA,Beau Tindall,9,0,NA,-119.8843564,34.41939388,south_parcel_9
+52,a59fd021-4b3a-4374-b34e-bc4798af7452,1/25/19 8:00,south_parcel,NA,Beau Tindall,SWW 1,0,NA,-119.8842699,34.41641856,south_parcel_SWW_1
+173,b77967db-e588-485c-89e0-6fdefb26d6c5,2/1/19 8:00,south_parcel,NA,Beau Tindall,SWW 1,10.75,NA,-119.8844646,34.41812948,south_parcel_SWW_1
+245,cde186be-a0a0-429a-b66b-d8fd3f84f4d7,2/8/19 8:00,south_parcel,NA,Beau Tindall,SWW 1,8.5,NA,-119.8841623,34.41783299,south_parcel_SWW_1
+323,5e33fd81-e3b1-44aa-ae15-e88755681f3d,2/15/19 8:00,south_parcel,NA,Beau Tindall,SWW 1,13,NA,-119.8843147,34.41656807,south_parcel_SWW_1
+391,b55a111f-8ef7-4db6-a733-b2feddd37587,2/22/19 8:00,south_parcel,NA,Beau Tindall,SWW 1,10.5,NA,-119.8841576,34.41641664,south_parcel_SWW_1
+455,b5257568-9128-4a12-85bc-13f840cef95d,3/1/19 8:00,south_parcel,NA,Beau Tindall,SWW 1,11.5,NA,-119.8841437,34.41645934,south_parcel_SWW_1
+547,04a7587e-0517-4b57-96d8-19170fa3f17a,3/8/19 8:00,south_parcel,NA,Beau Tindall,SWW 1,13.5,NA,-119.8842411,34.41640107,south_parcel_SWW_1
+588,3287a6d5-2ae6-4fdc-a554-48721210d0e8,3/15/19 7:00,south_parcel,NA,Beau Tindall,SWW 1,9.75,NA,-119.8842303,34.4164672,south_parcel_SWW_1
+677,43f49705-074e-4424-a023-d260ebf1ffc3,3/22/19 7:00,south_parcel,NA,Beau Tindall,SWW 1,3,NA,-119.8841544,34.41652077,south_parcel_SWW_1
+728,9730e173-fea3-45ba-9402-42ef4782365e,3/28/19 7:00,south_parcel,NA,Beau Tindall,SWW 1,0,NA,-119.8844641,34.41646649,south_parcel_SWW_1
+89,54ce8414-c8dc-4f7c-8c1a-371485b09420,1/14/19 0:00,storke_ranch,NA,Joanna Tang,2007,11,NA,0,0,storke_ranch_2007
+37,13be2abb-3527-4e6e-a94d-20b906bea219,1/25/19 8:00,storke_ranch,NA,Kelly hildner,2007,9,NA,-119.8667709,34.42166977,storke_ranch_2007
+82,d9c3f0f1-6144-40c4-8df8-8431894eb150,1/30/19 8:00,storke_ranch,NA,Kelly Hildner,2007,6.75,Water clear; some algae growth.,-119.8659002,34.42130172,storke_ranch_2007
+152,81a024f5-0e77-48aa-b329-be24ad83d33f,2/1/19 8:00,storke_ranch,NA,Kelly hildner,2007,12,NA,0,0,storke_ranch_2007
+219,30c466e3-25e0-4c0b-b6c8-6414ee083e55,2/8/19 8:00,storke_ranch,NA,Kelly Hildner,2007,11.5,NA,0,0,storke_ranch_2007
+298,822b09c4-d118-45ed-a5e4-0e5dbf1d84d9,2/15/19 8:00,storke_ranch,NA,Kelly hildner,2007,12.5,NA,0,0,storke_ranch_2007
+397,a3a87d96-5828-4ca5-b576-5c45db5f2cff,2/22/19 8:00,storke_ranch,NA,Kelly hildner,2007,10.5,Lots of algae,0,0,storke_ranch_2007
+451,24f0fbd2-682f-4212-8737-35cb1c1cb0ff,3/1/19 8:00,storke_ranch,NA,Kelly hildner,2007,11.25,Still lots of algae,0,0,storke_ranch_2007
+520,6562a9d9-489a-4809-968b-abab4b8bdb24,3/8/19 8:00,storke_ranch,NA,Kelly Hildner,2007,12,Lots of algae,-119.865958,34.42129657,storke_ranch_2007
+587,2296a284-5dfe-4132-95e9-cfe4cf8def70,3/15/19 7:00,storke_ranch,NA,Kelly hildner,2007,9.5,Lots of Algae,0,0,storke_ranch_2007
+758,abb09979-49d1-45bb-8ffc-1701df18cbca,4/1/19 7:00,storke_ranch,NA,Kelly Hildner,2007,0,NA,-119.8661505,34.42076593,storke_ranch_2007
+86,64005ddf-b34c-4a20-8ccf-f11bc59dcd5f,1/14/19 0:00,storke_ranch,NA,Joanna Tang,2017,12,NA,0,0,storke_ranch_2017
+40,9765e809-6743-43b8-9901-1d321cc27fe6,1/25/19 8:00,storke_ranch,NA,Kelly Hildner,2017,9.25,NA,-119.8661071,34.42111168,storke_ranch_2017
+79,242a9c50-5634-4910-bd24-9b4c803a158a,1/30/19 8:00,storke_ranch,NA,Kelly Hildner,2017,7,Water clear; lots of algae.,-119.8663065,34.42112063,storke_ranch_2017
+151,940cbaf2-1077-4049-9628-c4bf968bd337,2/1/19 8:00,storke_ranch,NA,Kelly hildner,2017,11.5,NA,0,0,storke_ranch_2017
+220,650d5a8e-0aa7-439e-9d9b-b0ea7365b2a9,2/8/19 8:00,storke_ranch,NA,Kelly Hildner,2017,12,NA,0,0,storke_ranch_2017
+296,74e6fe49-83d8-4c23-9c32-af2cab18f2d6,2/15/19 8:00,storke_ranch,NA,Kelly hildner,2017,13,NA,0,0,storke_ranch_2017
+394,7de5fa6c-87d3-479e-aa57-ec057ff0ca2a,2/22/19 8:00,storke_ranch,NA,Kelly hildner,2017,11,NA,0,0,storke_ranch_2017
+452,4bc97ae8-0b50-4618-8ecd-80433d6f7fe6,3/1/19 8:00,storke_ranch,NA,Kelly hildner,2017,12.75,NA,0,0,storke_ranch_2017
+517,eef8af61-5acb-45c6-961d-a9cf7e9b83e9,3/8/19 8:00,storke_ranch,NA,Kelly Hildner,2017,13,NA,-119.8552945,34.42732992,storke_ranch_2017
+584,506c4da0-bae2-4001-9c44-4a2724c90529,3/15/19 7:00,storke_ranch,NA,Kelly hildner,2017,13,NA,0,0,storke_ranch_2017
+755,eae6330a-b1af-4819-a063-2b9ce8fa4953,4/1/19 7:00,storke_ranch,NA,Kelly Hildner,2017,0,NA,-119.8662387,34.42100483,storke_ranch_2017
+869,f541c726-053b-4b05-9f06-bd437492d84f,4/11/19 7:00,storke_ranch,NA,Kelly Hildner,2017,0,NA,-119.8663962,34.42166118,storke_ranch_2017
+1057,78290ae3-c0d8-4e16-a01c-f9a41b912037,5/24/19 7:00,storke_ranch,NA,Kelly Hildner,2017,5.5,NA,-119.8664184,34.42094486,storke_ranch_2017
+85,8a90ea22-c2ac-4bef-8704-f9998ea500d7,1/13/19 0:00,storke_ranch,NA,Joanna Tang,East,8,NA,0,0,storke_ranch_East
+41,27f172b0-7f68-4f0d-a218-cb1f6375a464,1/25/19 8:00,storke_ranch,NA,Kelly hildner,East,5,NA,-119.8663476,34.42078743,storke_ranch_East
+78,2bc11745-83be-4476-97be-e19c5ed1d3d8,1/30/19 8:00,storke_ranch,NA,Kelly Hildner,East,3.25,NA,-119.8666445,34.42080854,storke_ranch_East
+150,d84e5f2b-c88f-4671-957e-846f17e0409f,2/1/19 8:00,storke_ranch,NA,Kelly hildner,East,7.75,NA,0,0,storke_ranch_East
+221,faa64b95-790a-4140-8f6c-1b290f1b3e19,2/8/19 8:00,storke_ranch,NA,Kelly Hildner,East,7,NA,0,0,storke_ranch_East
+295,cac58636-feb1-45b2-8a6d-16767087ee30,2/15/19 8:00,storke_ranch,NA,Kelly hildner,East,8.25,NA,0,0,storke_ranch_East
+393,a15aa468-30f8-4721-bd1a-e16bc84a9b3f,2/22/19 8:00,storke_ranch,NA,Kelly hildner,East,6,NA,0,0,storke_ranch_East
+453,fa5bf7ad-52e1-4248-a69d-2178f06d3965,3/1/19 8:00,storke_ranch,NA,Kelly hildner,East,7.5,NA,0,0,storke_ranch_East
+516,241d2fde-ad56-41ac-96ad-a72ca8110ddb,3/8/19 8:00,storke_ranch,NA,Kelly Hildner,East,7.75,NA,-119.8662261,34.42101254,storke_ranch_East
+583,90009552-e76b-46c8-a061-9d709b1a4745,3/15/19 7:00,storke_ranch,NA,Kelly hildner,East,5.5,Lots of algae,0,0,storke_ranch_East
+754,b7b5c912-88fd-4218-bd11-03d4956daf93,4/1/19 7:00,storke_ranch,NA,Kelly Hildner,East,0,NA,-119.8666792,34.42102872,storke_ranch_East
+868,079abe7f-4244-4d07-a8e7-962026debd00,4/12/19 7:00,storke_ranch,NA,Kelly Hildner,East,0,NA,-119.8663079,34.42160193,storke_ranch_East
+1056,c500cfd9-19f2-4bc9-ab1d-76664f0529fb,5/24/19 7:00,storke_ranch,NA,Kelly Hildner,East,0,NA,-119.8666462,34.42113718,storke_ranch_East
+84,81d96de0-5c10-4a0b-88f0-057887371058,1/13/19 0:00,storke_ranch,NA,Joanna Tang,Main,18,NA,0,0,storke_ranch_Main
+77,11e08e1b-4264-44d4-a23a-1cb033a7c36a,1/30/19 8:00,storke_ranch,NA,Kelly Hildner,Main,5.25,Oily sheen on water surface,-119.8667911,34.42142338,storke_ranch_Main
+149,0216aab3-0cc1-4789-89e8-adaf61d03630,2/1/19 8:00,storke_ranch,NA,Kelly hildner,Main,17,NA,0,0,storke_ranch_Main
+216,a722da80-3053-47a5-9600-5f3dea3238ca,2/8/19 8:00,storke_ranch,NA,Kelly Hildner,Main,18.5,Lots of birds,0,0,storke_ranch_Main
+294,7de59791-600e-41fc-a9dc-50685b877d66,2/15/19 8:00,storke_ranch,NA,Kelly hildner,Main,20,Pool has spread to fence,0,0,storke_ranch_Main
+392,323b4c87-cee4-4afb-a1a8-73bc67ea0a86,2/22/19 8:00,storke_ranch,NA,Kelly hildner,Main,16,NA,0,0,storke_ranch_Main
+514,6dad9c53-e74f-4c03-885a-67b647990952,3/8/19 8:00,storke_ranch,NA,Kelly Hildner,Main,18,NA,-119.8666634,34.42106414,storke_ranch_Main
+515,d3723d05-4a0b-4230-9e9c-fa547dd76bd2,3/8/19 8:00,storke_ranch,NA,Kelly Hildner,Main,18,NA,-119.8653899,34.4183026,storke_ranch_Main
+582,e7049b04-5a8b-47ca-be32-18ee8808b186,3/15/19 7:00,storke_ranch,NA,Kelly hildner,Main,6,Extremely dry,0,0,storke_ranch_Main
+729,0692a23c-9c42-4c9e-bc2f-a60659c6cd9a,4/1/19 7:00,storke_ranch,NA,Kelly Hildner,Main,0,"Ground saturated, but no standing water. Dried papery mats of algae over most of pool",-119.8667728,34.4211182,storke_ranch_Main
+867,d21643cc-75ce-426e-8065-4d6da5cd719b,4/11/19 7:00,storke_ranch,NA,Kelly Hildner,Main,0,NA,-119.8664086,34.42165544,storke_ranch_Main
+42,3f18e858-da26-49c8-9284-308ce9e9c79d,1/25/19 8:00,storke_ranch,NA,Kelly Hildner,Main,10.25,NA,-119.8673473,34.42050045,storke_ranch_Main
+454,5a6b198f-4b67-455a-8b51-67be7e8c9cd8,3/1/19 8:00,storke_ranch,NA,Kelly hildner,Main,13,Surprisingly more dry than expected,0,0,storke_ranch_Main
+88,d77ba8ee-b698-4d7c-8beb-f0f12ed7467c,1/14/19 0:00,storke_ranch,NA,Joanna Tang,North,11.5,NA,0,0,storke_ranch_North
+38,c547798e-4814-4492-a3d4-17b9892c859e,1/25/19 8:00,storke_ranch,NA,Kelly Hildner,North,9.75,NA,-119.8659501,34.42135193,storke_ranch_North
+81,90220bdf-71c1-4b2d-95c2-195781366626,1/30/19 8:00,storke_ranch,NA,Kelly Hildner,North,8.75,Water clear; little algae growth.,-119.8658785,34.42134606,storke_ranch_North
+218,5697a870-f37e-42b0-97fc-586edc201385,2/8/19 8:00,storke_ranch,NA,Kelly Hildner,North,12,NA,0,0,storke_ranch_North
+297,a4f53532-958f-4c01-8e71-403ea1e846bc,2/15/19 8:00,storke_ranch,NA,Kelly hildner,North,12.75,NA,0,0,storke_ranch_North
+396,a514935c-2284-4bab-b577-2bd891b5576b,2/22/19 8:00,storke_ranch,NA,Kelly hildner,North,11.25,NA,0,0,storke_ranch_North
+450,8f682f39-b0b3-4e46-be63-0312e1c7af90,3/1/19 8:00,storke_ranch,NA,Kelly hildner,North,11.75,NA,0,0,storke_ranch_North
+519,97418bf8-70e8-4c43-9733-628dda783ab1,3/8/19 8:00,storke_ranch,NA,Kelly Hildner,North,13,NA,-119.8659046,34.42134392,storke_ranch_North
+586,404b1561-62b4-49ba-914f-926c97a37ffa,3/15/19 7:00,storke_ranch,NA,Kelly hildner,North,10.75,NA,0,0,storke_ranch_North
+757,f4c547f0-f3e6-4d6e-81f4-39f9a5e5fe5e,4/1/19 7:00,storke_ranch,NA,Kelly Hildner,North,5.5,NA,-119.8658789,34.42110315,storke_ranch_North
+154,28fb4e4e-eb94-4966-84db-277706bb4166,2/1/19 8:00,storke_ranch,NA,Kelly hildner,North,12.5,NA,0,0,storke_ranch_North
+871,de4c8287-415c-47c8-8c40-120aebd10960,4/11/19 7:00,storke_ranch,NA,Kelly Hildner,North,0,NA,-119.8663965,34.42166013,storke_ranch_North
+87,dce052e3-ff44-447d-8af5-5d94daa62626,1/14/19 0:00,storke_ranch,NA,Joanna Tang,South,11.5,NA,0,0,storke_ranch_South
+39,a2bf7fca-a64c-4ca5-b916-6cded46fa8ee,1/25/19 8:00,storke_ranch,NA,Kelly hildner,South,8.75,NA,-119.8660833,34.42088191,storke_ranch_South
+80,b68992e0-a407-4073-9002-65ce71b279bc,1/30/19 8:00,storke_ranch,NA,Kelly Hildner,South,6.75,Water clear; some algae.,-119.8659196,34.42105299,storke_ranch_South
+217,fb8db612-05c5-4aca-abc9-22b7acdcb06c,2/8/19 8:00,storke_ranch,NA,Kelly Hildner,South,12,NA,0,0,storke_ranch_South
+299,efa146c9-8d78-4f9f-84ec-a293f6b927a1,2/15/19 8:00,storke_ranch,NA,Kelly hildner,South,13,NA,0,0,storke_ranch_South
+395,990fac00-17b6-4cc5-a68e-28f052e3938d,2/22/19 8:00,storke_ranch,NA,Kelly hildner,South,11,NA,0,0,storke_ranch_South
+518,0ffe041e-9ada-46c7-8efb-dd29497428b6,3/8/19 8:00,storke_ranch,NA,Kelly Hildner,South,13,NA,-119.8660391,34.42107952,storke_ranch_South
+585,737c15ad-0619-4085-a4f2-a23243e4000e,3/15/19 7:00,storke_ranch,NA,Kelly hildner,South,10.5,NA,0,0,storke_ranch_South
+756,b1201fc8-8b0e-4a24-8156-1c4322b6981e,4/1/19 7:00,storke_ranch,NA,Kelly Hildner,South,4.25,NA,-119.8656423,34.42099176,storke_ranch_South
+870,b2a89624-2346-466a-ace9-2098d9ae8866,4/11/19 7:00,storke_ranch,NA,Kelly Hildner,South,0,NA,-119.8663965,34.42166051,storke_ranch_South
+153,a448bee5-f03f-4409-b831-b0bc5f829dbc,2/1/19 8:00,storke_ranch,NA,Kelly hildner,South,12,NA,0,0,storke_ranch_South
+449,7c1c17e3-8403-4ac2-8bcc-0a1abc57a168,3/1/19 8:00,storke_ranch,NA,Kelly hildner,South,12.5,NA,0,0,storke_ranch_South
+74,9df7d6a5-b3c3-4300-8998-8bffbe558dcb,1/30/19 8:00,west_campus,NA,Jessica Nielsen,8,0,NA,-119.8775297,34.40964235,west_campus_8
+72,1eadb539-0125-48d8-a88a-98335edac8fa,1/30/19 8:00,west_campus,NA,Jessica Nielsen,9,4.625,NA,-119.8774218,34.40979585,west_campus_9
+71,b7a52cdd-d598-4434-93a1-42a45fd81564,1/30/19 8:00,west_campus,NA,Jessica Nielsen,10,4.25,NA,-119.8776891,34.41017702,west_campus_10
+70,511b4685-bbdf-473f-a20c-348f61b37896,1/30/19 8:00,west_campus,NA,Jessica Nielsen,11,2.75,NA,-119.8781868,34.41001063,west_campus_11
+73,bba84ec0-cec6-485f-99fe-5dbae38a83b3,1/30/19 8:00,west_campus,NA,Jessica Nielsen,13,0,NA,-119.8777919,34.40953733,west_campus_13
+10,50ab14ec-e151-472a-9a0e-14934b932466,1/17/19 8:00,west_campus,NA,Joanna Tang,1,9.5,NA,-119.8707233,34.41062783,west_campus_1
+126,edf8eac0-05ae-4ac7-8873-2cf260584fa1,1/18/19 0:00,west_campus,NA,Joanna Tang,1,9.5,NA,0,0,west_campus_1
+36,0f2a978b-640e-4055-b0a7-78a6510d6466,1/25/19 8:00,west_campus,NA,Evan Hobson,1,7,NA,-119.8695848,34.4104259,west_campus_1
+144,1bb6b1bf-0eb4-4047-b817-eecf905dc952,2/1/19 8:00,west_campus,NA,Evan Hobson,1,9,NA,-119.8710926,34.4108826,west_campus_1
+226,27f4bd6c-1937-467d-bc52-738a5f2d1f4e,2/8/19 8:00,west_campus,NA,Evan Hobson,1,9,NA,-119.8703715,34.41060249,west_campus_1
+304,b6b901c0-f515-4495-95c1-4dc4023e21de,2/15/19 8:00,west_campus,NA,Evan Hobson,1,10.125,NA,-119.8710106,34.41051796,west_campus_1
+398,4f5fbf94-08f1-4004-af00-9b5d2c79f6bd,2/22/19 8:00,west_campus,NA,Shaina,1,8.5,NA,-119.8546664,34.41963289,west_campus_1
+685,f4b933a0-f320-4514-a897-760ab00bb802,3/1/19 8:00,west_campus,NA,Shaina,1,8.25,NA,-119.869152,34.41059346,west_campus_1
+690,77adfb80-21b0-4b3e-b7a7-f4235d16606b,3/8/19 8:00,west_campus,NA,Shaina,1,9.5,NA,-119.8690929,34.41076764,west_campus_1
+695,ec642907-78c2-4572-9eca-df47b90d1e7d,3/15/19 7:00,west_campus,NA,Shaina,1,8,NA,-119.8690662,34.41075691,west_campus_1
+705,796be6aa-2e2e-4b1d-8605-aeb566fcc8de,3/22/19 7:00,west_campus,NA,Shaina,1,6.75,NA,-119.8690661,34.41076919,west_campus_1
+700,ec69fb4d-8e24-4f9e-92ce-2966a99494be,3/28/19 7:00,west_campus,NA,Shaina,1,5.125,NA,-119.8690618,34.41073235,west_campus_1
+860,7783bc82-435b-4e66-b0e5-895e1cfcbc08,4/12/19 7:00,west_campus,NA,Evan Hobson,1,0,NA,-119.8727856,34.41013594,west_campus_1
+20,adbf4ba7-34bb-49c9-abfe-0c7512a705bf,1/17/19 8:00,west_campus,NA,Joanna Tang,2,6,NA,-119.8638797,34.41417766,west_campus_2
+127,94399c74-3c5c-4cde-8a0b-68905267e988,1/18/19 0:00,west_campus,NA,Joanna Tang,2,6,NA,0,0,west_campus_2
+34,05cfb3b6-fb78-4f8a-80df-3963d7791ed6,1/25/19 8:00,west_campus,NA,Evan Hobson,2,4.375,NA,-119.8711504,34.41107446,west_campus_2
+145,d23b9856-6d36-4efb-a955-e1746571d1ce,2/1/19 8:00,west_campus,NA,Evan Hobson,2,6,NA,-119.8711208,34.41090452,west_campus_2
+223,249566f2-b138-490a-8b9a-910acb9f5874,2/8/19 8:00,west_campus,NA,Evan Hobson,2,6.25,NA,-119.8712076,34.41091511,west_campus_2
+302,c5dd9938-490e-41d5-a6c7-b17f91f1f6ca,2/15/19 8:00,west_campus,NA,Evan Hobson,2,7.375,NA,-119.8710631,34.41065197,west_campus_2
+399,9b7f3349-dad5-4e6e-9c5f-54cbac076321,2/22/19 8:00,west_campus,NA,Shaina,2,6.125,NA,-119.8547166,34.41960909,west_campus_2
+686,06b91d2b-3a4b-4b95-9e79-5f92a6ac7dda,3/1/19 8:00,west_campus,NA,Shaina,2,6,NA,-119.8691551,34.41064568,west_campus_2
+691,faab0024-1f0b-479d-b2f7-8bfc6b8d651c,3/8/19 8:00,west_campus,NA,Shaina,2,7,NA,-119.8690876,34.41077988,west_campus_2
+696,5f13aaae-5fea-4990-86b4-9074b8a90820,3/15/19 7:00,west_campus,NA,Shaina,2,5.25,NA,-119.869135,34.41069853,west_campus_2
+706,6f41ab8d-e8d5-4af1-983e-c6812cf2d484,3/22/19 7:00,west_campus,NA,Shaina,2,3.75,NA,-119.8691543,34.41073772,west_campus_2
+701,f5aaee69-d2a3-4937-b54b-2339cffcf12f,3/28/19 7:00,west_campus,NA,Shaina,2,2.5,NA,-119.8690636,34.41077007,west_campus_2
+859,ce445b1e-efbf-415f-812f-d50004d31e57,4/12/19 7:00,west_campus,NA,Evan Hobson,2,0,NA,-119.8726256,34.40983844,west_campus_2
+21,1bad1028-49af-4d1c-90b5-c4799e97cb45,1/17/19 8:00,west_campus,NA,Joanna Tang,3,2.5,NA,-119.8709068,34.41054669,west_campus_3
+128,d9a4e053-0fc3-4c1e-8161-be53b2fab327,1/18/19 0:00,west_campus,NA,Joanna Tang,3,2.5,NA,0,0,west_campus_3
+1039,763eecf8-f461-41d2-82bf-4ac20f95ea46,1/24/19 0:00,west_campus,NA,Joanna Tang,3,0,re-entered from Hydro + YSI survey,0,0,west_campus_3
+35,fa814eb3-4d7d-4337-b62c-0d320d73670a,1/25/19 8:00,west_campus,NA,Evan Hobson,3,0,primarily annual grasses and Rumex,-119.8710459,34.41050518,west_campus_3
+146,14ade8fd-7734-458a-8d4d-64ca93b9c658,2/1/19 8:00,west_campus,NA,Evan Hobson,3,2,NA,-119.8710088,34.41050642,west_campus_3
+225,f3b9d7cd-6dc7-4bf8-870f-915bbf722bb6,2/8/19 8:00,west_campus,NA,Evan Hobson,3,4.875,NA,-119.8709361,34.41048741,west_campus_3
+303,c7ea4dcc-ce70-41a2-b90d-f505d360fc36,2/15/19 8:00,west_campus,NA,Evan Hobson,3,6.375,NA,-119.8710359,34.41052473,west_campus_3
+400,86dbc953-a761-41f9-b649-f376f15ece8a,2/22/19 8:00,west_campus,NA,Shaina,3,4.5,NA,-119.8546673,34.41963186,west_campus_3
+687,c5f063e4-de8f-44cc-825e-f5c378e132d1,3/1/19 8:00,west_campus,NA,Shaina,3,4.25,NA,-119.8690492,34.41080217,west_campus_3
+692,8dd83758-70a1-4d12-8a00-3d1e7c7c05b6,3/9/19 8:00,west_campus,NA,Shaina,3,6.5,NA,-119.8691154,34.41065473,west_campus_3
+697,afd496b3-cc77-458b-89e3-fdbb57b5d5b5,3/15/19 7:00,west_campus,NA,Shaina,3,3.75,NA,-119.8690986,34.41076186,west_campus_3
+707,c3639085-7596-426e-a132-9b621f4cdd37,3/22/19 7:00,west_campus,NA,Shaina,3,1,NA,-119.8690212,34.41073813,west_campus_3
+702,59b02718-200a-4885-9ef6-42eb64f68091,3/28/19 7:00,west_campus,NA,Shaina,3,0,NA,-119.8690911,34.41072158,west_campus_3
+19,facded39-6433-46b6-85bf-1a2be9a66c9c,1/17/19 8:00,west_campus,NA,Joanna Tang,4,10,NA,-119.8633713,34.41434854,west_campus_4
+129,948e050f-0567-4d5c-8cf0-b7b1a8a97224,1/18/19 0:00,west_campus,NA,Joanna Tang,4,10,NA,0,0,west_campus_4
+33,b91f9e38-6078-4727-939d-ad7ef377e43d,1/25/19 8:00,west_campus,NA,Evan Hobson,4,8,NA,-119.872312,34.41005459,west_campus_4
+148,6600d87d-fbad-466f-b512-6fc63cdf05ff,2/1/19 8:00,west_campus,NA,Evan Hobson,4,9.5,NA,-119.8722898,34.40986059,west_campus_4
+224,201fe666-9031-4520-bc18-63ae8ff9d54a,2/8/19 8:00,west_campus,NA,Evan Hobson,4,11.5,NA,-119.8726811,34.40994966,west_campus_4
+300,c2177d82-0a19-4cf7-8fa9-ff5731f0d5ab,2/15/19 8:00,west_campus,NA,Evan Hobson,4,12.75,NA,-119.8722919,34.40978276,west_campus_4
+401,62de0f3b-fcdf-41bd-a408-fa444654fa4d,2/22/19 8:00,west_campus,NA,Shaina,4,11.125,NA,-119.8546196,34.41962876,west_campus_4
+688,f8c5d99e-1476-488b-af89-d83d026f1bcc,3/1/19 8:00,west_campus,NA,Shaina,4,10.75,NA,-119.8690491,34.4106848,west_campus_4
+693,27816ac6-a92d-4dfc-82e8-8489dde68754,3/8/19 8:00,west_campus,NA,Shaina,4,12.5,NA,-119.8657377,34.41078135,west_campus_4
+698,d3d65478-a221-4108-9c0d-639e6677f6d8,3/15/19 7:00,west_campus,NA,Shaina,4,11.25,NA,-119.8691091,34.41074769,west_campus_4
+708,beecd0e0-fce2-43e1-8658-a5967b1cf305,3/22/19 7:00,west_campus,NA,Shaina,4,10,NA,-119.8690496,34.41074593,west_campus_4
+703,171091ea-6425-444d-a37f-aa2e78f3f698,3/28/19 7:00,west_campus,NA,Shaina,4,9.25,NA,-119.8690253,34.41072753,west_campus_4
+857,286124b6-68af-442c-96cf-e923d42d19a3,4/12/19 7:00,west_campus,NA,Evan Hobson,4,5.5,NA,-119.8726211,34.40985223,west_campus_4
+995,c73a604e-be9b-4664-a333-518b8694c388,4/29/19 7:00,west_campus,NA,Evan Hobson,4,0.5,NA,-119.8724362,34.40991447,west_campus_4
+1006,3bc28b30-1ab8-40e6-a6f5-04b3d7eeecc9,5/8/19 7:00,west_campus,NA,Shaina,4,0,NA,-119.8729036,34.410357,west_campus_4
+18,5fb1a25c-f17c-42fa-afe4-f9ccfa7d185d,1/17/19 8:00,west_campus,NA,Joanna Tang,5,7,NA,-119.8727695,34.41026674,west_campus_5
+130,2cdefbb1-d02c-4369-8060-1c76aa60c9cd,1/18/19 0:00,west_campus,NA,Joanna Tang,5,7,NA,0,0,west_campus_5
+1040,2723efd6-6a0f-4dce-8e79-382832f8aeed,1/24/19 0:00,west_campus,NA,Joanna Tang,5,0,re-entered from Hydro + YSI survey,0,0,west_campus_5
+32,991524ea-f5ab-4624-a3c8-fc339b5f9533,1/25/19 8:00,west_campus,NA,Evan Hobson,5,0,NA,-119.8728122,34.41029216,west_campus_5
+147,d670025e-874d-4968-a535-f98c526c3ee1,2/1/19 8:00,west_campus,NA,Evan Hobson,5,2,NA,-119.8726545,34.40995425,west_campus_5
+222,795a99cd-2f04-472d-a31f-70f2cc794a31,2/8/19 8:00,west_campus,NA,Evan Hobson,5,0,NA,-119.8730325,34.4101099,west_campus_5
+301,108dc16c-de18-4ecc-ae28-d1e91136023f,2/15/19 8:00,west_campus,NA,Evan Hobson,5,7.125,NA,-119.8726652,34.41025864,west_campus_5
+402,caa3dec8-d401-4b8c-94f6-b5907bcefe4a,2/22/19 8:00,west_campus,NA,Shaina,5,0,NA,-119.8547357,34.41961494,west_campus_5
+689,c7fedeb4-7380-40a4-9769-de8530e704e5,3/1/19 8:00,west_campus,NA,Shaina,5,0,NA,-119.8690578,34.41072037,west_campus_5
+694,71b20cf2-e886-49fa-a517-4a2888ff1b15,3/8/19 8:00,west_campus,NA,Shaina,5,9.25,NA,-119.8692246,34.41075208,west_campus_5
+699,335888dc-8f57-4b18-9d8c-2ec992898957,3/15/19 7:00,west_campus,NA,Shaina,5,0,NA,-119.8691308,34.41075535,west_campus_5
+17,fb0223c7-60ca-4096-9c7f-1da7ba06e623,1/17/19 8:00,west_campus,NA,Joanna Tang,6,13,NA,-119.8744832,34.40947008,west_campus_6
+131,988c3f0c-8192-424c-8906-3fba9259acfd,1/18/19 0:00,west_campus,NA,Joanna Tang,6,13,NA,0,0,west_campus_6
+76,635e7728-e4d3-406a-920f-80e8ce71ff6c,1/30/19 8:00,west_campus,NA,Jessica Nielsen,6,10,NA,-119.8768578,34.4113174,west_campus_6
+174,d8602d15-a6f0-40eb-af63-ee4bdce605a9,2/5/19 8:00,west_campus,NA,Jessica Nielsen,6,13,NA,-119.8767673,34.4113147,west_campus_6
+257,34fc653d-aac1-4f30-8730-0945265cb5b3,2/11/19 8:00,west_campus,NA,Jessica Nielsen,6,12.875,NA,-119.8768885,34.41118783,west_campus_6
+355,2b2436b1-82b9-45c5-be3e-a851320b272b,2/20/19 8:00,west_campus,NA,Jessica Nielsen,6,12,NA,-119.8754411,34.40909363,west_campus_6
+415,8ee6a6d6-a619-4f7f-8746-f1e394b90a12,2/27/19 8:00,west_campus,NA,Kipp Callahan,6,10.875,NA,-119.8743525,34.40942756,west_campus_6
+490,f7dbaa6b-7edc-4b79-88cf-4b2131c4c49d,3/6/19 8:00,west_campus,NA,Jessica Nielsen,6,13.75,NA,-119.8744453,34.40940523,west_campus_6
+550,63dacb09-2969-4cd5-bd42-893c146489e7,3/13/19 7:00,west_campus,NA,Jessica Nielsen,6,11.75,NA,-119.8744013,34.40940158,west_campus_6
+618,248ef0e3-ab24-41db-9056-65be373fb97b,3/20/19 7:00,west_campus,NA,Jessica Nielsen,6,10,NA,-119.8744662,34.40947353,west_campus_6
+683,50652282-844c-4f79-b820-e4f327f43b3c,3/26/19 7:00,west_campus,NA,Jessica Nielsen,6,9.5,NA,-119.876818,34.41133476,west_campus_6
+779,ba468ef8-2d8d-4d1a-ac5e-e7e82f7935a8,4/2/19 7:00,west_campus,NA,Jessica Nielsen,6,7.875,NA,-119.8744653,34.40940522,west_campus_6
+855,d5d74d43-e770-4956-8930-7e0ac7369b2f,4/10/19 7:00,west_campus,NA,Jessica Nielsen,6,6.125,NA,-119.874505,34.40938356,west_campus_6
+913,479dfc5d-6710-4c3f-91e8-a824ceb3ac87,4/17/19 7:00,west_campus,NA,Jessica Nielsen,6,3.75,NA,-119.8745136,34.40940139,west_campus_6
+936,f3459003-1bc7-48ea-aaa3-397c23f07fd6,4/23/19 7:00,west_campus,NA,Jessica Nielsen,6,0,"Water level on stick is 0, but still some water in surrounding pool",-119.8769065,34.41136397,west_campus_6
+16,1e10f9a2-0c6e-43f9-9a1e-3ccdb4a9336b,1/17/19 8:00,west_campus,NA,Joanna Tang,7,2.5,NA,-119.8747857,34.40993921,west_campus_7
+132,7a75a27c-8e68-492a-8f99-f4c8532acfed,1/18/19 0:00,west_campus,NA,Joanna Tang,7,2.5,NA,0,0,west_campus_7
+1041,cdc1a193-1cdb-4e9a-8d79-d4762ddb6d8d,1/24/19 0:00,west_campus,NA,Joanna Tang,7,0,re-entered from Hydro + YSI survey,0,0,west_campus_7
+75,554644d6-3242-48c2-883a-403fd54cb4cd,1/30/19 8:00,west_campus,NA,Jessica Nielsen,7,0,NA,-119.8745544,34.40942314,west_campus_7
+175,348ff84f-3299-4f45-a866-f74ce3441811,2/5/19 8:00,west_campus,NA,Jessica Nielsen,7,2.5,NA,-119.8768202,34.41125508,west_campus_7
+256,373921d3-8fc3-4b58-91b6-246d9470b97d,2/11/19 8:00,west_campus,NA,Jessica Nielsen,7,2,NA,-119.8743908,34.40945608,west_campus_7
+354,e5fd522c-2531-4db6-9a8a-3602885cc5cb,2/20/19 8:00,west_campus,NA,Jessica Nielsen,7,1.25,NA,-119.8746316,34.40991612,west_campus_7
+414,4e07e995-745b-4d47-911b-89af32a7094e,2/27/19 8:00,west_campus,NA,Kipp Callahan,7,0,NA,-119.8747745,34.41002529,west_campus_7
+489,6654bdfb-dc11-44ba-b592-ce766d9f4ef1,3/6/19 8:00,west_campus,NA,Jessica Nielsen,7,2.875,NA,-119.8744656,34.40962233,west_campus_7
+549,6cf702e7-730a-4ced-84c1-157c2614e7ec,3/13/19 7:00,west_campus,NA,Jessica Nielsen,7,0,"Water level is 0, but ground is completely saturated.",-119.8744929,34.4095612,west_campus_7
+15,5858d7fc-d9a0-4254-9058-620cf5ee0760,1/17/19 8:00,west_campus,NA,Joanna Tang,8,8,NA,-119.8454958,34.43978516,west_campus_8
+133,079d1b3c-8134-4c30-8db4-d91c35250780,1/18/19 0:00,west_campus,NA,Joanna Tang,8,8,NA,0,0,west_campus_8
+1043,25438528-0416-4aa2-89d7-dbeee33fb004,1/24/19 0:00,west_campus,NA,Joanna Tang,8,0,re-entered from Hydro + YSI survey,0,0,west_campus_8
+176,53a760c1-0cac-445a-9786-ee44f237f8af,2/5/19 8:00,west_campus,NA,Jessica Nielsen,8,9,NA,-119.8769158,34.4114273,west_campus_8
+177,48aab9c7-192b-4af2-aaf2-749c6a726b53,2/5/19 8:00,west_campus,NA,Jessica Nielsen,8,9,NA,-119.8767948,34.41152519,west_campus_8
+255,2b1afd20-52f7-465d-a19b-059d05ae9962,2/11/19 8:00,west_campus,NA,Jeasica Nielsen,8,6.875,NA,-119.8775409,34.40959514,west_campus_8
+353,84964a32-253a-4943-9888-1e79ea066f24,2/20/19 8:00,west_campus,NA,Jessica Nielsen,8,4,NA,-119.8768363,34.41136996,west_campus_8
+419,ba4aaddb-6e5d-4b06-bebe-91d8527367ca,2/27/19 8:00,west_campus,NA,Kipp Callahan,8,0,Ground surface at 5/8 in for ruler. Pool with no water,-119.8775772,34.40957463,west_campus_8
+492,f9eb51cd-0129-48b6-af22-cf3c7e7bd57f,3/6/19 8:00,west_campus,NA,Jessica Nielsen,8,11.25,NA,-119.8773842,34.40974174,west_campus_8
+552,05477515-337c-473f-97d2-fdfd256a94c5,3/13/19 7:00,west_campus,NA,Jessica Nielsen,8,4,NA,-119.8774076,34.40949008,west_campus_8
+621,2ccec6ba-7c23-4e73-ba37-4158b39a6650,3/20/19 7:00,west_campus,NA,Jessica Nielsen,8,0,"No water in vernal pool, but ground is completely saturated.",-119.8774815,34.40971543,west_campus_8
+14,db1c365e-8eee-419b-930c-93a1c321920a,1/17/19 8:00,west_campus,NA,Joanna Tang,9,8,NA,-119.8775386,34.40965423,west_campus_9
+134,c52b9d14-0074-40b6-819a-ff7d39f21550,1/18/19 0:00,west_campus,NA,Joanna Tang,9,8,NA,0,0,west_campus_9
+179,10117d76-4516-4db2-8960-4355ef658e7d,2/5/19 8:00,west_campus,NA,Jessica Nielsen,9,8.75,NA,-119.8767554,34.41132357,west_campus_9
+253,c71c26a4-cb79-4776-ac04-6b236187c5c7,2/11/19 8:00,west_campus,NA,Jessica Nielsen,9,8.375,NA,-119.8773769,34.40976973,west_campus_9
+351,a3c9f93e-740c-4d75-b484-5df13cd91d36,2/20/19 8:00,west_campus,NA,Jessica Nielsen,9,7.25,NA,-119.8768359,34.41137037,west_campus_9
+418,e7358297-3cf0-4857-be06-39f97bbb19d7,2/27/19 8:00,west_campus,NA,Kipp Callahan,9,5.625,NA,-119.8773206,34.40969093,west_campus_9
+493,cdd9d774-2187-4b89-8751-5bfe3ca2f088,3/6/19 8:00,west_campus,NA,Jessica Nielsen,9,9,NA,-119.8775612,34.41016551,west_campus_9
+553,ea3e433d-2894-4b0b-9be0-a2d626c6e2f6,3/13/19 7:00,west_campus,NA,Jessica Nielsen,9,6.875,NA,-119.8773911,34.40977054,west_campus_9
+622,677efeb2-e0ae-4cbb-86cd-16aae305fa79,3/20/19 7:00,west_campus,NA,Jessica Nielsen,9,5.25,NA,-119.8775474,34.41006549,west_campus_9
+680,c4a2bda8-45ec-49d7-a2bd-9d6cf6151ccb,3/26/19 7:00,west_campus,NA,Jessica Nielsen,9,3.75,NA,-119.8768175,34.41133733,west_campus_9
+783,051a78c8-6225-497a-8e0b-50f80299854f,4/2/19 7:00,west_campus,NA,Jessica Nielsen,9,1,NA,-119.8774966,34.40999609,west_campus_9
+851,37c81d11-918b-444e-803b-a5ad5d3e89ab,4/10/19 7:00,west_campus,NA,Jessica Nielsen,9,0,NA,-119.8774004,34.40979083,west_campus_9
+13,7e1f24b7-d4e5-4b93-b770-4976679642eb,1/17/19 8:00,west_campus,NA,Joanna Tang,10,8.75,NA,-119.8775586,34.41027944,west_campus_10
+135,10e14e3d-47fd-4c81-866f-bd28df5a8275,1/18/19 0:00,west_campus,NA,Joanna Tang,10,8.75,NA,0,0,west_campus_10
+180,a9e77910-5f5a-4b5c-93fd-b0ed6c692963,2/5/19 8:00,west_campus,NA,Jessica Nielsen,10,8.625,NA,-119.8768331,34.41133715,west_campus_10
+252,c14e5985-2262-4ef3-9544-f6cb25f5ce94,2/11/19 8:00,west_campus,NA,Jessica Nielsen,10,8.125,NA,-119.8773749,34.40972644,west_campus_10
+350,b5f338e9-f6ca-4a0b-b951-3c20120d5db1,2/20/19 8:00,west_campus,NA,Jessica Nielsen,10,6.875,NA,-119.876836,34.41137036,west_campus_10
+417,77d80d88-61e0-4264-b860-5f8f651e1601,2/27/19 8:00,west_campus,NA,Kipp Callahan,10,5,NA,-119.8776438,34.41016438,west_campus_10
+494,e08e66af-1a74-432a-a7ec-e5aa7a1c7764,3/6/19 8:00,west_campus,NA,Jessica Nielsen,10,9.125,NA,-119.8776354,34.41016386,west_campus_10
+554,a7480059-6aca-4514-b47c-6c44192e880f,3/13/19 7:00,west_campus,NA,Jessica Nielsen,10,6.25,NA,-119.8768441,34.41131091,west_campus_10
+623,bd9d3a04-09ba-4181-b289-af2e335e8b02,3/20/19 7:00,west_campus,NA,Jessica Nielsen,10,4.375,NA,-119.8776014,34.4102048,west_campus_10
+679,f7174ecd-5f29-4c21-adad-57319593f1f0,3/26/19 7:00,west_campus,NA,Jessica Nielsen,10,2.875,NA,-119.8768175,34.41133891,west_campus_10
+784,e643b208-824b-4c67-b1f0-994d8238b247,4/2/19 7:00,west_campus,NA,Jessica Nielsen,10,0,"no water in pool, but ground is saturated",-119.8769714,34.41133711,west_campus_10
+12,5aaa95e9-5dc9-4138-8afc-a58b6b69a4be,1/17/19 8:00,west_campus,NA,Joanna Tang,11,7,NA,-119.8781837,34.41008158,west_campus_11
+136,488ec6bf-c785-41ba-8d48-c962837c92fb,1/18/19 0:00,west_campus,NA,Joanna Tang,11,7,NA,0,0,west_campus_11
+181,cf3254fa-5603-4641-871f-bddb62acbfab,2/5/19 8:00,west_campus,NA,Jessica Nielsen,11,8.75,NA,-119.8768219,34.4113446,west_campus_11
+251,aa3ddccc-ab6c-47ed-90de-2d0c38e9893b,2/11/19 8:00,west_campus,NA,Jessica Nielsen,11,7.75,NA,-119.8782625,34.41007469,west_campus_11
+349,9a0c0f26-7778-479e-ab29-84e3eed9ea4d,2/20/19 8:00,west_campus,NA,Jessica Nielsen,11,6.75,NA,-119.876951,34.4113393,west_campus_11
+416,09f09f21-504c-43a8-b36b-de0e37e900fd,2/27/19 8:00,west_campus,NA,Kipp Callahan,11,4.6875,NA,-119.8780878,34.41001495,west_campus_11
+488,38b05fb8-4489-4066-a3f0-c2521c13a565,3/6/19 8:00,west_campus,NA,Jessica Nielsen,11,10,NA,-119.8782328,34.41006694,west_campus_11
+548,72377715-5564-4cda-bc34-5716e70a5ae8,3/13/19 7:00,west_campus,NA,Jessica Nielsen,11,6.25,NA,-119.8782163,34.41009539,west_campus_11
+624,e2ed81e8-b0a8-461e-9351-6619bc1fa1ac,3/20/19 7:00,west_campus,NA,Jessica Nielsen,11,4.5,NA,-119.8782448,34.41015174,west_campus_11
+678,dfc9650f-401f-44fa-a18e-d139a2b9e9ad,3/26/19 7:00,west_campus,NA,Jessica Nielsen,11,3.5,NA,-119.8768176,34.4113388,west_campus_11
+780,89cd85c6-a572-420c-b3c4-2d0c20c2ab05,4/2/19 7:00,west_campus,NA,Jessica Nielsen11,11,1.25,NA,-119.8783249,34.40994994,west_campus_11
+849,50347c6e-d838-4d49-80a6-db27dc09f1c8,4/10/19 7:00,west_campus,NA,Jessica Nielsen,11,0,NA,-119.8776044,34.41020611,west_campus_11
+11,311760b9-4e99-4146-a0e5-cd079d883723,1/17/19 8:00,west_campus,NA,Joanna Tang,13,8,NA,-119.8803322,34.42029155,west_campus_13
+137,e01433f8-77f1-4461-82de-47cd3bb17a3a,1/18/19 0:00,west_campus,NA,Joanna Tang,13,8,NA,0,0,west_campus_13
+1042,14ba7118-6882-4e23-8630-56b91c2c460e,1/24/19 0:00,west_campus,NA,Joanna Tang,13,2,re-entered from Hydro + YSI survey,0,0,west_campus_13
+178,0e99a8d9-e2c0-49ee-ace7-a422f51fb1bd,2/5/19 8:00,west_campus,NA,Jessica Nielsen,13,6.375,NA,-119.8768583,34.41141658,west_campus_13
+254,db38f0ad-21d6-40db-934b-98ee9c0cac58,2/11/19 8:00,west_campus,NA,Jessica Nielsen,13,5,NA,-119.8779116,34.40950627,west_campus_13
+352,723e1f29-ef6d-4d23-9e61-00a92d90835c,2/20/19 8:00,west_campus,NA,Jessica Nielsen,13,3.875,NA,-119.876951,34.4113393,west_campus_13
+420,fc751ba1-ab7d-465f-9635-10fb6e9fb731,2/27/19 8:00,west_campus,NA,Kipp Callahan,13,0.375,NA,-119.8779081,34.40957296,west_campus_13
+491,bac2dcf4-9d2b-4d03-8cd3-da997e658325,3/6/19 8:00,west_campus,NA,Jessica Nielsen,13,9.25,NA,-119.8776057,34.40955505,west_campus_13
+551,92339aa8-60fb-4493-8a00-05d2bc6083cc,3/13/19 7:00,west_campus,NA,Jessica Nielsen,13,4.25,NA,-119.8775656,34.40954997,west_campus_13
+620,ba3acc6f-7057-4872-8378-f377502b6717,3/20/19 7:00,west_campus,NA,Jessica Nielsen,13,1.25,NA,-119.8775502,34.4095548,west_campus_13
+681,4c95dc73-53f4-4697-9881-faa1f45cfa8e,3/26/19 7:00,west_campus,NA,Jessica Nielsen,13,0,NA,-119.8768176,34.4113362,west_campus_13

@@ -1,0 +1,197 @@
+---
+title: "Vernal Pool Data Visualization"
+---
+
+```{r}
+knitr::opts_chunk$set(message = FALSE, warning = FALSE)
+```
+
+```{r}
+library(here)
+library(tidyverse)
+library(sf)
+library(janitor)
+# library(tidylog)
+library(tmap)
+library(plotly)
+
+
+
+source("water-year-fun.R")
+```
+
+## Read in Data
+```{r}
+# NOTE: not new hydro data yet
+hydro <- read_csv("~/MEDS/Courses/folder/vernal-shiny-dashboard/shinydashboard/data/hydro_data.csv") %>% 
+  mutate(date = mdy_hm(date),
+         date = as.Date(date)) %>% 
+  mutate(water_year = water_year(date))
+
+# cleaning percent cover labels for images
+percent_cover <- read_csv("~/MEDS/Courses/folder/vernal-shiny-dashboard/shinydashboard/data/percent_cover_data.csv") %>% 
+  mutate(type = case_when(type == "nonnative" ~ "Non-Native",
+                          type == "native" ~ "Native",
+                          type == "unknown" ~ "Unknown",
+                          type == "other" ~ "Other"))
+
+percent_cover$species <- gsub("_", " ", percent_cover$species)
+
+## NOTE: Abiotic df will be used for first level pop-ups, not visualizations
+#abiotic <- read_csv(here("dashboard_data", "pc_abiotic_data.csv"))
+
+```
+
+## Water Level
+```{r}
+hydro %>% 
+  
+  # filters for selectionxa
+  filter(location_pool_id == "ncos_1" & water_year == 2019) %>% 
+  
+  ggplot(aes(x = date, y = water_level_in)) +
+  geom_line(col = "dodgerblue", linewidth = 1) +
+  # geom_point(col = "dodgerblue") +
+  scale_x_date(date_breaks = "2 weeks", date_labels = "%m-%d") + 
+  labs(x = "Date", 
+       y = "Water Level (in)", 
+       title = "Weekly Water Level",
+       caption = paste0("Water Year: ", unique(hydro$water_year),
+                        "\nPool ID: ", unique(hydro$location_pool_id))) +
+  theme_classic() +
+  theme(plot.title = element_text(size = 16, hjust = 0.5, vjust = 1.5))
+
+
+```
+
+## Plant Species Abundance
+```{r}
+species_abdundance <- percent_cover %>% 
+  
+  # calculate percent cover sums
+  group_by(species, location_pool_id, type) %>% 
+  summarise(percent_cover = sum(percent_cover, na.rm = TRUE)) %>% 
+  
+  # filter for app
+  filter(location_pool_id == "west_campus_4" & complete.cases(species) & species != "unlisted")
+
+species_abdundance %>% 
+  ggplot(aes(reorder(species, percent_cover), percent_cover, fill = type)) +
+  geom_col() +
+  geom_text(aes(label = percent_cover), size = 3, hjust = -0.2) +
+  scale_fill_manual(values = c("Native" = "#6B8E23",
+                               "Non-Native" = "#D2691E",
+                               # drop unknown and other
+                               "Unknown" = "gray40",
+                               "Other" = "gray50")) +
+  labs(y = "Percent Cover", 
+       x = "Species",
+       title = "Vegetation Abundance by Species",
+       fill = "Type",
+       caption = paste0("Location-Pool ID: ", unique(species_abdundance$location_pool_id))) +
+  theme_minimal() +
+  theme(plot.title = element_text(size = 16, hjust = 0.5, vjust = 1)) +
+  expand_limits(y = max(species_abdundance$percent_cover) + 4) +
+  coord_flip()
+
+```
+
+
+## Plant Species Cover
+```{r}
+# create subset
+percent_cover_clean <- percent_cover %>% 
+  filter(location_pool_id == "ncos_1" & transect_axis == "minor")
+
+# Sum_of_native_cover_automatically_calculated on y axis, transect_distance_of_quadrat on x axis
+ggplot(percent_cover_clean,
+       aes(transect_distance_of_quadrat, sum_of_native_cover_automatically_calculated)) +
+  geom_point() +
+  geom_smooth(se = FALSE, method = "lm", 
+              formula = y ~ poly(x, 2)) +
+  theme_minimal() +
+  labs(x = "Transect Distance of Quadrat",
+       y = "Sum of Native Cover",
+       caption = paste0("Location-Pool ID: ", unique(percent_cover_clean$location_pool_id),
+                        "\nQuadrat: ", unique(percent_cover_clean$transect_axis)))
+
+# Count_of_native_species_automatically_calculated on y, transect_distance_of_quadrat on x
+ggplot(percent_cover_clean,
+       aes(transect_distance_of_quadrat, count_of_native_species_automatically_calculated)) +
+  geom_point() +
+  geom_smooth(se = FALSE, method = "lm",
+              formula = y ~ poly(x, 2)) +
+  theme_minimal() +
+  labs(x = "Transect Distance of Quadrat",
+       y = "Count of Native Species",
+       caption = paste0("Location-Pool ID: ", unique(percent_cover_clean$location_pool_id),
+                        "\nQuadrat: ", unique(percent_cover_clean$transect_axis)))
+
+# Sum_of_non_native_cover_automatically_calculated on y axis, transect_distance_of_quadrat on x axis
+ggplot(percent_cover_clean,
+       aes(transect_distance_of_quadrat, sum_of_non_native_cover_automatically_calculated)) +
+  geom_point() +
+  geom_smooth(se = FALSE, method = "lm",
+              formula = y ~ poly(x, 2)) +
+  theme_minimal() +
+  labs(x = "Transect Distance of Quadrat",
+       y = "Sum of Non-Native Cover",
+       caption = paste0("Location-Pool ID: ", unique(percent_cover_clean$location_pool_id),
+                        "\nQuadrat: ", unique(percent_cover_clean$transect_axis)))
+
+#Count_of_non_native_species_automatically_calculated on y, transect_distance_of_quadrat on x
+ggplot(percent_cover_clean,
+       aes(transect_distance_of_quadrat, count_of_non_native_species_automatically_calculated)) +
+  geom_point() +
+  geom_smooth(se = FALSE, method = "lm",
+              formula = y ~ poly(x,2)) +
+  theme_minimal() +
+  labs(x = "Transect Distance of Quadrat",
+       y = "Count of Non-Native Species",
+       caption = paste0("Location-Pool ID: ", unique(percent_cover_clean$location_pool_id),
+                        "\nQuadrat: ", unique(percent_cover_clean$transect_axis)))
+
+# percent_thatch on y, transect_distance_of_quadrat on x
+ggplot(percent_cover_clean,
+       aes(transect_distance_of_quadrat, percent_thatch)) +
+  geom_point() +
+  geom_smooth(se = FALSE, method = "lm",
+              formula = y ~ poly(x,2)) +
+  theme_minimal() +
+  labs(x = "Transect Distance of Quadrat",
+       y = "Percent Thatch",
+       caption = paste0("Location-Pool ID: ", unique(percent_cover_clean$location_pool_id),
+                        "\nQuadrat: ", unique(percent_cover_clean$transect_axis)))
+
+# percemt_bare_ground on y, transect_distance_of_quadrat on x
+ggplot(percent_cover_clean,
+       aes(transect_distance_of_quadrat, percent_bare_ground)) +
+  geom_point() +
+  geom_smooth(se = FALSE, method = "lm",
+              formula = y ~ poly(x,2)) +
+  theme_minimal() +
+  labs(x = "Transect Distance of Quadrat",
+       y = "Percent Bare Ground",
+       caption = paste0("Location-Pool ID: ", unique(percent_cover_clean$location_pool_id),
+                        "\nQuadrat: ", unique(percent_cover_clean$transect_axis)))
+
+# Of each species: percent_cover on y, transect_distance_of_quadrat on x (should be able to toggle by species and by transect axis)
+subset <- percent_cover_clean %>% filter(species == "Eleocharis macrostachya")
+subset$species <- gsub("_", " ", subset$species)
+
+
+subset %>% 
+  ggplot(aes(transect_distance_of_quadrat, percent_cover)) +
+  geom_point() +
+  geom_smooth(se = FALSE, method = "lm",
+              formula = y ~ poly(x,2)) +
+  labs(x = "Transect Distance of Quadrat",
+       y = "Percent Cover",
+       title = paste0("Percent Cover, ", unique(subset$species)),
+       caption = paste0("Location-Pool ID: ", unique(percent_cover_clean$location_pool_id),
+                        "\nQuadrat: ", unique(percent_cover_clean$transect_axis))) +
+  theme_minimal() +
+  theme(plot.title = element_text(hjust = 0.5))
+```
+
+

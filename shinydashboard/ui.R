@@ -46,7 +46,9 @@ body <- dashboardBody(
     tags$link(rel = "stylesheet", type = "text/css", href = "sass-styles.css"),
     tags$script(src = "https://kit.fontawesome.com/b7f4c476ba.js")),
   
-  #START  TABS ......................................
+  # %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  #                                 WELCOME TAB
+  # %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  
   tabItems(
     tabItem( tabName = "welcome",
              fluidRow(
@@ -71,7 +73,9 @@ body <- dashboardBody(
              )
     ),
   
-  # START DASHBOARD TAB PAGE--------------------
+  # %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  #                                 MAP DASHBOARD TAB
+  # %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%                  
   tabItem(tabName = "dashboard",
           
           fluidRow( #vernal dashboard button customization
@@ -79,17 +83,12 @@ body <- dashboardBody(
                 title = strong("Vernal Pool Interactive Map"),
                 fluidRow(
                   column(width = 4,
-                         selectizeInput("pool_id_select", "Select Pool ID(s):",
-                                        choices = unique(vernal_polygon$Pool_ID),
+                         selectizeInput("location_pool_id_select", "Select Location-Pool ID(s):",
+                                        choices = unique(vernal_polygon_abiotic$location_pool_id),
                                         multiple = TRUE)
                   ),
                   column(width = 4,
-                         selectizeInput("location_select", "Select Location(s):",
-                                        choices = unique(vernal_polygon$Location),
-                                        multiple = TRUE)
-                  ),
-                  column(width = 4,
-                         selectizeInput("pool_size_select", "Select Pool Size(Acres):",
+                         selectizeInput("location_pool_size_select", "Select Location-Pool Size(Acres):",
                                         choices = c("All", "Greater than 1", "Less than or equal to 1"),
                                         selected = "All")
                   )
@@ -119,19 +118,43 @@ body <- dashboardBody(
           ), # END DASHBOARD TAB PAGE------------
   
   
-  # START DATAVIZ TAB PAGE 
+  # %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  #                                 DATAVIZ TAB
+  # %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  
   tabItem(tabName = "dataviz",
-          fluidRow( #dataviz button customization
+          fluidRow(
             box(width = 12,
-                title = strong("Vernal Pool Calculations"),
+                title = strong("Vernal Pool Data Visualization"),
                 fluidRow(
-                  column(width = 4,
-                         selectizeInput("species_select", "Select Species:",
-                                        choices = c("species 1", "species 2"),
-                                        multiple = TRUE))
-                ))
+                  column(width = 3,
+                         selectizeInput("viz_location_pool_id", "Select Location-Pool ID:",
+                                        choices = unique(c(hydro$location_pool_id, percent_cover$location_pool_id)),
+                                        multiple = FALSE)
+                  ),
+                  column(width = 3,
+                         selectizeInput("viz_water_year", "Select Water Year:",
+                                        choices = unique(hydro$water_year),
+                                        multiple = FALSE)
+                  ),
+                  column(width = 3,
+                         selectizeInput("viz_species", "Select Species:",
+                                        choices = unique(percent_cover$species),
+                                        multiple = FALSE)
+                  ),
+                  column(width = 3,
+                         selectizeInput("viz_plot_type", "Select Plot Type:",
+                                        choices = c("Water Level", "Species Abundance", "Native Cover", "Non-Native Cover", "Species Cover"),
+                                        multiple = FALSE)
+                  )
+                )
+            )
+          ),
+          fluidRow(
+            box(width = 12,
+                plotlyOutput("viz_plot")
+            )
           )
-          )
+  )
   
   ) #END DASHBOARD TABS .......................................
   
