@@ -1,36 +1,3 @@
-# Library Packages#
-library(shiny)
-library(shinydashboard)
-library(tidyverse)
-library(shinycssloaders)
-library(leaflet)
-library(shinyWidgets)
-library(leaflet.extras)
-library(googleway)
-library(htmlwidgets)
-library(htmltools)
-library(fontawesome)
-library(sass)
-library(sf)
-library(here)
-library(plotly)
-library(lubridate)
-library(tidylog)
-library(janitor)
-library(snakecase)
-library(BAMMtools)  # for getJenksBreaks function
-
-source("~/MEDS/Courses/folder/vernal-shiny-dashboard/scratch/water-year-fun.R")
-
-# COMPILE CSS ----
-sass(
-  input = sass_file("~/MEDS/Courses/folder/vernal-shiny-dashboard/shinydashboard/www/sass-styles.scss"),
-  output = "~/MEDS/Courses/folder/vernal-shiny-dashboard/shinydashboard/www/sass-styles.css",
-  options = sass_options(output_style = "compressed") # OPTIONAL, but speeds up page load time by removing white-space & line-breaks that make css files more human-readable
-)
-
-#====== Global Options ==============
-
 vernal_polygon <- st_read("~/MEDS/Courses/folder/vernal-shiny-dashboard/shinydashboard/data/VernalPools_Monitored2019.shp") %>% 
   st_transform(4326) %>% 
   clean_names() %>% 
@@ -59,10 +26,13 @@ vernal_polygon <- st_read("~/MEDS/Courses/folder/vernal-shiny-dashboard/shinydas
   mutate(location_pool_id = paste(location, pool_id, sep = "_")) %>%
   mutate(location_pool_id = str_replace_all(location_pool_id, ' ', '_')) %>%
   select(-global_id)
-  
-#hydro
-hydro <- read_csv("~/MEDS/Courses/folder/vernal-shiny-dashboard/shinydashboard/data/hydro_data.csv") %>%
-  mutate(year = year(water_year))
+
+
+# NOTE: not new hydro data yet
+hydro <- read_csv("~/MEDS/Courses/folder/vernal-shiny-dashboard/shinydashboard/data/hydro_data.csv") %>% 
+  mutate(date = mdy_hm(date),
+         date = as.Date(date)) %>% 
+  mutate(water_year = water_year(date))
 
 # cleaning percent cover labels for images
 percent_cover <- read_csv("~/MEDS/Courses/folder/vernal-shiny-dashboard/shinydashboard/data/percent_cover_data.csv") %>% 
@@ -75,7 +45,9 @@ percent_cover <- read_csv("~/MEDS/Courses/folder/vernal-shiny-dashboard/shinydas
 
 percent_cover$species <- gsub("_", " ", percent_cover$species)
 
+write_csv(hydro, "~/MEDS/Courses/folder/vernal-shiny-dashboard/shinydashboard/data/hydro_data.csv", append = FALSE )
 
+write_csv(percent_cover, "~/MEDS/Courses/folder/vernal-shiny-dashboard/shinydashboard/data/percent_cover_data.csv", append = FALSE)
 
 # abiotic data
 abiotic <- read_csv("~/MEDS/Courses/folder/vernal-shiny-dashboard/shinydashboard/data/pc_abiotic_data.csv") %>% 
@@ -100,16 +72,8 @@ vernal_polygon_abiotic <- vernal_polygon_abiotic %>%
          year = year(gps_date),
          research_conducted_status = ifelse(is.na(site_area_m2), "Non-Active Monitoring", "Active Monitoring")) %>% 
   mutate(year = case_when(year == 1899 ~ 2020,
-                           TRUE ~ 2019))
-
-jenks_breaks <- getJenksBreaks(vernal_polygon_abiotic$pool_area_m2, k = 5)  # Adjust k for desired number of categories
-
-# Create labels for the intervals
-jenks_labels <- paste(
-  round(jenks_breaks[-length(jenks_breaks)], 2),
-  "-",
-  round(jenks_breaks[-1], 2),
-  "sq m"
-)
+                          TRUE ~ 2019))
 
 
+st_write(vernal_polygon_abiotic, "~/MEDS/Courses/folder/vernal-shiny-dashboard/shinydashboard/data/vernal_polygon_abiotic.shp",
+         append = FALSE)

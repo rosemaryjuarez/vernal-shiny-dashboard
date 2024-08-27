@@ -4,19 +4,50 @@
 
 
 
-Welcome to the Santa Barbara Vernal Pool dashboard. The purpose of this dashboard is to provide an interactive map of Vernal pools within the Santa Barbara region, and provide general characteristics on each pool. Additionally, each pool also provides data visualization and statistics. 
+Welcome to the Santa Barbara Vernal Pool dashboard. The purpose of this dashboard is to provide an interactive map of Vernal pools within the Santa Barbara region, and provide general characteristics on each pool. Additionally, each pool also provides data visualization and statistics. All primary research and efforts come from Joanna Tang and managed by UCSB's Cheadle Center for Biodiversity & Ecological Restoration.
 
 
-### Background
+Project Manager and Rearcher: Joanna Tang, PhD
+- [Bren Website](https://veglab.eemb.ucsb.edu/people/joanna-tang)
+- email: joannatang(at)ucsb(dot)edu
 
 
-The Vernal pools in the Santa Barbara Region emcompasses approximately 70 Vernal Pools. These Pools are mostly located in the Goleta area, West from UC Santa Barbara Campus. One other Vernal pool is located in the Mesa area between Goleta and Santa Barbara. The range of information provided by each vernal pool consists of:
+#### **Dashboard Features:**
 
-  - Pool Depth (cm)
-  - Pool Area (m)
-  - Pool Circumference(ft)
-  - Site Area(m)
-  - month and year
-  
-Month and year are of high interest, as there are three phases for vernal pools. However our data only fully covers the year 2019 and a portion of 2020.
+**Interactive Vernal Pool Map:**
 
+Visualize the locations of vernal pools in the Santa Barbara region
+
+Select specific Location-Pool IDs to focus on particular pools
+
+Filter pools by size (units)
+
+Choose specific months and years for temporal analysis
+
+Comprehensive Pool Information:
+Access key data for each pool, including:
+
+- Pool Depth (cm)
+- Pool Area (m²)
+- Pool Circumference (ft)
+- Site Area (m²)
+- Edge Distance Max
+- Restoration Year
+- Time Since Restoration
+- Period of Data Collection
+
+
+**Data Visualization Tools:**
+
+Select a specific Location-Pool ID for detailed analysis
+
+Choose a water year for temporal comparisons
+
+Pick individual plant species for focused study
+
+Generate various types of plots:
+- Water Level: Track changes in pool depth over time
+- Species Abundance: Compare the prevalence of different plant species
+- Native Cover: Analyze the extent of native plant coverage
+- Non-Native Cover: Examine the spread of non-native plant species
+- Species Cover: Study the distribution of a specific plant species
